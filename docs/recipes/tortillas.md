@@ -4,7 +4,7 @@ title: Thin, Soft, No-knead Tortillas
 
 # No-knead Tortillas
 
-Super easy, no-knead tortillas that can be ready in as little as 1 hour with minimal prep. Rolling is the only task that requires some attention, but the soft dough makes it very manageable. Use the [KitchenRatio Calculator](https://bread.ckohl.com) to scale to any batch.
+Super easy, no-knead tortillas that can be ready in as little as 1 hour with minimal prep. Rolling is the only task that requires some attention, but the soft dough makes it very manageable. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale to any batch.
 
 ## Background
 
@@ -45,17 +45,14 @@ I prefer lard, but any neutral fat works.
 - Cover and refrigerate for at least 30 minutes.
 
 ### 3. Roll
-- Remove from refigeration after at least 30 minutes.
-- Preheat cast iron skillet on medium to high heat on the stove.
-- Roll each ball in a bowl of flour, then smash flat with your hand.
-- Sprinkle flour on the counter, roll each flattened ball as thin as you can get them. You should be able to get them almost paper thin and be able to see through them. Rotate and flip as needed to keep them round, and prevent them from sticking to the counter or the rolling pin.
-- You should be able to stack these up, as long as they aren't too sticky or your kitchen isn't too humid.
+- Preheat a cast iron skillet over medium-high heat.  
+- Lightly flour the counter and rolling pin.  
+- Flatten each dough ball by hand after rolling in flour, then roll as thin as possible, rotating and flipping to maintain roundness.  
+- Keep tortillas from sticking by lightly flouring as needed. Stack carefully without sticking.
 
 ### 4. Cook
-- Place indivdual tortillas in the cast iron pan and cook.
-- Cook for about 15-30 seconds, then flip and repeat twice for each side. Just get a kiss of brown on each side, don't overcook.
-- Place on a plate or a pan when done and cover with foil or a kitchen towel. (Tortillas will soften up and finish cooking with the residual heat.)
+- Dust excess flour then place indivdual tortillas in the cast iron pan and cook.
+- Cook for about 15-30 seconds, then flip and cooking twice on each side. Just get a kiss of brown on each side, don't overcook.
+- Remove to a plate and cover with foil or a kitchen towel.  
 - When all of the tortillas are finished flip the entire stack over to prevent the bottom tortilla from getting soggy.
 - Leave these covered for 10-15 minutes before enjoying.
-
----

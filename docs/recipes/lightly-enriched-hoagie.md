@@ -4,7 +4,7 @@ title: Lightly Enriched Hoagie Rolls
 
 # Lightly Enriched Hoagie Rolls
 
-A soft, lightly enriched dough perfect for hoagies, cheesesteaks, and sandwiches. No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://bread.ckohl.com) to scale to any batch.
+A soft, lightly enriched dough perfect for hoagies, cheesesteaks, and sandwiches. No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale to any batch.
 
 ## Ingredients (Example Batch)
 - **Flour** — 500g (100%)  
