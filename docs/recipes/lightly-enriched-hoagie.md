@@ -1,0 +1,39 @@
+---
+title: Lightly Enriched Hoagie Rolls
+---
+
+# Lightly Enriched Hoagie Rolls
+
+A soft, lightly enriched dough perfect for hoagies, cheesesteaks, and sandwiches. No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://bread.ckohl.com) to scale to any batch.
+
+## Ingredients (Example Batch)
+- **Flour** — 500g (100%)  
+- **Water** — 340g (68%)  
+- **Yeast** — 5g (1%)  
+- **Salt** — 10g (2%)  
+- **Sugar** — 10g (2%)  
+- **Olive oil** — 15g (3%)  
+
+---
+
+## Procedure
+
+### 1. Mixing
+- Combine ingredients until a rough dough forms.
+
+### 2. Bulk Fermentation (Cold)
+- Refrigerate **12–18 hours**.
+- Perform **2–3 folds every 30 minutes** in the first 1–1.5 hours.
+
+### 3. Pre-Shape
+- Turn dough out and divide into portions.  
+- Pre-shape into rounds; rest **20–30 minutes**.
+
+### 4. Final Shape
+- Shape into hoagie rolls or sandwich buns.
+
+### 5. Proofing
+- Allow to rise at room temp until puffy.
+
+### 6. Baking
+- Bake at **425°F (220°C)** for **20–25 minutes** until lightly golden.
