@@ -18,4 +18,4 @@ Bake delicious, reliable breads using baker’s percentages and the KitchenRatio
 
 ---
 
-More recipes coming soon — each designed to work beautifully with the calculator.
+More recipes coming soon - each designed to work beautifully with the calculator.
