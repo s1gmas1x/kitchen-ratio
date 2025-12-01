@@ -51,7 +51,7 @@ I prefer lard, but any neutral fat works.
 - Sprinkle flour on the counter, roll each flattened ball as thin as you can get them. You should be able to get them almost paper thin and be able to see through them. Rotate and flip as needed to keep them round, and prevent them from sticking to the counter or the rolling pin.
 - You should be able to stack these up, as long as they aren't too sticky or your kitchen isn't too humid.
 
-### Cook
+### 4. Cook
 - Place indivdual tortillas in the cast iron pan and cook.
 - Cook for about 15-30 seconds, then flip and repeat twice for each side. Just get a kiss of brown on each side, don't overcook.
 - Place on a plate or a pan when done and cover with foil or a kitchen towel. (Tortillas will soften up and finish cooking with the residual heat.)
