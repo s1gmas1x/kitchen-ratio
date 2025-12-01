@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: "Try the Calculator"
-      link: "https://bread.ckohl.com"
+      link: "https://calculator.kitchenratio.com"
       target: "_blank"
     - theme: alt
       text: "Browse Guides"
