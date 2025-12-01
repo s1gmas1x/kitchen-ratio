@@ -4,7 +4,7 @@ title: Colorado Style Pizza Dough (Fargo's Pizza Co. Inspired)
 
 # Colorado Style Pizza Dough
 
-A cold-fermented dough inspired by the original Fargo’s Pizza Co. recipe. This version develops a malty depth of flavor and a tender, crisp crust. It’s optimized for home baking while staying true to the original style. Use the [KitchenRatio Calculator](https://bread.ckohl.com) to scale to any batch size.
+A cold-fermented dough inspired by the original Fargo’s Pizza Co. recipe. This version develops a malty depth of flavor and a tender, crisp crust. It’s optimized for home baking while staying true to the original style. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale to any batch size.
 
 ## Background
 

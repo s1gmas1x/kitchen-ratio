@@ -11,7 +11,7 @@ export default defineConfig({
       { text: 'Recipes', link: '/recipes/' },
       {
         text: 'Calculator',
-        link: 'https://bread.ckohl.com',
+        link: 'https://calculator.kitchenratio.com',
         target: '_blank',
         rel: 'noopener noreferrer'
       }
