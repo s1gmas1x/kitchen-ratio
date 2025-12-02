@@ -2,13 +2,15 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'KitchenRatio',
-  description: 'Recipes, guides, and baker’s percentages — bake smarter with KitchenRatio.',
+  description: 'Recipes, guides, and baker’s percentages - bake smarter with KitchenRatio.',
 
   sitemap: {
     hostname: 'https://kitchenratio.com'
   },
 
   themeConfig: {
+    logo: '/logo2darktrans.svg',
+    darkLogo: '/logo2lighttrans.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'How-To Guides', link: '/guides/' },
