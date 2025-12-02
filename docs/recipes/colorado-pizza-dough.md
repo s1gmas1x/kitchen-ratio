@@ -30,7 +30,7 @@ If you drop it **below 65%**, I recommend kneading for **8–10 minutes** after 
 - **Light malt powder** - 5g (~1%)
 
 ::: info
-This batch makes **three 11-inch (“Medium”) pizzas**.
+This batch makes **two to three 11-inch (“Medium”) pizzas** depending on how thick you make the crust.
 
 The low yeast percentage (0.3%) slows fermentation during the long cold rise -  
 **24 hours bulk fermentation**, followed by **24–48 hours cold proofing**.

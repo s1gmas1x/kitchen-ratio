@@ -4,6 +4,10 @@ export default defineConfig({
   title: 'KitchenRatio',
   description: 'Recipes, guides, and baker’s percentages — bake smarter with KitchenRatio.',
 
+  sitemap: {
+    hostname: 'https://kitchenratio.com'
+  },
+
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

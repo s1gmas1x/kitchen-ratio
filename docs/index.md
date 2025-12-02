@@ -19,9 +19,9 @@ hero:
 
 features:
   - title: "Baker's Percentages Made Simple"
-    details: "Understand hydration and ingredient ratios for consistent results. Quick reference for recipes instead of reading long recipe blogs, or watching long videos"
+    details: "Understand hydration and ingredient ratios for consistent results. Quick reference for recipes instead of reading long recipe blogs, or watching long videos."
   - title: "Step-by-Step Guides"
     details: "Follow our recipes and tutorials for breads, pizza, flatbreads, and more."
   - title: "Quick Access Calculator"
-    details: "Calculate dough hydration and ratios in seconds. Explore and easily adjust recipes"
+    details: "Calculate dough hydration and ratios in seconds. Explore and easily adjust recipes."
 ---

@@ -16,10 +16,12 @@ For a dough with:
 - 500g flour  
 - 325g water  
 - 10g salt  
+- 5g yeast
 
 The baker's percentages are:
 
 - Water: 325 ÷ 500 × 100 = 65%  
 - Salt: 10 ÷ 500 × 100 = 2%  
+- Yeast 5 ÷ 500 × 100 = 1%
 
 Using baker's percentages allows scaling recipes easily and ensures consistent results.

@@ -6,6 +6,10 @@ title: Lightly Enriched Hoagie Rolls
 
 A soft, lightly enriched dough perfect for hoagies, cheesesteaks, and sandwiches. No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale to any batch.
 
+## Background
+
+I experimented with this recipe to make Philly cheesestake sandwiches, and they turned out amazing. This also works really well for other types of sandwhiches. 
+
 ## Ingredients (Example Batch)
 - **Flour** — 500g (100%)  
 - **Water** — 340g (68%)  
@@ -37,3 +41,7 @@ A soft, lightly enriched dough perfect for hoagies, cheesesteaks, and sandwiches
 
 ### 6. Baking
 - Bake at **425°F (220°C)** for **20–25 minutes** until lightly golden.
+
+### 7. Cooling
+- Brush with melted butter right after removing from the oven and cover with a kitchen towel.
+- Allow to cool fully.

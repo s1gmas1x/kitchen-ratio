@@ -44,3 +44,6 @@ A simple, no-knead baguette dough at 70% hydration. Use the [KitchenRatio Calcul
 ### 7. Baking
 - Preheat a Dutch oven (or baking stone/steel) to **475°F (245°C)**.
 - Bake covered for **20 minutes**, then uncover and bake **15–20 minutes** more until golden.
+
+### 8. Cooling
+- Allow to cool fully after removing from the oven. 
