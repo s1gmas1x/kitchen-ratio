@@ -47,10 +47,10 @@ body {
 }
 
 :root {
-  --vp-c-default-1: var(--vp-c-gray-1);
-  --vp-c-default-2: var(--vp-c-gray-2);
-  --vp-c-default-3: var(--vp-c-gray-3);
-  --vp-c-default-soft: var(--vp-c-gray-soft);
+  --vp-c-default-1: #e6ddd3;
+  --vp-c-default-2: #d9cfc2;
+  --vp-c-default-3: #cbbdad;
+  --vp-c-default-soft: rgba(235, 220, 205, 0.5);
 
   --vp-c-brand-1: #e68900; /* darkest, used for active states */
   --vp-c-brand-2: #f1a330; /* medium, used for hover states */
@@ -72,6 +72,12 @@ body {
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+}
+.dark {
+  --vp-c-default-1: #5c463c;
+  --vp-c-default-2: #6d5547;
+  --vp-c-default-3: #7e6659;
+  --vp-c-default-soft: rgba(125, 98, 82, 0.5);
 }
 
 /**
@@ -121,6 +127,75 @@ body {
     --vp-home-hero-image-filter: blur(68px);
   }
 }
+
+
+/* Light mode: soft cream backgrounds */
+:root {
+  --vp-c-bg: #fff8f0;       /* main background */
+  --vp-c-bg-alt: #fff3e6;   /* alt background (cards, code blocks) */
+  --vp-c-bg-elv: #fff8f0;   /* elevated elements */
+  --vp-c-bg-soft: #fff3e6;  /* subtle containers */
+}
+
+/* Dark mode: warmer dark background */
+.dark {
+  --vp-c-bg: #1f1b18;       /* warm dark instead of pure black */
+  --vp-c-bg-alt: #1a1614;   /* slightly lighter alt surfaces */
+  --vp-c-bg-elv: #24201d;   /* elevated elements */
+  --vp-c-bg-soft: #24201d;  /* subtle container backgrounds */
+}
+
+:root {
+  /* Brand button text color */
+  --vp-button-brand-text: #1f1b18; /* bright enough for contrast */
+
+
+}
+
+button.primary {
+  font-weight: 800;
+}
+
+/* Light mode subtle pattern */
+:root {
+  --vp-c-bg-pattern: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 200 200' stroke='%235a0c25' fill='none' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.15'><path fill='%23cbbdad' stroke='none' transform='translate(8,13)' d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.65'/><path d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.75'/></svg>");
+}
+
+/* Dark mode subtle pattern */
+.dark {
+  --vp-c-bg-pattern: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 200 200' stroke='%23e68900' fill='none' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.15'><path fill='%237e6659' stroke='none' transform='translate(8,13)' d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.45'/><path d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.75'/></svg>");
+}
+
+/* Apply pattern to body */
+body {
+  background-image: var(--vp-c-bg-pattern);
+  background-repeat: repeat;
+  background-size: 600px 600px;
+  background-attachment: fixed; /* optional */
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 600%;
+  height: 600%;
+  background-image: var(--vp-c-bg-pattern);
+  background-repeat: repeat;
+  opacity: 0.45;
+  pointer-events: none;
+  transform: rotate(90deg) scale(1.5);
+  z-index: -1;
+  animation: movePattern 15000s linear infinite;
+}
+
+@keyframes movePattern {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  100% { transform: translate(25px, 25px) rotate(360deg); }
+}
+
+
 
 /**
  * Component: Custom Block
