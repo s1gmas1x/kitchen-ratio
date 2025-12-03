@@ -40,7 +40,7 @@ I prefer lard, but any neutral fat works.
 - Transfer to a container, cover, and let rest at room temperature for 30 minutes.
 
 ### 2. Divide
-- Weigh the dough, then divide by desired portion size (45–47g yields ~12-inch tortillas).  
+- Weigh the dough, then divide by desired portion size (45–47g yields ~10-inch tortillas).  
 - Shape each portion into a small ball, tightening the surface against the counter, until the surface is smooth.  
 - Cover and refrigerate for at least 30 minutes.
 
