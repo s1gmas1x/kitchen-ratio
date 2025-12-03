@@ -133,7 +133,34 @@ body {
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
+/* Hide all dark-mode logos by default */
+.logo-dark {
+  display: none;
+}
 
+/* Show light-mode logos by default */
+.logo-light {
+  display: inline-block;
+}
+
+/* When dark mode is active, swap logos */
+.dark .logo-light {
+  display: none;
+}
+
+.dark .logo-dark {
+  display: inline-block;
+}
+
+/* Default logo (light mode) */
+.navbar-brand img {
+  content: url('/logo2lighttrans.svg');
+}
+
+/* Dark mode logo */
+html.dark .navbar-brand img {
+  content: url('/logo2darktrans.svg');
+}
 /**
  * Component: Algolia
  * -------------------------------------------------------------------------- */

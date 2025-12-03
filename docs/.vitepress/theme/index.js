@@ -1,6 +1,7 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
+import CookieBanner from './components/CookieBanner.vue'
 import './style.css'
 
 /** @type {import('vitepress').Theme} */
@@ -9,6 +10,7 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+'layout-bottom': () => h(CookieBanner)    
     })
   },
   enhanceApp({ app, router, siteData }) {

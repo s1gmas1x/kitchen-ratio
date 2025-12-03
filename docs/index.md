@@ -2,7 +2,10 @@
 layout: home
 
 hero:
-  name: '<img src="/logolighttrans.svg" alt="KitchenRatio" class="hero-logo" />'
+  name: <span class="hero-logo">
+      <img src="/logolighttrans.svg" class="logo-dark" alt="KitchenRatio" />
+      <img src="/logodarktrans.svg" class="logo-light" alt="KitchenRatio" />
+    </span>
   text: "Bake with Ratios, Not Recipes"
   tagline: "Master baker’s percentages, explore recipes, and improve your baking skills."
   actions:

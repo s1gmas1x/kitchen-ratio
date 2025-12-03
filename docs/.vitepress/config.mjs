@@ -5,19 +5,7 @@ export default defineConfig({
   description: 'Recipes, guides, and baker’s percentages - bake smarter with KitchenRatio.',
 
    head: [
-    // Google Analytics
-    [
-      'script',
-      { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-T4SQXKGZK8' }
-    ],
-    [
-      'script',
-      {},
-      `window.dataLayer = window.dataLayer || [];
-       function gtag(){dataLayer.push(arguments);}
-       gtag('js', new Date());
-       gtag('config', 'G-T4SQXKGZK8');`
-    ],
+   
 
     // Google Fonts
     [
@@ -36,7 +24,11 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/logo2darktrans.svg',
+    logo: {
+      light: '/logo2darktrans.svg', // shown in light mode
+      dark: '/logo2lighttrans.svg',   // shown in dark mode
+      alt: 'KitchenRatio'
+    },
     
     nav: [
       { text: 'Home', link: '/' },
