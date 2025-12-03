@@ -165,12 +165,12 @@ button.primary {
 
 /* Light mode subtle pattern */
 :root {
-  --vp-c-bg-pattern: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 200 200' stroke='%235a0c25' fill='none' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.15'><path fill='%23cbbdad' stroke='none' transform='translate(8,13)' d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.65'/><path d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.75'/></svg>");
+  --vp-c-bg-pattern: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 170 170' stroke='%235a0c25' fill='none' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.15'><path fill='%23cbbdad' stroke='none' transform='translate(8,13)' d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.65'/><path d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.75'/></svg>");
 }
 
 /* Dark mode subtle pattern */
 .dark {
-  --vp-c-bg-pattern: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 200 200' stroke='%23e68900' fill='none' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.15'><path fill='%237e6659' stroke='none' transform='translate(8,13)' d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.45'/><path d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.75'/></svg>");
+  --vp-c-bg-pattern: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 170 170' stroke='%23e68900' fill='none' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.15'><path fill='%237e6659' stroke='none' transform='translate(8,13)' d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.45'/><path d='M54.802 73.116 100.5 46.732l45.698 26.384v52.768L100.5 152.268l-45.698-26.384V73.116Z' opacity='0.75'/></svg>");
 }
 
 /* Apply pattern to body */
@@ -192,15 +192,16 @@ body::before {
   background-repeat: repeat;
   opacity: 0.55;
   pointer-events: none;
-  transform: rotate(90deg) scale(1.5);
+  transform: translate(0, 0) rotate(0deg) scale(1.3);
   z-index: -1;
   animation: movePattern 15000s linear infinite;
 }
 
 @keyframes movePattern {
-  0% { transform: translate(0, 0) rotate(0deg); }
-  100% { transform: translate(25px, 25px) rotate(360deg); }
+  0%   { transform: translate(0, 0) rotate(0deg) scale(1.3); }
+  100% { transform: translate(25px, 25px) rotate(360deg) scale(1.3); }
 }
+
 
 
 
