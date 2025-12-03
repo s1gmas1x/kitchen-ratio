@@ -52,9 +52,9 @@ body {
   --vp-c-default-3: #cbbdad;
   --vp-c-default-soft: rgba(235, 220, 205, 0.5);
 
-  --vp-c-brand-1: #e68900; /* darkest, used for active states */
-  --vp-c-brand-2: #f1a330; /* medium, used for hover states */
-  --vp-c-brand-3: #f99c1e; /* primary brand color, used for button bg */
+  --vp-c-brand-1: #a46200ff; /* darkest, used for active states */
+  --vp-c-brand-2: #ce7c01ff; /* medium, used for hover states */
+  --vp-c-brand-3: #ca7600ff; /* primary brand color, used for button bg */
   --vp-c-brand-soft: rgba(249, 156, 30, 0.1); /* subtle background or badge */
 
 
@@ -78,6 +78,12 @@ body {
   --vp-c-default-2: #6d5547;
   --vp-c-default-3: #7e6659;
   --vp-c-default-soft: rgba(125, 98, 82, 0.5);
+
+  --vp-c-brand-1: #e68900; /* darkest, used for active states */
+  --vp-c-brand-2: #f1a330; /* medium, used for hover states */
+  --vp-c-brand-3: #f99c1e; /* primary brand color, used for button bg */
+  --vp-c-brand-soft: rgba(249, 156, 30, 0.1); /* subtle background or badge */
+
 }
 
 /**
@@ -148,7 +154,8 @@ body {
 :root {
   /* Brand button text color */
   --vp-button-brand-text: #1f1b18; /* bright enough for contrast */
-
+  --vp-button-brand-hover-text: #1f1b18;
+  --vp-button-brand-active-text: #1f1b18;
 
 }
 
@@ -170,8 +177,8 @@ button.primary {
 body {
   background-image: var(--vp-c-bg-pattern);
   background-repeat: repeat;
-  background-size: 600px 600px;
-  background-attachment: fixed; /* optional */
+  background-size: 800px 800px;
+  background-attachment: fixed;
 }
 
 body::before {
@@ -183,7 +190,7 @@ body::before {
   height: 600%;
   background-image: var(--vp-c-bg-pattern);
   background-repeat: repeat;
-  opacity: 0.45;
+  opacity: 0.55;
   pointer-events: none;
   transform: rotate(90deg) scale(1.5);
   z-index: -1;
