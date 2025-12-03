@@ -1,7 +1,17 @@
 <script setup>
-import { ref, onMounted } from "vue";
-
+import { ref, onMounted, watch } from "vue";
+    
 const showBanner = ref(false);
+
+// disable scrolling when the banner is shown
+watch(showBanner, (isVisible) => {
+  if (isVisible) {
+    document.body.style.overflow = "hidden";
+  } else {
+    document.body.style.overflow = "";
+  }
+});
+
 
 function initializeGA() {
   if (window.gtag) return // already initialized
@@ -93,13 +103,16 @@ async function declineCookies() {
 .button-container {
   display: flex;
   gap: 0.75rem;
+  margin-left: 1rem;
 }
 
 .cookie-banner button {
     border-radius: 20px;
     padding: 0 20px;
     line-height: 38px;
-    font-size: 14px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
 }
 
 /* Brand button – matches VitePress 'brand' theme button */
