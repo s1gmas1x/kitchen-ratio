@@ -52,7 +52,8 @@ export default defineConfig({
           { text: 'Hydration', link: '/guides/hydration' },
           { text: 'Enrichment', link: '/guides/enrichment' },
           { text: 'Folding & Shaping', link: '/guides/folding-and-shaping' },
-          { text: 'Cold Fermentation', link: '/guides/cold-fermentation' }
+          { text: 'Cold Fermentation', link: '/guides/cold-fermentation' },
+          { text: 'Baking Gear & Ingredients', link: '/guides/baking-gear-and-ingredients' }
         ]
       },
 

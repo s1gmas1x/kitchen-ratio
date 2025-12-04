@@ -16,5 +16,8 @@ Choose a guide below to get started:
 - [Folding & Shaping](/guides/folding-and-shaping)
 - [Cold Fermentation](/guides/cold-fermentation)
 
+## Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
 ---
 Whether you're new to baking or refining your craft, these guides will help you understand the *why* behind the dough.
