@@ -17,5 +17,4 @@ Choose a guide below to get started:
 - [Cold Fermentation](/guides/cold-fermentation)
 
 ---
-
 Whether you're new to baking or refining your craft, these guides will help you understand the *why* behind the dough.

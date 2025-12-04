@@ -7,7 +7,7 @@ title: "Recipes"
 Bake delicious, reliable breads using baker’s percentages and the KitchenRatio method.
 
 ## Breads
-- [French Baguette](/recipes/french-baguette)
+- [French Bread](/recipes/french-bread)
 - [Lightly Enriched Hoagie](/recipes/lightly-enriched-hoagie)
 
 ## Pizza

@@ -1,5 +1,5 @@
 ---
-title: Thin, Soft, No-knead Tortillas
+title: No-knead Tortillas
 ---
 
 # No-knead Tortillas
@@ -47,7 +47,7 @@ I prefer lard, but any neutral fat works.
 ### 3. Roll
 - Preheat a cast iron skillet over medium-high heat.  
 - Lightly flour the counter and rolling pin.  
-- Flatten each dough ball by hand after rolling in flour, then roll as thin as possible, rotating and flipping to maintain roundness.  
+- Flatten each dough ball by hand after dusting with flour, then roll as thin as possible, rotating and flipping to maintain roundness.  
 - Keep tortillas from sticking by lightly flouring as needed. Stack carefully without sticking.
 
 ### 4. Cook

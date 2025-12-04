@@ -1,6 +1,6 @@
 ---
 layout: home
-
+footer: false
 hero:
   name: <span class="hero-logo">
       <img src="/logolighttrans.svg" class="logo-dark" alt="KitchenRatio" />
@@ -27,4 +27,5 @@ features:
     details: "Follow our recipes and tutorials for breads, pizza, flatbreads, and more."
   - title: "Quick Access Calculator"
     details: "Calculate dough hydration and ratios in seconds. Explore and easily adjust recipes."
+
 ---

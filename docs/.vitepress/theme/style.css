@@ -244,6 +244,8 @@ body::before {
 html.dark .navbar-brand img {
   content: url('/logo2darktrans.svg');
 }
+
+
 /**
  * Component: Algolia
  * -------------------------------------------------------------------------- */

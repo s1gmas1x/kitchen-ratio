@@ -61,7 +61,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Browse Recipes', link: '/recipes/' },
-          { text: 'French Baguette', link: '/recipes/french-baguette' },
+          { text: 'French Bread', link: '/recipes/french-bread' },
           { text: 'Lightly Enriched Hoagie', link: '/recipes/lightly-enriched-hoagie' },
           { text: 'Colorado Style Pizza', link: '/recipes/colorado-pizza-dough' },
           { text: 'No-Knead Tortillas', link: '/recipes/tortillas' }
@@ -82,6 +82,10 @@ export default defineConfig({
 
     socialLinks: [
       // Add when ready: { icon: 'github', link: 'https://github.com/yourusername/kitchenratio' }
-    ]
+    ],
+        footer: {
+      message: 'As an Amazon Associate I earn from qualifying purchases.',
+      copyright: '© 2025 KitchenRatio'
+    }
   }
 })
