@@ -4,9 +4,8 @@ export default defineConfig({
   title: 'KitchenRatio',
   description: 'Recipes, guides, and baker’s percentages - bake smarter with KitchenRatio.',
 
-   head: [
-   
-
+   head: [   
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     // Google Fonts
     [
       'link',
