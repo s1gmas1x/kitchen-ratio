@@ -4,7 +4,7 @@ title: "Recipes"
 
 # Recipes
 
-Bake delicious, reliable breads using baker’s percentages and the KitchenRatio method.
+Bake delicious, reliable breads using baker’s percentages and the KitchenRatio calculator.
 
 ## Breads
 - [French Bread](/recipes/french-bread)
@@ -15,6 +15,7 @@ Bake delicious, reliable breads using baker’s percentages and the KitchenRatio
 
 ## Flatbreads
 - [Tortillas](/recipes/tortillas)
+
 
 ---
 
