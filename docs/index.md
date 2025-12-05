@@ -1,4 +1,60 @@
 ---
+title: KitchenRatio
+description: Recipes, guides, and bakers percentages. Bake smarter with KitchenRatio.
+
+head:
+  - - meta
+    - name: description
+      content: Recipes, guides, and bakers percentages. Bake smarter with KitchenRatio.
+  - - meta
+    - property: og:title
+      content: KitchenRatio
+  - - meta
+    - property: og:description
+      content: Recipes, guides, and bakers percentages. Bake smarter with KitchenRatio.
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com
+  - - meta
+    - property: og:image
+      content: https://kitchenratio.com/images/android-chrome-512x512.png
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: KitchenRatio
+  - - meta
+    - name: twitter:description
+      content: Recipes, guides, and bakers percentages. Bake smarter with KitchenRatio.
+  - - meta
+    - name: twitter:image
+      content: https://kitchenratio.com/images/android-chrome-512x512.png
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com
+
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "url": "https://kitchenratio.com",
+          "name": "KitchenRatio",
+          "description": "Recipes, guides, and bakers percentages. Bake smarter with KitchenRatio.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://kitchenratio.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+
 layout: home
 footer: false
 hero:
