@@ -64,7 +64,7 @@ Wet your fingers or use a scraper:
 3. Rotate the bowl a quarter turn and repeat.  
 4. Continue until you’ve folded all four sides.
 
-No extra flour needed — damp hands prevent sticking.
+No extra flour needed, damp hands prevent sticking.
 
 ### **3. Repeat a Few Times**
 Repeat the folding every **20–30 minutes**, doing **2–4 rounds total**.  
