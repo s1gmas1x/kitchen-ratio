@@ -78,7 +78,7 @@ Once bulk fermentation is done (the dough has risen and feels airy):
 - Let it rest 15–30 minutes so the gluten can relax
 
 ### **5. Final Shape**
-Shape the dough into whatever you’re making a round loaf, long loaf, sandwich loaf, etc.  
+Shape the dough into whatever you’re making; a round loaf, long loaf, sandwich loaf, etc.  
 Be gentle so you keep the air inside.
 
 ### **6. Proof, Score, and Bake**
