@@ -51,7 +51,7 @@ In this system, hydration includes **all ingredients that contribute water**, no
 - Milk and cream  
 - **Eggs (about 75% water)**  
 - **Butter (about 18% water)**  
-- Other liquids with measurable water content
+- Other ingredients with measurable water content
 
 This gives a more accurate picture of how wet the dough truly is, especially in enriched breads.
 
@@ -82,4 +82,20 @@ Hydration influences:
 - Crust thickness
 
 Once you know hydration, you can compare recipes more clearly and predict how a dough will feel before you start mixing.
+
+## Example
+
+**Recipe:**  
+- Flour: 1000g  
+- Water: 600g  
+- Eggs: 150g (~113g water)  
+- Butter: 100g (~18g water)
+
+**Total water:** 600 + 113 + 18 = **731g**  
+**Hydration:** 731 ÷ 1000 = **73%**
+
+This recipe *feels* like a high-hydration dough even though a traditional baker’s calculation wouldn’t count the butter or eggs.
+
+Understanding functional hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or no-knead breads.
+
 Experiment with different hydration levels to find what works best for your baking style and the breads you love!
