@@ -20,7 +20,7 @@ head:
       content: https://kitchenratio.com
   - - meta
     - property: og:image
-      content: https://kitchenratio.com/images/logo.png
+      content: https://kitchenratio.com/logo.png
 
   - - meta
     - name: twitter:card
@@ -33,7 +33,7 @@ head:
       content: Recipes, guides, and bakers percentages. Bake smarter with KitchenRatio.
   - - meta
     - name: twitter:image
-      content: https://kitchenratio.com/images/logo.png
+      content: https://kitchenratio.com/logo.png
 
   - - link
     - rel: canonical
