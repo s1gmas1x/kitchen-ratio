@@ -49,7 +49,6 @@ In this system, hydration includes **all ingredients that contribute water**, no
 
 - Water  
 - Milk and cream  
-- Juice, tea, coffee, beer, wine  
 - **Eggs (about 75% water)**  
 - **Butter (about 18% water)**  
 - Other liquids with measurable water content
