@@ -1,5 +1,39 @@
 ---
 title: Lightly Enriched Hoagie Rolls
+description: Soft, no-knead hoagie rolls with 68% hydration, lightly enriched with oil and sugar for sandwiches and subs.
+
+head:
+  - - meta
+    - name: description
+      content: Soft, no-knead hoagie rolls with 68% hydration, lightly enriched with oil and sugar for sandwiches and subs.
+  - - meta
+    - property: og:title
+      content: Lightly Enriched Hoagie Rolls
+  - - meta
+    - property: og:description
+      content: Soft, no-knead hoagie rolls with 68% hydration, lightly enriched with oil and sugar for sandwiches and subs.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/recipes/lightly-enriched-hoagie.html
+
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: Lightly Enriched Hoagie Rolls
+  - - meta
+    - name: twitter:description
+      content: Soft, no-knead hoagie rolls with 68% hydration, lightly enriched with oil and sugar for sandwiches and subs.
+  
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/recipes/lightly-enriched-hoagie.html
 ---
 
 # Lightly Enriched Hoagie Rolls

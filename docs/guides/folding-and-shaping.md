@@ -1,5 +1,39 @@
 ---
 title: Folding & Shaping
+description: Techniques for folding and shaping dough to build structure, improve oven spring, and create consistent bread shapes.
+
+head:
+  - - meta
+    - name: description
+      content: Techniques for folding and shaping dough to build structure, improve oven spring, and create consistent bread shapes.
+  - - meta
+    - property: og:title
+      content: Folding & Shaping
+  - - meta
+    - property: og:description
+      content: Techniques for folding and shaping dough to build structure, improve oven spring, and create consistent bread shapes.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/guides/folding-and-shaping.html
+  
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: Folding & Shaping
+  - - meta
+    - name: twitter:description
+      content: Techniques for folding and shaping dough to build structure, improve oven spring, and create consistent bread shapes.
+  
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/guides/folding-and-shaping.html
 ---
 
 # Folding & Shaping

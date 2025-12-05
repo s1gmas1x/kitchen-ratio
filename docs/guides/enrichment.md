@@ -1,5 +1,39 @@
 ---
-title: Enriched Doughs
+title: Enrichment
+description: Learn how adding fat, sugar, eggs, and dairy affects dough texture, tenderness, and flavor in enriched breads.
+
+head:
+  - - meta
+    - name: description
+      content: Learn how adding fat, sugar, eggs, and dairy affects dough texture, tenderness, and flavor in enriched breads.
+  - - meta
+    - property: og:title
+      content: Enrichment
+  - - meta
+    - property: og:description
+      content: Learn how adding fat, sugar, eggs, and dairy affects dough texture, tenderness, and flavor in enriched breads.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/guides/enrichment.html
+  
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: Enrichment
+  - - meta
+    - name: twitter:description
+      content: Learn how adding fat, sugar, eggs, and dairy affects dough texture, tenderness, and flavor in enriched breads.
+  
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/guides/enrichment.html
 ---
 
 # Enriched Doughs

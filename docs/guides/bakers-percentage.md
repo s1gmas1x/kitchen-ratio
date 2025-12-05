@@ -1,5 +1,39 @@
 ---
 title: Baker's Percentage
+description: Learn how to calculate baker's percentages to scale recipes and understand dough hydration and ingredient ratios.
+
+head:
+  - - meta
+    - name: description
+      content: Learn how to calculate baker's percentages to scale recipes and understand dough hydration and ingredient ratios.
+  - - meta
+    - property: og:title
+      content: Baker's Percentage
+  - - meta
+    - property: og:description
+      content: Learn how to calculate baker's percentages to scale recipes and understand dough hydration and ingredient ratios.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/guides/bakers-percentage.html
+
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: Baker's Percentage
+  - - meta
+    - name: twitter:description
+      content: Learn how to calculate baker's percentages to scale recipes and understand dough hydration and ingredient ratios.
+  
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/guides/bakers-percentage.html
 ---
 
 # Baker's Percentage

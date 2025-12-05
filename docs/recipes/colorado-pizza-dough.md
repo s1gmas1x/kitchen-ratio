@@ -1,5 +1,39 @@
 ---
-title: Colorado Style Pizza Dough (Fargo's Pizza Co. Inspired)
+title: Colorado Style Pizza Dough
+description: Cold-fermented pizza dough inspired by Fargo’s Pizza Co., with malty flavor, soft interior, and crisp crust.
+
+head:
+  - - meta
+    - name: description
+      content: Cold-fermented pizza dough inspired by Fargo’s Pizza Co., with malty flavor, soft interior, and crisp crust.
+  - - meta
+    - property: og:title
+      content: Colorado Style Pizza Dough
+  - - meta
+    - property: og:description
+      content: Cold-fermented pizza dough inspired by Fargo’s Pizza Co., with malty flavor, soft interior, and crisp crust.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/recipes/colorado-pizza-dough.html
+  
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: Colorado Style Pizza Dough
+  - - meta
+    - name: twitter:description
+      content: Cold-fermented pizza dough inspired by Fargo’s Pizza Co., with malty flavor, soft interior, and crisp crust.
+
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/recipes/colorado-pizza-dough.html
 ---
 
 # Colorado Style Pizza Dough
@@ -30,7 +64,7 @@ If you drop it **below 65%**, I recommend kneading for **8–10 minutes** after 
 - **Light malt powder** - 5g (~1%)
 
 ::: info
-This batch makes **two to three 11-inch (“Medium”) pizzas** depending on how thick you make the crust.
+This batch makes **two to three 11-inch (“Medium”) pizzas** depending on how thick you make the crust. I usually stretch mine to about 1/4 - 1/2 inch thick before adding toppings.
 
 The low yeast percentage (0.3%) slows fermentation during the long cold rise -  
 **24 hours bulk fermentation**, followed by **24–48 hours cold proofing**.
@@ -72,6 +106,12 @@ The low yeast percentage (0.3%) slows fermentation during the long cold rise -
 - Use your fingertips to press outward in a circular pattern, leaving a slight ridge around the edge.  
 - Avoid over-degassing as it affects texture.  
 - Top with sauce and ingredients, being careful not to overload the dough.
+
+:::info
+You will want to move the pizza to a paddle or a peel before topping, put down plently of flour or cornmeal to prevent sticking. 
+
+Put it on the edge of the peel so it slides off easily onto the stone or steel in the oven.
+:::
 
 ### 5. Baking
 - Preheat your oven as hot as it will go:

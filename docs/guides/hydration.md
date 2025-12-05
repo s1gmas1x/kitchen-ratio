@@ -1,5 +1,39 @@
 ---
-title: Dough Hydration
+title: Hydration
+description: Understand dough hydration and how water percentage affects texture, extensibility, and crust in bread baking.
+
+head:
+  - - meta
+    - name: description
+      content: Understand dough hydration and how water percentage affects texture, extensibility, and crust in bread baking.
+  - - meta
+    - property: og:title
+      content: Hydration
+  - - meta
+    - property: og:description
+      content: Understand dough hydration and how water percentage affects texture, extensibility, and crust in bread baking.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/guides/hydration.html
+  
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: Hydration
+  - - meta
+    - name: twitter:description
+      content: Understand dough hydration and how water percentage affects texture, extensibility, and crust in bread baking.
+  
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/guides/hydration.html
 ---
 
 # Dough Hydration
