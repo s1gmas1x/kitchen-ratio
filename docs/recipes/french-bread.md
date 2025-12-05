@@ -1,10 +1,10 @@
 ---
-title: French Baguette (No-Knead, 70% Hydration)
+title: French Bread (No-Knead, 70% Hydration)
 ---
 
-# French Baguette
+# French Bread
 
-A simple, no-knead baguette dough at 70% hydration. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) for perfectly scaled ingredient weights.
+A simple, no-knead French bread dough at 70% hydration. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) for perfectly scaled ingredient weights.
 
 ## Ingredients (Example Batch)
 - **Flour** - 350g  

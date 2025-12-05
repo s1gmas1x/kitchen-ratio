@@ -1,5 +1,39 @@
 ---
 title: No-knead Tortillas
+description: Soft, flexible no-knead tortillas made with boiling water for maximum pliability. Ready in about an hour.
+
+head:
+  - - meta
+    - name: description
+      content: Soft, flexible no-knead tortillas made with boiling water for maximum pliability. Ready in about an hour.
+  - - meta
+    - property: og:title
+      content: No-knead Tortillas
+  - - meta
+    - property: og:description
+      content: Soft, flexible no-knead tortillas made with boiling water for maximum pliability.
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:url
+      content: https://kitchenratio.com/recipes/tortillas.html
+  
+  
+
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: No-knead Tortillas
+  - - meta
+    - name: twitter:description
+      content: Soft, flexible no-knead tortillas made with boiling water for maximum pliability.
+
+  - - link
+    - rel: canonical
+      href: https://kitchenratio.com/recipes/tortillas.html
 ---
 
 # No-knead Tortillas
