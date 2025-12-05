@@ -46,7 +46,7 @@ Whether you're starting your home baking journey or looking to upgrade your tool
 <div class="affiliate-card">
 <a href="https://amzn.to/4oANnKc" target="_blank"><img src="/images/thermapen-one.JPG" alt="Thermapen ONE" /></a>
 <h3>Thermapen ONE</h3>
-<p>Premium option for incredibly fast, precise readings. Like the health inspector used at Fargo's.</p>
+<p>Premium option for incredibly fast, precise readings.</p>
 <a href="https://amzn.to/4oANnKc" target="_blank">Buy on Amazon</a>
 </div>
 
