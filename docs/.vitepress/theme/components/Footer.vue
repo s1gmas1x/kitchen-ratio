@@ -3,6 +3,14 @@
     <div class="footer-text">
       <p>{{ footerMessage }}</p>
       <p>{{ footerCopyright }}</p>
+        <!-- PayPal Donate Button -->
+      <ClientOnly>
+        <div id="donate-button-container">
+          <p>Donate to support KitchenRatio:</p>
+          <div id="donate-button"></div>
+        </div>
+      </ClientOnly>
+
     </div>
 
   </footer>
@@ -10,11 +18,41 @@
 
 <script setup>
 import { useData } from 'vitepress'
+import { onMounted } from 'vue'
 
 // Grab footer info from themeConfig dynamically
 const { theme } = useData()
 const footerMessage = theme.value?.footer?.message || ''
 const footerCopyright = theme.value?.footer?.copyright || ''
+
+onMounted(() => {
+  // Load PayPal SDK dynamically
+  const existing = document.getElementById('paypal-donation-sdk')
+  if (!existing) {
+    const script = document.createElement('script')
+    script.id = 'paypal-donation-sdk'
+    script.src = 'https://www.paypalobjects.com/donate/sdk/donate-sdk.js'
+    script.charset = 'UTF-8'
+    script.onload = renderButton
+    document.body.appendChild(script)
+  } else {
+    renderButton()
+  }
+
+  function renderButton() {
+    if (!window.PayPal) return
+
+    window.PayPal.Donation.Button({
+      env: 'production',
+      hosted_button_id: 'TFRBMDXK79LLQ',
+      image: {
+        src: 'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
+        alt: 'Donate with PayPal button',
+        title: 'PayPal - The safer, easier way to pay online!'
+      }
+    }).render('#donate-button')
+  }
+})
 </script>
 
 <style>
@@ -37,6 +75,11 @@ const footerCopyright = theme.value?.footer?.copyright || ''
   box-sizing: border-box;
   text-align: left;
   line-height: 1.4;
+}
+/* PayPal Button container */
+#donate-button-container {
+  margin-top: 1rem;
+  text-align: left;
 }
 
 /* When the sidebar is visible on normal desktop sizes, push the text by the sidebar width */
@@ -62,6 +105,9 @@ const footerCopyright = theme.value?.footer?.copyright || ''
     padding-left: 1rem;
     padding-right: 1rem;
     text-align: center;
+  }
+  #donate-button-container {
+    justify-items: center;
   }
 }
 </style>
