@@ -8,10 +8,10 @@ Yeast produces carbon dioxide and helps dough rise. Different types behave sligh
 
 ## Types of Yeast
 
-### **Instant Yeast (Preferred)**
+### **Instant Yeast**
 - Can be mixed directly into flour  
 - Strong, reliable  
-- Used in all KitchenRatio recipes  
+- Smaller granules
 
 ### **Active Dry Yeast**
 - Larger granules  
@@ -35,7 +35,7 @@ Yeast produces carbon dioxide and helps dough rise. Different types behave sligh
 ### **Less Yeast**
 - Slower fermentation  
 - Better flavor development  
-- Better for cold-fermented doughs (like your pizza and baguette formulas)
+- Better for cold-fermented doughs
 
 ---
 

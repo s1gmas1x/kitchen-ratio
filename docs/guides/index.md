@@ -13,7 +13,7 @@ Choose a guide below to get started:
 - [Enrichment](/guides/enrichment)
 
 ## Techniques
-- [Folding & Shaping](/guides/folding-and-shaping)
+- [Folding & Shaping](/guides/folding)
 - [Cold Fermentation](/guides/cold-fermentation)
 
 ## Gear
