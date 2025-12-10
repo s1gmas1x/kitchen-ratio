@@ -57,14 +57,14 @@ If you drop it **below 65%**, I recommend kneading for **8–10 minutes** after 
 
 ## Ingredients (Example Batch)
 
-- **Flour** - 450g  
-- **Water** - 306g (68% hydration)  
-- **Yeast** - 1.4g (0.3%)  
-- **Olive oil** - 32g (7%)  
-- **Light malt powder** - 5g (~1%)
+- **Flour** - 550g  
+- **Water** - 363g (66% hydration)  
+- **Yeast** - 1.6g (0.3%)  
+- **Olive oil** - 39g (7%)  
+- **Light malt powder** - 11g (2%)
 
 ::: info
-This batch makes **two to three 11-inch (“Medium”) pizzas** depending on how thick you make the crust. I usually stretch mine to about 1/4 - 1/2 inch thick before adding toppings.
+This batch makes **about three 11-inch (“Medium”) pizzas** depending on how thick you make the crust. I usually stretch mine to about 1/4 - 1/2 inch thick before adding toppings.
 
 The low yeast percentage (0.3%) slows fermentation during the long cold rise -  
 **24 hours bulk fermentation**, followed by **24–48 hours cold proofing**.
