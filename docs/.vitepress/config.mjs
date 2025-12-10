@@ -31,7 +31,7 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'How-To Guides', link: '/guides/' },
+      { text: 'Guides', link: '/guides/' },
       { text: 'Recipes', link: '/recipes/' },
       { text: 'Ingredients', link: '/ingredients/' },
       {
