@@ -1,8 +1,8 @@
 <template>
   <footer class="site-footer">
     <div class="footer-text">
-      <p>{{ footerMessage }}</p>
-      <p>{{ footerCopyright }}</p>
+      <p>As an Amazon Associate I earn from qualifying purchases.</p>
+      <p>© 2025 KitchenRatio</p>
         <!-- PayPal Donate Button -->
       <ClientOnly>
         <div id="donate-button-container">

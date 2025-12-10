@@ -20,7 +20,7 @@ export default {
     // build the bottom slot content
     const bottomSlot = () => {
       const items = [ h(CookieBanner) ]
-      if (route.path !== '/') items.push(h(Footer))
+      if (route.path !== '/' && route.path !== '/404.html')  items.push(h(Footer))
       return items
     }
 
