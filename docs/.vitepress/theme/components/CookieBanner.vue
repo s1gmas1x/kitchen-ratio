@@ -1,28 +1,34 @@
 <script setup>
 import { ref, onMounted, watch } from "vue";
-    
+
 const showBanner = ref(false);
 
 // disable scrolling when the banner is shown
 watch(showBanner, (isVisible) => {
-  if (isVisible) {
-    document.body.style.overflow = "hidden";
-  } else {
-    document.body.style.overflow = "";
-  }
+  document.body.style.overflow = isVisible ? "hidden" : "";
 });
 
+// helper to get a cookie by name
+function getCookie(name) {
+  const match = document.cookie.match(new RegExp('(^|; )' + name + '=([^;]+)'));
+  return match ? decodeURIComponent(match[2]) : null;
+}
+
+// helper to set a cookie for all subdomains (or localhost for testing)
+function setCookie(name, value, days = 365) {
+  const expires = new Date(Date.now() + days*24*60*60*1000).toUTCString();
+  const domain = window.location.hostname.includes("localhost") ? "" : ".kitchenratio.com";
+  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/;${domain ? ` domain=${domain}` : ""}`;
+}
 
 function initializeGA() {
-  if (window.gtag) return // already initialized
+  if (window.gtag) return; // already initialized
 
-  // load the GA script
   const script = document.createElement('script')
   script.src = 'https://www.googletagmanager.com/gtag/js?id=G-T4SQXKGZK8'
   script.async = true
   document.head.appendChild(script)
 
-  // setup gtag after the script loads
   script.onload = () => {
     window.dataLayer = window.dataLayer || []
     window.gtag = function() { dataLayer.push(arguments) }
@@ -33,12 +39,11 @@ function initializeGA() {
 }
 
 async function trackInternal() {
-  // optional: do nothing or console.log
   console.log("User declined cookies")
 }
 
 onMounted(() => {
-  const consent = localStorage.getItem("ga-consent");
+  const consent = getCookie("ga-consent");
   if (!consent) {
     showBanner.value = true;
   } else if (consent === "accepted") {
@@ -47,13 +52,13 @@ onMounted(() => {
 });
 
 function acceptCookies() {
-  localStorage.setItem("ga-consent", "accepted");
+  setCookie("ga-consent", "accepted");
   showBanner.value = false;
   initializeGA();
 }
 
 async function declineCookies() {
-  localStorage.setItem("ga-consent", "declined");
+  setCookie("ga-consent", "declined");
   showBanner.value = false;
 
   try {
