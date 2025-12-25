@@ -38,14 +38,18 @@ head:
 
 # Dough Hydration
 
-Hydration is the ratio of total water in a recipe to the total amount of flour.  
+Hydration is the ratio of water in a recipe to the total amount of flour.  
 This ratio affects how the dough feels, how it behaves during mixing and folding, and what the final crumb looks like.
 
-**Hydration % = (Total Water in the Dough ÷ Total Flour) × 100**
+**Hydration % = (Water Added ÷ Total Flour) × 100**
 
-## What Counts as “Water” in This Calculator
+## Hydration vs. Effective Hydration
+- **Hydration (water-as-added):** plain water plus liquid dairy (milk/cream).  
+- **Effective hydration:** total water from all ingredients, including eggs and butter.
 
-In this system, hydration includes **all ingredients that contribute water**, not just plain water:
+## Effective Hydration in This Calculator
+
+The calculator uses **effective hydration**, which includes all ingredients that contribute water:
 
 - Water  
 - Milk and cream  
@@ -91,11 +95,11 @@ Once you know hydration, you can compare recipes more clearly and predict how a 
 - Eggs: 150g (~113g water)  
 - Butter: 100g (~18g water)
 
-**Total water:** 600 + 113 + 18 = **731g**  
-**Hydration:** 731 ÷ 1000 = **73%**
+**Hydration (water-as-added):** 600 ÷ 1000 = **60%**  
+**Effective hydration:** (600 + 113 + 18) ÷ 1000 = **73%**
 
 This recipe *feels* like a high-hydration dough even though a traditional baker’s calculation wouldn’t count the butter or eggs.
 
-Understanding functional hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or no-knead breads.
+Understanding effective hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or no-knead breads.
 
 Experiment with different hydration levels to find what works best for your baking style and the breads you love!

@@ -48,15 +48,30 @@ export default defineConfig({
     {
       text: 'Guides',
       collapsed: false,
+      items: [{ text: 'Browse Guides', link: '/guides/' }]
+    },
+    {
+      text: 'Core Concepts',
+      collapsed: false,
       items: [
-        { text: 'Browse Guides', link: '/guides/' },
+        { text: 'KitchenRatio Calculator', link: '/guides/kitchenratio-calculator' },
         { text: "Baker's Percentage", link: '/guides/bakers-percentage' },
         { text: 'Hydration', link: '/guides/hydration' },
-        { text: 'Enrichment', link: '/guides/enrichment' },
-        { text: 'Folding', link: '/guides/folding' },
-        { text: 'Cold Fermentation', link: '/guides/cold-fermentation' },
-        { text: 'Baking Gear & Ingredients', link: '/guides/baking-gear-and-ingredients' }
+        { text: 'Enrichment', link: '/guides/enrichment' }
       ]
+    },
+    {
+      text: 'Techniques',
+      collapsed: false,
+      items: [
+        { text: 'Folding', link: '/guides/folding' },
+        { text: 'Cold Fermentation', link: '/guides/cold-fermentation' }
+      ]
+    },
+    {
+      text: 'Gear',
+      collapsed: false,
+      items: [{ text: 'Baking Gear & Ingredients', link: '/guides/baking-gear-and-ingredients' }]
     }
   ],
 
@@ -65,13 +80,25 @@ export default defineConfig({
     {
       text: 'Recipes',
       collapsed: false,
+      items: [{ text: 'Browse Recipes', link: '/recipes/' }]
+    },
+    {
+      text: 'Breads',
+      collapsed: false,
       items: [
-        { text: 'Browse Recipes', link: '/recipes/' },
         { text: 'French Bread', link: '/recipes/french-bread' },
-        { text: 'Lightly Enriched Hoagie', link: '/recipes/lightly-enriched-hoagie' },
-        { text: 'Colorado Style Pizza', link: '/recipes/colorado-pizza-dough' },
-        { text: 'No-Knead Tortillas', link: '/recipes/tortillas' }
+        { text: 'Lightly Enriched Hoagie', link: '/recipes/lightly-enriched-hoagie' }
       ]
+    },
+    {
+      text: 'Pizza',
+      collapsed: false,
+      items: [{ text: 'Colorado-Style Pizza Dough', link: '/recipes/colorado-pizza-dough' }]
+    },
+    {
+      text: 'Flatbreads',
+      collapsed: false,
+      items: [{ text: 'Tortillas', link: '/recipes/tortillas' }]
     }
   ],
 

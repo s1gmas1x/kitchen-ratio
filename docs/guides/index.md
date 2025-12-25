@@ -8,6 +8,7 @@ Improve your baking skills with clear explanations and practical techniques.
 Choose a guide below to get started:
 
 ## Core Concepts
+- [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Baker’s Percentage](/guides/bakers-percentage)
 - [Hydration](/guides/hydration)
 - [Enrichment](/guides/enrichment)
