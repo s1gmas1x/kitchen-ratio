@@ -9,6 +9,7 @@ Choose a guide below to get started:
 
 ## Core Concepts
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
+- [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 - [Baker’s Percentage](/guides/bakers-percentage)
 - [Hydration](/guides/hydration)
 - [Enrichment](/guides/enrichment)
