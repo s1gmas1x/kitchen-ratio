@@ -2,7 +2,7 @@
   <footer class="site-footer">
     <div class="footer-text">
       <p>As an Amazon Associate I earn from qualifying purchases.</p>
-      <p>© 2025 KitchenRatio</p>
+      <p>© 2025-{{ year }} KitchenRatio</p>
         <!-- PayPal Donate Button -->
       <ClientOnly>
         <div id="donate-button-container">
@@ -17,15 +17,48 @@
 </template>
 
 <script setup>
-import { useData } from 'vitepress'
-import { onMounted } from 'vue'
+import { useData, useRoute } from 'vitepress'
+import { nextTick, onMounted, watch } from 'vue'
 
-// Grab footer info from themeConfig dynamically
-const { theme } = useData()
-const footerMessage = theme.value?.footer?.message || ''
-const footerCopyright = theme.value?.footer?.copyright || ''
+const year = new Date().getFullYear()
+let ensureTimer = null
+let ensureAttempts = 0
+const maxEnsureAttempts = 10
 
-onMounted(() => {
+onMounted(async () => {
+  await nextTick()
+  scheduleEnsure()
+})
+
+const route = useRoute()
+watch(
+  () => route.path,
+  async () => {
+    await nextTick()
+    scheduleEnsure()
+  }
+)
+
+function scheduleEnsure() {
+  if (ensureTimer) {
+    clearTimeout(ensureTimer)
+    ensureTimer = null
+  }
+  ensureAttempts = 0
+  attemptEnsure()
+}
+
+function attemptEnsure() {
+  ensureAttempts += 1
+  const container = document.getElementById('donate-button')
+  if (!container) {
+    if (ensureAttempts < maxEnsureAttempts) {
+      ensureTimer = setTimeout(attemptEnsure, 100)
+    }
+    return
+  }
+  if (container.childElementCount > 0) return
+
   // Load PayPal SDK dynamically
   const existing = document.getElementById('paypal-donation-sdk')
   if (!existing) {
@@ -35,24 +68,34 @@ onMounted(() => {
     script.charset = 'UTF-8'
     script.onload = renderButton
     document.body.appendChild(script)
-  } else {
+  } else if (window.PayPal) {
     renderButton()
+  } else {
+    existing.addEventListener('load', renderButton, { once: true })
+    if (ensureAttempts < maxEnsureAttempts) {
+      ensureTimer = setTimeout(attemptEnsure, 100)
+    }
+  }
+}
+
+function renderButton() {
+  if (!window.PayPal) {
+    if (ensureAttempts < maxEnsureAttempts) {
+      ensureTimer = setTimeout(attemptEnsure, 100)
+    }
+    return
   }
 
-  function renderButton() {
-    if (!window.PayPal) return
-
-    window.PayPal.Donation.Button({
-      env: 'production',
-      hosted_button_id: 'TFRBMDXK79LLQ',
-      image: {
-        src: 'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
-        alt: 'Donate with PayPal button',
-        title: 'PayPal - The safer, easier way to pay online!'
-      }
-    }).render('#donate-button')
-  }
-})
+  window.PayPal.Donation.Button({
+    env: 'production',
+    hosted_button_id: 'TFRBMDXK79LLQ',
+    image: {
+      src: 'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
+      alt: 'Donate with PayPal button',
+      title: 'PayPal - The safer, easier way to pay online!'
+    }
+  }).render('#donate-button')
+}
 </script>
 
 <style>
