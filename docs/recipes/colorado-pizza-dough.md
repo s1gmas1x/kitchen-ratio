@@ -60,7 +60,8 @@ If you drop it **below 65%**, I recommend kneading for **8–10 minutes** after 
 - **Flour** - 550g  
 - **Water** - 363g (66% hydration)  
 - **Yeast** - 1.6g (0.3%)  
-- **Olive oil** - 39g (7%)  
+- **Olive oil** - 39g (7%) 
+- **Salt** - 11g (2%) 
 - **Light malt powder** - 11g (2%)
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
