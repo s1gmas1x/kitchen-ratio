@@ -6,7 +6,7 @@
         <!-- PayPal Donate Button -->
       <ClientOnly>
         <div id="donate-button-container">
-          <p>Donate to support KitchenRatio:</p>
+          <p>Enjoying KitchenRatio? Your donation supports ongoing development.</p>
           <div id="donate-button"></div>
         </div>
       </ClientOnly>

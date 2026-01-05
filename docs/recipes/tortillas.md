@@ -55,6 +55,8 @@ These tortillas are perfect for burritos, soft tacos, or serving alongside green
 - **Baking soda** - 9g (2%)
 - **Salt** - ~7g (~1.6%)
 
+Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+
 ::: info
 I prefer lard, but any neutral fat works.  
 
@@ -90,3 +92,5 @@ I prefer lard, but any neutral fat works.
 - Remove to a plate and cover with foil or a kitchen towel.  
 - When all of the tortillas are finished flip the entire stack over to prevent the bottom tortilla from getting soggy.
 - Leave these covered for 10-15 minutes before enjoying.
+
+As an Amazon Associate I earn from qualifying purchases.

@@ -52,6 +52,8 @@ I experimented with this recipe to make Philly cheesestake sandwiches, and they 
 - **Sugar** — 10g (2%)  
 - **Olive oil** — 15g (3%)  
 
+Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+
 ---
 
 ## Procedure
@@ -79,3 +81,5 @@ I experimented with this recipe to make Philly cheesestake sandwiches, and they 
 ### 7. Cooling
 - Brush with melted butter right after removing from the oven and cover with a kitchen towel.
 - Allow to cool fully.
+
+As an Amazon Associate I earn from qualifying purchases.

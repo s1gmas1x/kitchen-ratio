@@ -63,6 +63,8 @@ If you drop it **below 65%**, I recommend kneading for **8–10 minutes** after 
 - **Olive oil** - 39g (7%)  
 - **Light malt powder** - 11g (2%)
 
+Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+
 ::: info
 This batch makes **about three 11-inch (“Medium”) pizzas** depending on how thick you make the crust. I usually stretch mine to about 1/4 - 1/2 inch thick before adding toppings.
 
@@ -120,3 +122,5 @@ Put it on the edge of the peel so it slides off easily onto the stone or steel i
 - Bake on a pizza stone or steel until the crust is golden and crisp.
 
 ---
+
+As an Amazon Associate I earn from qualifying purchases.

@@ -53,6 +53,8 @@ A simple, no-knead French bread dough at 70% hydration. Use the [KitchenRatio Ca
 - **Salt** - 7g (2%)  
 - **Yeast** - 3.5g (1%)  
 
+Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+
 ---
 
 ## Procedure
@@ -79,14 +81,16 @@ A simple, no-knead French bread dough at 70% hydration. Use the [KitchenRatio Ca
 - Let dough proof until slightly puffy and relaxed.
 
 ### 6. Scoring & Spritzing
-- Score with a sharp blade at a shallow angle.  
+- Score with a sharp blade at a shallow angle (a bread lame like this [Bread Lame](https://amzn.to/44Rh5TZ) works great).  
 - Lightly mist with water for a crisp crust.
 
 ### 7. Baking
-- Preheat a Dutch oven (or baking stone/steel) to **500°F (245°C)**.
+- Preheat a Dutch oven (or baking stone/steel, or something like this [Lodge Cast Iron Combo Cooker](https://amzn.to/4oLycOs)) to **480°F (249°C)**.
 - Place dough on parchment and carefully set in Dutch oven.  
-- Reduce oven temperature to **410°F (210°C)**.
+- Reduce oven temperature to **440°F (227°C)**.
 - Bake covered **25 minutes**, then uncover and bake **20–25 minutes** more until golden.
 
 ### 8. Cooling
 - Allow to cool completely before slicing.
+
+As an Amazon Associate I earn from qualifying purchases.
