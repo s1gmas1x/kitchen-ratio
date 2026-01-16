@@ -36,26 +36,32 @@ head:
 
 # Convert Recipes with the Calculator
 
-Use the KitchenRatio calculator to convert a written recipe into baker’s percentages, then scale it without redoing the math.
+Turn any written recipe into baker’s percentages, then scale it like a pro. Think of this as reverse‑engineering a dough: grams in, ratios out, repeatable forever.
 
-## Step 1: Enter the Flour Weight
-Set the Flour card to match the flour weight from your recipe. This becomes your 100% reference.
+## Step 1: Set the Flour Baseline
+Put your recipe’s flour weight into the Flour card. That number is your 100%.
 
-## Step 2: Match Ingredient Weights
+## Step 2: Match Ingredients by Grams
 Add the ingredients you need (water, salt, yeast, enrichments).  
-Adjust each slider until the grams shown under the slider match your recipe’s weight.  
-The calculator will show the percentage for each ingredient as you dial it in.
+Move each slider until the grams shown match your recipe’s weight.  
+The calculator reveals the percentage as you dial it in.
 
 ## Step 3: Capture the Ratio
-Once all ingredient weights match, you now have the baker’s percentages for that recipe.  
-Note the percentages shown under each ingredient, then scale by increasing or decreasing the flour amount.
+Once the grams match, the percentages are the recipe.  
+Write them down. They are now portable and scalable.
 
-## Step 4: Scale Up or Down
+## Step 4: Scale the Batch
 Keep the percentages fixed and change the flour weight.  
-All ingredient grams update automatically for the new batch size.
+Every ingredient updates automatically.
 
 ## Example Workflow
-1. Recipe flour is 500g → set Flour to 500g.  
-2. Recipe water is 325g → adjust water slider until it shows 325g.  
-3. Repeat for salt, yeast, and enrichments.  
-4. Increase flour to 800g to scale the whole recipe.
+1. Flour is 500g → set Flour to 500g.  
+2. Water is 325g → slide water to 325g (65%).  
+3. Salt 10g → slide salt to 10g (2%).  
+4. Yeast 2.5g → slide yeast to 2.5g (0.5%).  
+5. Increase flour to 800g to scale the entire recipe.
+
+## Practical Tips
+- Weigh everything in grams. Volumes lie.  
+- If your recipe has oil, sugar, eggs, or dairy, add them with Add Ingredient.  
+- Use presets as a starting point, then dial in the exact grams.
