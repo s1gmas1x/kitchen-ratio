@@ -38,13 +38,17 @@ head:
 
 # Baker's Percentage
 
-Baker's percentage is a method of expressing ingredient ratios relative to flour.  
+Baker’s percentage is the baker’s shorthand for ratios. Flour is the yardstick, everything else is measured against it. That makes scaling clean and predictable.
 
 - Flour is always **100%**.  
-- Water, yeast, salt, and other ingredients are expressed as percentages of the flour weight.
+- Water, yeast, salt, and enrichments are percentages of the flour weight.
 
-### Example
+## The Big “Aha”: It Won’t Add Up to 100%
+This trips people up at first. In baker’s math, **100% is just the flour**, not the total dough.  
+So if you add 65% water + 2% salt + 1% yeast, you get **168% total**. That is normal.  
+Think of the percentages as **relative to flour**, not a pie chart of the whole dough.
 
+## Example
 For a dough with:
 
 - 500g flour  
@@ -52,10 +56,13 @@ For a dough with:
 - 10g salt  
 - 5g yeast
 
-The baker's percentages are:
+The baker’s percentages are:
 
-- Water: 325 ÷ 500 × 100 = 65%  
-- Salt: 10 ÷ 500 × 100 = 2%  
-- Yeast 5 ÷ 500 × 100 = 1%
+- Water: 325 ÷ 500 × 100 = **65%**  
+- Salt: 10 ÷ 500 × 100 = **2%**  
+- Yeast: 5 ÷ 500 × 100 = **1%**
 
-Using baker's percentages allows scaling recipes easily and ensures consistent results.
+## Why Bakers Love It
+- **Scale fast**: set the ratio, change the flour, everything follows.  
+- **Compare recipes**: two doughs can be compared by their percentages, not their batch size.  
+- **Tune with intent**: change hydration or salt by a point or two and you’ll feel it.
