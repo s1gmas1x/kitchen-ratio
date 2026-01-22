@@ -38,26 +38,29 @@ head:
 
 # Dough Hydration
 
-Hydration is the ratio of water in a recipe to the total amount of flour.  
-This ratio affects how the dough feels, how it behaves during mixing and folding, and what the final crumb looks like.
+Hydration is baker’s shorthand for how wet a dough will feel. Flour is the yardstick, water is the fuel.  
+No water, no bread. Higher number, looser dough. Lower number, stiffer dough.
 
-**Hydration % = (Water Added ÷ Total Flour) × 100**
+**Hydration % = (Liquid Water ÷ Total Flour) × 100**
 
 ## Hydration vs. Effective Hydration
-- **Hydration (water-as-added):** plain water plus liquid dairy (milk/cream).  
-- **Effective hydration:** total water from all ingredients, including eggs and butter.
+There are no hard rules, but this is the practical split that works in the real world.
 
-## Effective Hydration in This Calculator
+- **Hydration (liquids):** the water you pour in, plus watery liquids like milk, cream, buttermilk, coffee, tea, beer, wine, juice, kombucha, or kvass.  
+- **Effective hydration:** total water from every ingredient, including eggs, butter, sugars, and yeast water where applicable.
+  
+Butter and eggs usually do not count toward base hydration, but they absolutely change how a dough feels.
 
-The calculator uses **effective hydration**, which includes all ingredients that contribute water:
+## Why the Calculator Shows Both
 
-- Water  
-- Milk and cream  
-- **Eggs (about 75% water)**  
-- **Butter (about 18% water)**  
-- Other ingredients with measurable water content
+Two numbers, two jobs. Think of it like a dough’s “feel” number and its “total moisture” number.
 
-This gives a more accurate picture of how wet the dough truly is, especially in enriched breads.
+- **Hydration (liquids)** is the handling knob. It tells you how slack the dough will be when you mix.
+- **Effective hydration** is the moisture truth. It explains why enriched doughs can feel “wetter” than the base hydration suggests.
+
+:::info Why this works
+One number helps you tune handling, the other explains the moisture you feel in the finished dough. Together they make hydration easier to use, not harder.
+:::
 
 ## Hydration Levels
 
@@ -78,6 +81,8 @@ This gives a more accurate picture of how wet the dough truly is, especially in 
 - **Tip:** Use gentle folding during bulk fermentation to build strength—especially for no-knead doughs.
 
 ## Why Hydration Matters
+Water drives the whole show: fermentation, gluten development, starch hydration, and the final texture and keeping quality.
+
 Hydration influences:
 - Mixing difficulty  
 - Dough strength  
@@ -85,7 +90,7 @@ Hydration influences:
 - Crumb openness  
 - Crust thickness
 
-Once you know hydration, you can compare recipes more clearly and predict how a dough will feel before you start mixing.
+Once you know hydration, you can compare recipes clearly and predict how a dough will feel before you start mixing.
 
 ## Example
 
@@ -95,10 +100,10 @@ Once you know hydration, you can compare recipes more clearly and predict how a 
 - Eggs: 150g (~113g water)  
 - Butter: 100g (~18g water)
 
-**Hydration (water-as-added):** 600 ÷ 1000 = **60%**  
+**Hydration (liquids):** 600 ÷ 1000 = **60%**  
 **Effective hydration:** (600 + 113 + 18) ÷ 1000 = **73%**
 
-This recipe *feels* like a high-hydration dough even though a traditional baker’s calculation wouldn’t count the butter or eggs.
+This dough shows a low base hydration but still feels soft because of eggs and butter.
 
 Understanding effective hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or no-knead breads.
 
