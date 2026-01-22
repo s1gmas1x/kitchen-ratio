@@ -49,9 +49,8 @@ There are no hard rules, but this is the practical split that works in the real 
 - **Hydration (liquids):** the water you pour in, plus watery liquids like milk, cream, buttermilk, coffee, tea, beer, wine, juice, kombucha, or kvass.  
 - **Effective hydration:** total water from every ingredient, including eggs, butter, sugars, and yeast water where applicable.
 
-:::note
-Butter and eggs usually do not count toward base hydration, but they absolutely change how a dough feels.
-:::
+> [!NOTE]
+> Butter and eggs usually do not count toward base hydration, but they absolutely change how a dough feels.
 
 ## Why the Calculator Shows Both
 
