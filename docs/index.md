@@ -38,6 +38,14 @@ head:
   - - link
     - rel: canonical
       href: https://kitchenratio.com
+  - - link
+    - rel: preload
+      as: image
+      href: /logodarktrans.svg
+  - - link
+    - rel: preload
+      as: image
+      href: /logolighttrans.svg
 
   - - script
     - type: application/ld+json
@@ -59,8 +67,8 @@ layout: home
 footer: false
 hero:
   name: <span class="hero-logo">
-      <img src="/logolighttrans.svg" class="logo-dark" alt="KitchenRatio" />
-      <img src="/logodarktrans.svg" class="logo-light" alt="KitchenRatio" />
+      <img src="/logolighttrans.svg" class="logo-dark" alt="KitchenRatio" width="682" height="180" loading="eager" decoding="async" fetchpriority="high" />
+      <img src="/logodarktrans.svg" class="logo-light" alt="KitchenRatio" width="682" height="180" loading="eager" decoding="async" fetchpriority="high" />
     </span>
   text: "Baker’s Math & Dough Hydration Calculator"
   tagline: "Calculate baker’s percentages and dough hydration for bread, pizza, and flatbread."

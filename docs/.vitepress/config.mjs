@@ -11,15 +11,7 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     
-    // Google Fonts
-    [
-      'link',
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap' }
-    ],
-    [
-      'link',
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap' }
-    ]
+    // Fonts are self-hosted; see scripts/download-fonts.sh
   ],
 
 

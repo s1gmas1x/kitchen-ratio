@@ -3,6 +3,7 @@ import DefaultTheme from 'vitepress/theme'
 import { useRoute } from 'vitepress'
 import CookieBanner from './components/CookieBanner.vue'
 import Footer from './components/Footer.vue'
+import './fonts.css'
 import './style.css'
 
 /**
