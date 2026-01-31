@@ -46,7 +46,7 @@ No water, no bread. Higher number, looser dough. Lower number, stiffer dough.
 ## Hydration vs. Effective Hydration
 There are no hard rules, but this is the practical split that works in the real world.
 
-- **Hydration (liquids):** the water you pour in, plus watery liquids like milk, cream, buttermilk, coffee, tea, beer, wine, juice, kombucha, or kvass.  
+- **Hydration (liquids):** the water you pour in, plus watery liquids like milk, cream, buttermilk, coffee, tea, beer, wine, juice, kombucha, etc.  
 - **Effective hydration:** total water from every ingredient, including eggs, butter, sugars, and yeast water where applicable.
 
 > [!NOTE]

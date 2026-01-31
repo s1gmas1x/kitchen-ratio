@@ -42,10 +42,14 @@ head:
     - rel: preload
       as: image
       href: /logodarktrans.svg
+      type: image/svg+xml
+      fetchpriority: high
   - - link
     - rel: preload
       as: image
       href: /logolighttrans.svg
+      type: image/svg+xml
+      fetchpriority: high
 
   - - script
     - type: application/ld+json

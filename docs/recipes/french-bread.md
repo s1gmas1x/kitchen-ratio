@@ -54,7 +54,6 @@ A simple, no-knead French bread dough at 70% hydration. Use the [KitchenRatio Ca
 - **Yeast** - 3.5g (1%)  
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
-
 ---
 
 ## Procedure
@@ -93,4 +92,6 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 ### 8. Cooling
 - Allow to cool completely before slicing.
 
+::: info
 As an Amazon Associate I earn from qualifying purchases.
+:::

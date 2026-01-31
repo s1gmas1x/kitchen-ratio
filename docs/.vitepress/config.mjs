@@ -53,6 +53,7 @@ export default defineConfig({
       items: [
         { text: 'KitchenRatio Calculator', link: '/guides/kitchenratio-calculator' },
         { text: 'Convert Recipes with the Calculator', link: '/guides/calculator-for-recipes' },
+        { text: 'Yield Planner', link: '/guides/yield-planner' },
         { text: "Baker's Percentage", link: '/guides/bakers-percentage' },
         { text: 'Hydration', link: '/guides/hydration' },
         { text: 'Enrichment', link: '/guides/enrichment' }

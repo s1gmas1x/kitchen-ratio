@@ -53,7 +53,6 @@ I experimented with this recipe to make Philly cheesestake sandwiches, and they 
 - **Olive oil** — 15g (3%)  
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
-
 ---
 
 ## Procedure
@@ -82,4 +81,6 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Brush with melted butter right after removing from the oven and cover with a kitchen towel.
 - Allow to cool fully.
 
+::: info
 As an Amazon Associate I earn from qualifying purchases.
+:::
