@@ -194,10 +194,14 @@ function formatTipAmount(amountCents) {
   return Number.isInteger(amount) ? `$${amount}` : `$${amount.toFixed(2)}`
 }
 
+const configuredApiOrigin = String(import.meta.env.VITE_API_ORIGIN ?? '').replace(/\/+$/, '')
+
 function getApiOrigin() {
+  if (configuredApiOrigin) return configuredApiOrigin
+
   return window.location.hostname === 'localhost'
     ? 'http://localhost'
-    : window.location.origin
+    : 'https://api.ckohl.com'
 }
 
 async function loadTipOptions() {
