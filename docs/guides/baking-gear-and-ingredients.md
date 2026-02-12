@@ -30,9 +30,16 @@ Whether you're starting your home baking journey or looking to upgrade your tool
 </div>
 
 <div class="affiliate-card">
+<a href="https://amzn.to/3MCdJOS" target="_blank"><img src="/images/amazon/braiser.PNG" alt="Brasier (New Version)" /></a>
+<h3>Tramontina Bestow Enameled Cast Iron Braiser Pan with Lid, 4-Quart</h3>
+<p>This is the new version of the brasier I currently use, and it is great for stovetop-to-oven cooking, even heat retention, and reliable results for breads, pan pizza, braises, and one-pan meals.</p>
+<a href="https://amzn.to/3MCdJOS" target="_blank">Buy on Amazon</a>
+</div>
+
+<div class="affiliate-card">
 <a href="https://amzn.to/48F9DfT" target="_blank"><img src="/images/amazon/kitchenaid-scale.JPG" alt="KitchenAid Digital Scale" /></a>
 <h3>KitchenAid Digital Scale</h3>
-<p>Accurate weighing is essential for consistent results using baker’s percentages. The tare button makes swapping bowls effortless.</p>
+<p>Accurate weighing is essential for consistent results using baker's percentages. The tare button makes swapping bowls effortless.</p>
 <a href="https://amzn.to/48F9DfT" target="_blank">Buy on Amazon</a>
 </div>
 
@@ -74,7 +81,7 @@ Whether you're starting your home baking journey or looking to upgrade your tool
 <div class="affiliate-card">
 <a href="https://amzn.to/4pNxZuN" target="_blank"><img src="/images/amazon/kitchenaid-extruder.JPG" alt="KitchenAid Pasta Extruder" /></a>
 <h3>KitchenAid Pasta Extruder *(On My Wish List)*</h3>
-<p>Useful for frosting, whipped cream, pasta dough, and occasional bread mixing if desired.</p>
+<p>Great for shaping fresh extruded pasta (like rigatoni and fusilli) with consistent thickness and texture.</p>
 <a href="https://amzn.to/4pNxZuN" target="_blank">Buy on Amazon</a>
 </div>
 
@@ -160,7 +167,7 @@ Whether you're starting your home baking journey or looking to upgrade your tool
 <div class="affiliate-card">
 <a href="https://amzn.to/4pTk5aB" target="_blank"><img src="/images/amazon/the-perfect-loaf.JPG" alt="The Perfect Loaf" /></a>
 <h3>The Perfect Loaf *(On my wishlist)*</h3>
-<p>A highly respected sourdough book known for clear techniques and reliable formulas, it’s high on my wishlist for a reason.</p>
+<p>A highly respected sourdough book known for clear techniques and reliable formulas, it's high on my wishlist for a reason.</p>
 <a href="https://amzn.to/4pTk5aB" target="_blank">Buy on Amazon</a>
 </div>
 

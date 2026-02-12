@@ -38,7 +38,7 @@ head:
 
 # Dough Hydration
 
-Hydration is baker’s shorthand for how wet a dough will feel. Flour is the yardstick, water is the fuel.  
+Hydration is baker's shorthand for how wet a dough will feel. Flour is the baseline, water is the throttle.  
 No water, no bread. Higher number, looser dough. Lower number, stiffer dough.
 
 **Hydration % = (Liquid Water ÷ Total Flour) × 100**
@@ -52,15 +52,27 @@ There are no hard rules, but this is the practical split that works in the real 
 > [!NOTE]
 > Butter and eggs usually do not count toward base hydration, but they absolutely change how a dough feels.
 
-## Why the Calculator Shows Both
+## Adjusted Effective Hydration
+This is the new reality-check number. It starts with effective hydration, then adjusts for starch-heavy ingredients that soak up water and quietly change dough behavior.
 
-Two numbers, two jobs. Think of it like a dough’s “feel” number and its “total moisture” number.
+- **Adjusted effective hydration:** effective hydration corrected for how much water starches bind in the final mix.
+
+Think of it as your "what the dough actually feels like" hydration after the thirsty ingredients have had their turn at the bowl.
+
+> [!NOTE]
+> Bread flour does pull in a little extra water, but usually not enough to cause drama by itself.
+> Potatoes and rye are different animals: they can hold a lot more water, and if you ignore that, dough can feel tighter, ferment differently, and bake up denser than expected.
+
+## Why the Calculator Shows All Three
+
+Three numbers, three jobs. Think of them as your mix control, moisture truth, and starch-corrected reality check.
 
 - **Hydration (liquids)** is the handling knob. It tells you how slack the dough will be when you mix.
-- **Effective hydration** is the moisture truth. It explains why enriched doughs can feel “wetter” than the base hydration suggests.
+- **Effective hydration** is the moisture truth. It explains why enriched doughs can feel "wetter" than the base hydration suggests.
+- **Adjusted effective hydration** is the practical behavior number. It helps explain why starch-heavy formulas can still feel drier than their raw moisture numbers suggest.
 
 :::info Why this works
-One number helps you tune handling, the other explains the moisture you feel in the finished dough. Together they make hydration easier to use, not harder.
+One number helps you tune handling, one explains total moisture, and one accounts for starch absorption. Together they make hydration easier to predict, not harder.
 :::
 
 ## Hydration Levels
@@ -70,7 +82,7 @@ One number helps you tune handling, the other explains the moisture you feel in 
 - Easy to shape  
 - Tight crumb (bagels, pretzels, sandwich loaves)
 
-### **Medium Hydration (60–70%)**
+### **Medium Hydration (60-70%)**
 - Soft, workable dough  
 - Balanced crumb  
 - Great all-purpose range for beginners
@@ -79,7 +91,7 @@ One number helps you tune handling, the other explains the moisture you feel in 
 - Wet, sticky dough  
 - Open, airy crumb  
 - Harder to handle  
-- **Tip:** Use gentle folding during bulk fermentation to build strength—especially for no-knead doughs.
+- **Tip:** Use gentle folding during bulk fermentation to build strength - especially for no-knead doughs.
 
 ## Why Hydration Matters
 Water drives the whole show: fermentation, gluten development, starch hydration, and the final texture and keeping quality.
@@ -106,6 +118,11 @@ Once you know hydration, you can compare recipes clearly and predict how a dough
 
 This dough shows a low base hydration but still feels soft because of eggs and butter.
 
-Understanding effective hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or no-knead breads.
+Understanding effective hydration and adjusted effective hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or starch-heavy breads.
 
 Experiment with different hydration levels to find what works best for your baking style and the breads you love!
+
+## Related Guides
+- [Baker's Percentage](/guides/bakers-percentage)
+- [Water](/ingredients/water)
+- [Flour](/ingredients/flour)

@@ -4,7 +4,7 @@ title: "Recipes"
 
 # Recipes
 
-Bake delicious, reliable breads using baker’s percentages and the KitchenRatio calculator.
+Bake reliable breads and doughs with baker's percentages and the KitchenRatio calculator.
 
 ## Breads
 - [French Bread](/recipes/french-bread)
@@ -12,6 +12,7 @@ Bake delicious, reliable breads using baker’s percentages and the KitchenRatio
 
 ## Pizza
 - [Colorado-Style Pizza Dough](/recipes/colorado-pizza-dough)
+- [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
 
 ## Flatbreads
 - [Tortillas](/recipes/tortillas)
@@ -19,4 +20,9 @@ Bake delicious, reliable breads using baker’s percentages and the KitchenRatio
 
 ---
 
-More recipes coming soon - each designed to work beautifully with the calculator.
+More recipes are coming soon, each designed to scale cleanly in the calculator.
+
+## Helpful Before You Bake
+- [KitchenRatio Calculator](/guides/kitchenratio-calculator)
+- [Hydration](/guides/hydration)
+- [Yield Planner](/guides/yield-planner)

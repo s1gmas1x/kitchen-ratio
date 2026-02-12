@@ -1,17 +1,17 @@
 ---
-title: Baker’s Math & Dough Hydration Calculator | KitchenRatio
-description: Free baker’s math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker’s percentages.
+title: Baker's Math & Dough Hydration Calculator | KitchenRatio
+description: Free baker's math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker's percentages.
 
 head:
   - - meta
     - name: description
-      content: Free baker’s math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker’s percentages.
+      content: Free baker's math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker's percentages.
   - - meta
     - property: og:title
-      content: Baker’s Math & Dough Hydration Calculator | KitchenRatio
+      content: Baker's Math & Dough Hydration Calculator | KitchenRatio
   - - meta
     - property: og:description
-      content: Free baker’s math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker’s percentages.
+      content: Free baker's math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker's percentages.
   - - meta
     - property: og:type
       content: website
@@ -27,10 +27,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: Baker’s Math & Dough Hydration Calculator | KitchenRatio
+      content: Baker's Math & Dough Hydration Calculator | KitchenRatio
   - - meta
     - name: twitter:description
-      content: Free baker’s math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker’s percentages.
+      content: Free baker's math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker's percentages.
   - - meta
     - name: twitter:image
       content: https://kitchenratio.com/logo.png
@@ -59,7 +59,7 @@ head:
           "@type": "WebSite",
           "url": "https://kitchenratio.com",
           "name": "KitchenRatio",
-          "description": "Free baker’s math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker’s percentages.",
+          "description": "Free baker's math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker's percentages.",
           "potentialAction": {
             "@type": "SearchAction",
             "target": "https://kitchenratio.com/search?q={search_term_string}",
@@ -74,8 +74,8 @@ hero:
       <img src="/logolighttrans.svg" class="logo-dark" alt="KitchenRatio" width="682" height="180" loading="eager" decoding="async" fetchpriority="high" />
       <img src="/logodarktrans.svg" class="logo-light" alt="KitchenRatio" width="682" height="180" loading="eager" decoding="async" fetchpriority="high" />
     </span>
-  text: "Baker’s Math & Dough Hydration Calculator"
-  tagline: "Calculate baker’s percentages and dough hydration for bread, pizza, and flatbread."
+  text: "Baker's Math & Dough Hydration Calculator"
+  tagline: "Calculate baker's percentages and dough hydration for bread, pizza, and flatbread."
   actions:
     - theme: brand
       text: "Try the Calculator"
@@ -89,14 +89,19 @@ hero:
       link: /recipes/
 
 features:
-   - title: "Baker’s Math & Percentages"
-     details: "Calculate baker’s percentages and dough hydration for consistent bread and pizza dough, without reading long recipe blogs or watching long videos."
+   - title: "Baker's Math & Percentages"
+     details: "Calculate baker's percentages and dough hydration for consistent bread and pizza dough, without reading long recipe blogs or watching long videos."
    - title: "Guides That Explain the Math"
      details: "Learn how hydration and ingredient ratios affect dough handling, texture, and consistency across common dough types."
    - title: "Fast, Flexible Calculator"
-     details: "Adjust flour, water, and ingredient ratios in seconds to scale recipes accurately using baker’s math."
+     details: "Adjust flour, water, and ingredient ratios in seconds to scale recipes accurately using baker's math."
 
 ---
-## Calculate Dough Hydration & Baker’s Percentages
+## Calculate Dough Hydration & Baker's Percentages
 
-KitchenRatio is a free **baker’s math and dough hydration calculator** designed to help bakers scale recipes accurately using baker’s percentages. Whether you're making bread, pizza dough, or flatbread, the calculator removes guesswork and improves consistency.
+KitchenRatio is a free **baker's math and dough hydration calculator** designed to help bakers scale recipes accurately using baker's percentages. Whether you're making bread, pizza dough, or flatbread, the calculator removes guesswork and improves consistency.
+
+### Start Here
+- [KitchenRatio Calculator Guide](/guides/kitchenratio-calculator)
+- [Hydration Guide](/guides/hydration)
+- [Browse Recipes](/recipes/)

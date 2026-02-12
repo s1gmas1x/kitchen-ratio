@@ -468,7 +468,7 @@ onBeforeUnmount(() => {
 }
 
 .tip-message-success {
-  color: var(--vp-c-tip-1);
+  color: var(--vp-c-green-1);
 }
 
 .tip-message-error {
@@ -490,9 +490,9 @@ onBeforeUnmount(() => {
 }
 
 .tip-toast-success {
-  border-color: var(--vp-c-tip-2);
-  background: var(--vp-c-tip-soft);
-  color: var(--vp-c-tip-1);
+  border-color: var(--vp-c-green-2);
+  background: var(--vp-c-green-soft);
+  color: var(--vp-c-green-1);
 }
 
 .tip-toast-cancel {

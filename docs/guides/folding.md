@@ -1,17 +1,17 @@
 ---
 title: Folding (No-Knead Dough)
-description: A beginner-friendly guide to folding no-knead dough—an easy technique that builds strength, improves texture, and replaces kneading.
+description: A beginner-friendly guide to folding no-knead dough - an easy technique that builds strength, improves texture, and replaces kneading.
 
 head:
   - - meta
     - name: description
-      content: A beginner-friendly guide to folding no-knead dough—an easy technique that builds strength, improves texture, and replaces kneading.
+      content: A beginner-friendly guide to folding no-knead dough - an easy technique that builds strength, improves texture, and replaces kneading.
   - - meta
     - property: og:title
       content: Folding (No-Knead Dough)
   - - meta
     - property: og:description
-      content: A beginner-friendly guide to folding no-knead dough—an easy technique that builds strength, improves texture, and replaces kneading.
+      content: A beginner-friendly guide to folding no-knead dough - an easy technique that builds strength, improves texture, and replaces kneading.
   - - meta
     - property: og:type
       content: article
@@ -27,7 +27,7 @@ head:
       content: Folding (No-Knead Dough)
   - - meta
     - name: twitter:description
-      content: A beginner-friendly guide to folding no-knead dough—an easy technique that builds strength, improves texture, and replaces kneading.
+      content: A beginner-friendly guide to folding no-knead dough - an easy technique that builds strength, improves texture, and replaces kneading.
 
   - - link
     - rel: canonical
@@ -37,6 +37,8 @@ head:
 # Folding (For No-Knead Dough)
 
 With the **no-knead method**, you rely on long fermentation instead of kneading to build gluten. Folding is a quick, gentle step that gives the dough extra strength so it rises higher, bakes more evenly, and stays easier to handle.
+
+If you want the decision framework for when to use no-knead vs kneading, read [No-Knead vs Kneading](/guides/no-knead-vs-kneading).
 
 Each fold takes only about 10 seconds, and you only need a few of them.
 
@@ -56,17 +58,17 @@ Folding helps:
 
 ## When to Fold
 
-Right after mixing, the dough is soft, sticky, and shaggy—that’s normal.  
-Begin folding **20–30 minutes after mixing**, then repeat a few times during the first hour.
+Right after mixing, the dough is soft, sticky, and shaggy - that's normal.  
+Begin folding **20-30 minutes after mixing**, then repeat a few times during the first hour.
 
-**A typical no-knead schedule uses 2–4 folds spaced 20–30 minutes apart in the first 1 to 2 hours. After that, do one gentle fold per day during the long bulk fermentation, and give the dough a final fold the morning before you plan to shape and bake it.**
+**A typical no-knead schedule uses 2-4 folds spaced 20-30 minutes apart in the first 1 to 2 hours. After that, do one gentle fold per day during the long bulk fermentation, and give the dough a final fold the morning before you plan to shape and bake it.**
 
 ---
 
 ## How to Fold (Step-by-Step)
 
 ### 1. Mix the Dough  
-After combining flour, water, salt, yeast (and any enrichments like butter or eggs, if used), let the dough rest for 20–30 minutes.
+After combining flour, water, salt, yeast (and any enrichments like butter or eggs, if used), let the dough rest for 20-30 minutes.
 
 This rest allows the flour to hydrate and makes the first fold easier.
 
@@ -78,16 +80,16 @@ Wet your fingers or use a dough scraper:
 1. Grab one edge of the dough and gently stretch it upward.  
 2. Fold it down toward the center.  
 3. Rotate the bowl a quarter turn.  
-4. Repeat until you’ve folded all four sides.
+4. Repeat until you've folded all four sides.
 
 Damp hands prevent sticking, no extra flour needed.
 
 ---
 
-### 3. Repeat 2–3 More Times  
-Do another fold every 20–30 minutes.
+### 3. Repeat 2-3 More Times  
+Do another fold every 20-30 minutes.
 
-You’ll notice the dough becoming:
+You'll notice the dough becoming:
 
 - smoother  
 - stronger  
@@ -101,3 +103,8 @@ This is exactly what you want.
 Once you finish the folding rounds, let the dough continue its bulk fermentation until it has risen noticeably and feels airy.
 
 **Shaping will be covered in a separate guide.**
+
+## Related Guides
+- [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
+- [Cold Fermentation](/guides/cold-fermentation)
+- [Hydration](/guides/hydration)

@@ -38,7 +38,8 @@ head:
 
 # Enriched Doughs
 
-Enriched doughs include ingredients like fats, sugar, eggs, and dairy. These additions make the dough softer, richer, and more tender, and they influence both flavor and structure in different ways.
+Enriched doughs add ingredients like fats, sugar, eggs, and dairy to a lean formula.
+Those additions change both flavor and mechanics: usually softer crumb, richer taste, and different fermentation behavior.
 
 ### How Enrichment Ingredients Affect Dough
 
@@ -57,3 +58,8 @@ Enriched doughs include ingredients like fats, sugar, eggs, and dairy. These add
 These enrichments can be used lightly or heavily depending on the style of dough. A hoagie roll may use just a touch of oil and sugar, while a brioche or certain pizza doughs can include much higher levels.
 
 **Examples:** hoagie rolls, sandwich loaves, brioche, enriched-style pizza doughs.
+
+## Related Guides
+- [Hydration](/guides/hydration)
+- [Flour](/ingredients/flour)
+- [Lightly Enriched Hoagie Rolls](/recipes/lightly-enriched-hoagie)

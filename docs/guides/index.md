@@ -4,18 +4,19 @@ title: "How-To Guides"
 
 # How-To Guides
 
-Improve your baking skills with clear explanations and practical techniques.  
+Improve your baking skills with clear explanations and practical technique guides.  
 Choose a guide below to get started:
 
 ## Core Concepts
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 - [Yield Planner](/guides/yield-planner)
-- [Baker’s Percentage](/guides/bakers-percentage)
+- [Baker's Percentage](/guides/bakers-percentage)
 - [Hydration](/guides/hydration)
 - [Enrichment](/guides/enrichment)
 
 ## Techniques
+- [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Folding](/guides/folding)
 - [Cold Fermentation](/guides/cold-fermentation)
 
@@ -23,4 +24,4 @@ Choose a guide below to get started:
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
 ---
-Whether you're new to baking or refining your craft, these guides will help you understand the *why* behind the dough.
+Whether you're new to baking or refining your craft, these guides are built to help you understand the *why* and apply it on bake day.

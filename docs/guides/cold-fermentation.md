@@ -38,8 +38,24 @@ head:
 
 # Cold Fermentation
 
-Cold fermentation slows yeast activity, improving flavor and texture.
+Cold fermentation is the long game: slower yeast, better flavor, and dough that is usually easier to handle.
+You are trading clock time for better structure and taste.
 
-- Refrigerate dough 12–48 hours  
-- Gentle folding every 3–4 hours  
-- Enhances gluten development and flavor complexity
+## Core Range
+- Refrigerate dough **12-48 hours**  
+- Use a covered container to prevent drying  
+- Plan for dough to proof more slowly after shaping
+
+## Why It Works
+- Slower fermentation builds deeper flavor  
+- Time improves gluten organization and extensibility  
+- Cooler dough is often easier to divide and shape cleanly
+
+## Practical Notes
+- If dough seems sluggish out of the fridge, give it extra bench time before baking.  
+- If dough overproofs in cold storage, reduce yeast slightly next batch.  
+
+## Related Guides
+- [Yeast](/ingredients/yeast)
+- [Folding](/guides/folding)
+- [No-Knead vs Kneading](/guides/no-knead-vs-kneading)

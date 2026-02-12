@@ -38,21 +38,24 @@ head:
 
 # Lightly Enriched Hoagie Rolls
 
-A soft, lightly enriched dough perfect for hoagies, cheesesteaks, and sandwiches. No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale to any batch.
+A soft, lightly enriched dough for hoagies, cheesesteaks, and sandwich rolls.
+No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale any batch.
 
 ## Background
 
-I experimented with this recipe to make Philly cheesestake sandwiches, and they turned out amazing. This also works really well for other types of sandwhiches. 
+This started as a Philly cheesesteak roll test and became a go-to sandwich dough.
+The formula stays soft without turning fragile, which makes it forgiving for everyday baking.
 
 ## Ingredients (Example Batch)
-- **Flour** — 500g (100%)  
-- **Water** — 340g (68%)  
-- **Yeast** — 5g (1%)  
-- **Salt** — 10g (2%)  
-- **Sugar** — 10g (2%)  
-- **Olive oil** — 15g (3%)  
+- **Flour** - 500g (100%)  
+- **Water** - 340g (68%)  
+- **Yeast** - 5g (1%)  
+- **Salt** - 10g (2%)  
+- **Sugar** - 10g (2%)  
+- **Olive oil** - 15g (3%)  
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+
 ---
 
 ## Procedure
@@ -61,26 +64,30 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Combine ingredients until a rough dough forms.
 
 ### 2. Bulk Fermentation (Cold)
-- Refrigerate **12–18 hours**.
-- Perform **2–3 folds every 30 minutes** in the first 1–1.5 hours.
+- Refrigerate **12-18 hours**.
+- Perform **2-3 folds every 30 minutes** in the first 1-1.5 hours.
 
 ### 3. Pre-Shape
 - Turn dough out and divide into portions.  
-- Pre-shape into rounds; rest **20–30 minutes**.
+- Pre-shape into rounds; rest **20-30 minutes**.
 
 ### 4. Final Shape
 - Shape into hoagie rolls or sandwich buns.
 
 ### 5. Proofing
-- Allow to rise at room temp until puffy.
+- Allow to rise at room temperature until puffy.
 
 ### 6. Baking
-- Bake at **425°F (220°C)** for **20–25 minutes** until lightly golden.
+- Bake at **425°F (220°C)** for **20-25 minutes** until lightly golden.
 
 ### 7. Cooling
 - Brush with melted butter right after removing from the oven and cover with a kitchen towel.
 - Allow to cool fully.
 
-::: info
-As an Amazon Associate I earn from qualifying purchases.
-:::
+## Related Guides
+- [Enrichment](/guides/enrichment)
+- [Hydration](/guides/hydration)
+- [Baker's Percentage](/guides/bakers-percentage)
+
+> **Affiliate Disclaimer**  
+> This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

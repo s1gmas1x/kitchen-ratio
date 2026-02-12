@@ -63,6 +63,7 @@ export default defineConfig({
       text: 'Techniques',
       collapsed: false,
       items: [
+        { text: 'No-Knead vs Kneading', link: '/guides/no-knead-vs-kneading' },
         { text: 'Folding', link: '/guides/folding' },
         { text: 'Cold Fermentation', link: '/guides/cold-fermentation' }
       ]
@@ -92,7 +93,10 @@ export default defineConfig({
     {
       text: 'Pizza',
       collapsed: false,
-      items: [{ text: 'Colorado-Style Pizza Dough', link: '/recipes/colorado-pizza-dough' }]
+      items: [
+        { text: 'Colorado-Style Pizza Dough', link: '/recipes/colorado-pizza-dough' },
+        { text: 'Cold Iron Cloud Pan Pizza', link: '/recipes/cold-iron-cloud-pan-pizza' }
+      ]
     },
     {
       text: 'Flatbreads',

@@ -47,7 +47,7 @@ The Yield Planner is your batch reality check. Give it total dough weight, pick 
 If your dough loses weight during mixing, resting, or benching, check **Use actual final weight** and enter the weighed total in grams. The planner swaps in that real-world number so your yield stays honest.
 
 > [!NOTE]
-> Dough weight is the input; pieces are the output. The tool never “makes” dough — it just divides what you already have.
+> Dough weight is the input; pieces are the output. The tool never "makes" dough - it just divides what you already have.
 
 ## Common Starting Weights
 These are solid starting points. Adjust for dough type, hydration, and the finished size you want.
@@ -75,6 +75,10 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Stiffer doughs feel tighter in smaller pieces; softer doughs can handle slightly larger pieces.  
 - If you tweak hydration, re-check piece size after a short rest.
 
-::: info
-As an Amazon Associate I earn from qualifying purchases.
-:::
+## Related Guides
+- [KitchenRatio Calculator](/guides/kitchenratio-calculator)
+- [Hydration](/guides/hydration)
+- [No-knead Tortillas](/recipes/tortillas)
+
+> **Affiliate Disclaimer**  
+> This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

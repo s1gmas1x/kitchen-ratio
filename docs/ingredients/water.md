@@ -4,7 +4,8 @@ title: Water
 
 # Water
 
-Water hydrates the flour, activates the yeast, and determines dough extensibility. Hydration percentage is one of the most important baker’s-percentage concepts.
+Water is more than "just water." It wakes up fermentation, hydrates starch and gluten, and sets the tone for how tight or stretchy your dough feels.
+Hydration percentage is one of the most important baker's-percentage levers you can control.
 
 ## Why Water Quality Matters
 
@@ -34,5 +35,11 @@ Hydration percentage controls:
 
 ## Tips
 - Warmer water speeds fermentation; colder water slows it.  
-- If dough is tearing instead of stretching, increase hydration by **1–2%**.  
-- For whole wheat doughs, increase hydration **4–8%**.  
+- If dough is tearing instead of stretching, increase hydration by **1-2%**.  
+- For whole wheat doughs, increase hydration **4-8%**.  
+- Match water temperature to your timeline: warm for same-day dough, cooler for long ferments.  
+
+## Related Guides
+- [Hydration](/guides/hydration)
+- [Yeast](/ingredients/yeast)
+- [Cold Fermentation](/guides/cold-fermentation)
