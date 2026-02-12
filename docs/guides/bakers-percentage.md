@@ -71,3 +71,6 @@ The baker's percentages are:
 - [Hydration](/guides/hydration)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

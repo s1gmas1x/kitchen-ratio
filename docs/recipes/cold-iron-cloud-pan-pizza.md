@@ -143,6 +143,9 @@ High hydration is not the gimmick here; process control is.
 - [Cold Fermentation](/guides/cold-fermentation)
 - [Folding](/guides/folding)
 
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
 ## Related Recipes
 - [Colorado Style Pizza Dough](/recipes/colorado-pizza-dough)
 

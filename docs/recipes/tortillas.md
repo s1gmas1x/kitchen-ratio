@@ -99,5 +99,8 @@ I prefer lard, but any neutral fat works.
 - [Hydration](/guides/hydration)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
 > **Affiliate Disclaimer**  
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

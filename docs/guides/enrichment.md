@@ -63,3 +63,6 @@ These enrichments can be used lightly or heavily depending on the style of dough
 - [Hydration](/guides/hydration)
 - [Flour](/ingredients/flour)
 - [Lightly Enriched Hoagie Rolls](/recipes/lightly-enriched-hoagie)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

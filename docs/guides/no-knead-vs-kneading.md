@@ -106,3 +106,6 @@ For hydration context, see [Hydration](/guides/hydration).
 - [Folding](/guides/folding)
 - [Cold Fermentation](/guides/cold-fermentation)
 - [French Bread](/recipes/french-bread)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

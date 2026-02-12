@@ -70,3 +70,6 @@ Every ingredient updates automatically.
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Baker's Percentage](/guides/bakers-percentage)
 - [Hydration](/guides/hydration)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

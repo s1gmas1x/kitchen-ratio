@@ -87,3 +87,6 @@ Everything else follows automatically.
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 - [Hydration](/guides/hydration)
 - [Yield Planner](/guides/yield-planner)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

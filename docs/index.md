@@ -1,5 +1,5 @@
 ---
-title: Baker's Math & Dough Hydration Calculator | KitchenRatio
+title: Baker's Math & Dough Hydration Calculator
 description: Free baker's math and dough hydration calculator. Scale bread, pizza, and flatbread recipes using baker's percentages.
 
 head:

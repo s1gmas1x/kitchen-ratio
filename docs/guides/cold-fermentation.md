@@ -59,3 +59,6 @@ You are trading clock time for better structure and taste.
 - [Yeast](/ingredients/yeast)
 - [Folding](/guides/folding)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

@@ -129,6 +129,9 @@ Put it on the edge of the peel so it slides off easily onto the stone or steel i
 - [Cold Fermentation](/guides/cold-fermentation)
 - [Flour](/ingredients/flour)
 
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
 ## Related Recipes
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
 

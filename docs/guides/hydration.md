@@ -126,3 +126,6 @@ Experiment with different hydration levels to find what works best for your baki
 - [Baker's Percentage](/guides/bakers-percentage)
 - [Water](/ingredients/water)
 - [Flour](/ingredients/flour)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

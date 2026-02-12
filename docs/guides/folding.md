@@ -108,3 +108,6 @@ Once you finish the folding rounds, let the dough continue its bulk fermentation
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Cold Fermentation](/guides/cold-fermentation)
 - [Hydration](/guides/hydration)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
