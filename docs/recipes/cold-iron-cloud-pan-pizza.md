@@ -71,17 +71,15 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Do not knead.
 - Rest 10 minutes.
 
-### 2. Build Structure (Coil Folds)
-- With wet hands, perform one fold, then rest 5 minutes.
-- Repeat for 4 total folds.
-- By the last fold, dough should feel smoother, more elastic, and still very soft.
-- Think of folds as structured gluten alignment, not brute-force kneading.
+### 2. Initial Chill + Fold #1
+- Cover and refrigerate for 30 minutes.
+- Perform the first fold.
 
-### 3. Pre-Fridge Rest + Cold Ferment
-- Cover and rest 30-40 minutes at room temperature.
-- Refrigerate 24-72 hours.
-- Longer cold time builds deeper flavor and better extensibility.
-- Cold time also softens yeast harshness and makes this dough easier to open in the pan.
+### 3. Fold Schedule + Cold Ferment
+- Return dough to the fridge and perform the second fold after a few hours.
+- Perform one final fold once the first 24 hours are complete.
+- Total folds: **3**.
+- Continue cold fermenting for another 24 hours (48 hours total cold bulk fermentation).
 
 ### 4. Pan + Final Proof
 - Generously oil your enameled cast-iron braiser or heavy pan.
