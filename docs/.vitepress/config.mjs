@@ -78,6 +78,8 @@ export default defineConfig({
       text: 'Techniques',
       collapsed: false,
       items: [
+        { text: 'Preferments', link: '/guides/preferments' },
+        { text: 'Scalds', link: '/guides/scalds' },
         { text: 'No-Knead vs Kneading', link: '/guides/no-knead-vs-kneading' },
         { text: 'Folding', link: '/guides/folding' },
         { text: 'Cold Fermentation', link: '/guides/cold-fermentation' }

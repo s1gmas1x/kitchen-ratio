@@ -16,6 +16,8 @@ Choose a guide below to get started:
 - [Enrichment](/guides/enrichment)
 
 ## Techniques
+- [Preferments](/guides/preferments)
+- [Scalds](/guides/scalds)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Folding](/guides/folding)
 - [Cold Fermentation](/guides/cold-fermentation)
