@@ -36,6 +36,7 @@ export default defineConfig({
   },
 
   themeConfig: {
+    externalLinkIcon: false,
     logo: {
       light: '/logo2darktrans.svg', // shown in light mode
       dark: '/logo2lighttrans.svg',   // shown in dark mode
@@ -49,7 +50,7 @@ export default defineConfig({
       { text: 'Ingredients', link: '/ingredients/' },
       {
         text: 'Calculator',
-        link: '/calculator'
+        link: 'https://kitchenratio.com/calculator'
       }
     ],
 

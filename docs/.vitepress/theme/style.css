@@ -254,3 +254,7 @@ html.dark .navbar-brand img {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* Keep calculator nav as absolute URL without showing external-link glyph */
+.VPNavBarMenu .vp-external-link-icon::after {
+  display: none !important;
+}
