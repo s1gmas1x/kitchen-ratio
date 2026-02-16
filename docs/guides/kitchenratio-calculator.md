@@ -36,7 +36,7 @@ head:
 
 # KitchenRatio Calculator
 
-The KitchenRatio calculator scales doughs with baker's percentages, fast. You set the ratio once, then move the flour and everything updates. No napkin math, no mystery. Access it at https://calculator.kitchenratio.com.
+The KitchenRatio calculator scales doughs with baker's percentages, fast. You set the ratio once, then move the flour and everything updates. No napkin math, no mystery. Access it at https://kitchenratio.com/calculator.
 
 ## Presets (Start Smart, Then Tweak)
 Presets give you a reliable baseline for breads, pizza, and flatbreads. Pick one, then adjust flour to scale and sliders to dial it in. You get a proven ratio without the guesswork, and you can still make it yours.

@@ -40,7 +40,7 @@ head:
 
 A cold-fermented dough inspired by the original Fargo's Pizza Co. style.
 This version is tuned for home baking: malty flavor, tender interior, and crisp crust.
-Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
 
 ## Background
 

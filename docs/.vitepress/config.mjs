@@ -16,7 +16,23 @@ export default defineConfig({
 
 
   sitemap: {
-    hostname: 'https://kitchenratio.com'
+    hostname: 'https://kitchenratio.com',
+    transformItems: (items) => {
+      const calculatorPath = '/calculator'
+      const hasCalculator = items.some((item) => {
+        try {
+          return new URL(item.url, 'https://kitchenratio.com').pathname === calculatorPath
+        } catch {
+          return false
+        }
+      })
+
+      if (!hasCalculator) {
+        items.push({ url: calculatorPath })
+      }
+
+      return items
+    }
   },
 
   themeConfig: {
@@ -33,9 +49,7 @@ export default defineConfig({
       { text: 'Ingredients', link: '/ingredients/' },
       {
         text: 'Calculator',
-        link: 'https://calculator.kitchenratio.com',
-        target: '_blank',
-        rel: 'noopener noreferrer'
+        link: '/calculator'
       }
     ],
 

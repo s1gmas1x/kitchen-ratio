@@ -46,7 +46,7 @@ head:
 <img src="/images/recipes/french-bread.jpg" alt="French Bread fresh from the oven" style="max-width:100%; height:auto; display:block; margin:1rem 0; border-radius:6px;">
 
 A simple no-knead French bread at 70% hydration: crisp crust, tender interior, and straightforward handling.
-Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale it without changing the ratio.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale it without changing the ratio.
 
 ## Ingredients (Example Batch)
 - **Flour** - 350g  

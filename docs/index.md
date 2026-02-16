@@ -79,7 +79,7 @@ hero:
   actions:
     - theme: brand
       text: "Try the Calculator"
-      link: "https://calculator.kitchenratio.com"
+      link: "https://kitchenratio.com/calculator"
       target: "_blank"
     - theme: alt
       text: "Browse Guides"

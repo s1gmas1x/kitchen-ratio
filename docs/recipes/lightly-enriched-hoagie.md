@@ -39,7 +39,7 @@ head:
 # Lightly Enriched Hoagie Rolls
 
 A soft, lightly enriched dough for hoagies, cheesesteaks, and sandwich rolls.
-No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://calculator.kitchenratio.com) to scale any batch.
+No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch.
 
 ## Background
 
