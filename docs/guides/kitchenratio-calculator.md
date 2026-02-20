@@ -84,6 +84,7 @@ Everything else follows automatically.
 - Pair this with [Baker's Percentage](/guides/bakers-percentage) to understand the "why."
 
 ## Related Guides
+- [Fermentation & Proofing Planner](/guides/fermentation-and-proofing-planner)
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 - [Hydration](/guides/hydration)
 - [Yield Planner](/guides/yield-planner)

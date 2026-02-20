@@ -9,6 +9,7 @@ Choose a guide below to get started:
 
 ## Core Concepts
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
+- [Fermentation & Proofing Planner](/guides/fermentation-and-proofing-planner)
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 - [Yield Planner](/guides/yield-planner)
 - [Baker's Percentage](/guides/bakers-percentage)
