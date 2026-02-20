@@ -56,10 +56,15 @@ Each stage (bulk and proofing) has the same controls:
 - **Mode**: `Room` or `Cold`
 - **Use actual room or refrigerator temp** toggle
 - Optional stage temperature input in °F
+- Celsius is shown below the Fahrenheit value for quick reference
 
 If "Use actual" is off, the calculator uses stored defaults:
 - Room: **72°F**
 - Cold: **38°F**
+
+Those defaults are also readable as:
+- Room: **22°C**
+- Cold: **3°C**
 
 When "Use actual" is on, allowed ranges are:
 - Room temp: **32-110°F**
@@ -125,4 +130,3 @@ Reset behavior returns fermentation planning to:
 - [Cold Fermentation](/guides/cold-fermentation)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Hydration](/guides/hydration)
-

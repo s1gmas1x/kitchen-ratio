@@ -17,6 +17,8 @@ Choose a guide below to get started:
 - [Enrichment](/guides/enrichment)
 
 ## Techniques
+- [Fermentation](/guides/fermentation)
+- [Proofing](/guides/proofing)
 - [Preferments](/guides/preferments)
 - [Scalds](/guides/scalds)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)

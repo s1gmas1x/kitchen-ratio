@@ -79,6 +79,8 @@ export default defineConfig({
       text: 'Techniques',
       collapsed: false,
       items: [
+        { text: 'Fermentation', link: '/guides/fermentation' },
+        { text: 'Proofing', link: '/guides/proofing' },
         { text: 'Preferments', link: '/guides/preferments' },
         { text: 'Scalds', link: '/guides/scalds' },
         { text: 'No-Knead vs Kneading', link: '/guides/no-knead-vs-kneading' },
