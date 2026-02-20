@@ -13,6 +13,10 @@ Bake reliable breads and doughs with baker's percentages and the KitchenRatio ca
 ## Pizza
 - [Colorado-Style Pizza Dough](/recipes/colorado-pizza-dough)
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
+- [New York Style Pizza (Home-Oven Optimized)](/recipes/new-york-style-pizza)
+- [Detroit Style Pan Pizza](/recipes/detroit-style-pan-pizza)
+- [Sicilian Pan Pizza](/recipes/sicilian-pan-pizza)
+- [Roman Pizza al Taglio (High Hydration)](/recipes/roman-al-taglio-pizza)
 
 ## Flatbreads
 - [Tortillas](/recipes/tortillas)

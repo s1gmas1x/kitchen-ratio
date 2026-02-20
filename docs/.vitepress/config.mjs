@@ -112,7 +112,11 @@ export default defineConfig({
       collapsed: false,
       items: [
         { text: 'Colorado-Style Pizza Dough', link: '/recipes/colorado-pizza-dough' },
-        { text: 'Cold Iron Cloud Pan Pizza', link: '/recipes/cold-iron-cloud-pan-pizza' }
+        { text: 'Cold Iron Cloud Pan Pizza', link: '/recipes/cold-iron-cloud-pan-pizza' },
+        { text: 'New York Style Pizza (Home-Oven Optimized)', link: '/recipes/new-york-style-pizza' },
+        { text: 'Detroit Style Pan Pizza', link: '/recipes/detroit-style-pan-pizza' },
+        { text: 'Sicilian Pan Pizza', link: '/recipes/sicilian-pan-pizza' },
+        { text: 'Roman Pizza al Taglio (High Hydration)', link: '/recipes/roman-al-taglio-pizza' }
       ]
     },
     {
