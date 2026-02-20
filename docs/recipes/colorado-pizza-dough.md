@@ -53,15 +53,14 @@ The original dough ran at a much **lower hydration**, closer to a cracker-style 
 - Handling (without a sheeter)  
 - Crust texture: lighter, less dense, and more open
 
-If you want something closer to the restaurant version, reduce hydration.  
-If you drop it **below 65%**, I recommend kneading for **8-10 minutes** after mixing.
+This version is now set to **62% hydration** for easier home handling. After testing, I found this level easier to work with when getting the pizza off the peel.
 
 ---
 
 ## Ingredients (Example Batch)
 
 - **Flour** - 550g  
-- **Water** - 363g (66% hydration)  
+- **Water** - 341g (62% hydration)  
 - **Yeast** - 1.6g (0.3%)  
 - **Olive oil** - 39g (7%) 
 - **Salt** - 11g (2%) 
@@ -82,7 +81,7 @@ The low yeast percentage (0.3%) slows fermentation during the long cold rise:
 ### 1. Mixing
 - Combine all ingredients until a rough, cohesive dough forms.
 - If using active dry yeast, hydrate it in water for about 10 minutes before adding the rest of the ingredients.  
-- Intensive kneading isn't necessary at this hydration level.
+- At 62% hydration, knead for **4-6 minutes** after mixing to build strength early.
 
 > [!NOTE]
 > You have two options for adding the oil:
@@ -94,7 +93,7 @@ The low yeast percentage (0.3%) slows fermentation during the long cold rise:
 
 ### 2. Bulk Fermentation (Cold)
 - Place the dough in the refrigerator for **24 hours**.  
-- Perform **2 gentle folds** within the first hour to strengthen the dough:
+- Perform **2 gentle folds** within the first hour to strengthen the dough (a third fold is optional if it still feels tight or uneven):
   - Mix the dough and place it in the refrigerator.  
   - After 30 minutes, remove, perform one fold, and return to the fridge.  
   - After another 30 minutes, perform the second fold and refrigerate.

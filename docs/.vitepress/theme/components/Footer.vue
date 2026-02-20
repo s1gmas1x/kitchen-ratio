@@ -17,10 +17,19 @@
     Tip checkout was canceled.
   </div>
 
-  <footer class="site-footer">
+  <footer class="site-footer" :class="{ 'site-footer--with-sidebar': hasSidebar }">
     <div class="footer-text">
       <p>As an Amazon Associate I earn from qualifying purchases.</p>
       <p>© 2025-{{ year }} KitchenRatio</p>
+      <p class="footer-legal-links">
+        <a href="/privacy-policy">Privacy Policy</a>
+        <span aria-hidden="true">·</span>
+        <a href="/cookie-policy">Cookie Policy</a>
+        <span aria-hidden="true">·</span>
+        <button type="button" class="footer-link-button" @click="openCookiePreferences">
+          Cookie Preferences
+        </button>
+      </p>
 
       <div id="tip-button-container">
         <p>Enjoying KitchenRatio? Drop a tip to support ongoing development.</p>
@@ -118,6 +127,13 @@ let tipCanceledTimer = null
 const customMinDollars = computed(() => (tipCustomMinCents.value / 100).toFixed(2))
 const effectiveCustomMaxCents = computed(() => Math.min(tipCustomMaxCents.value, hardCustomMaxCents))
 const customMaxDollars = computed(() => (effectiveCustomMaxCents.value / 100).toFixed(2))
+const hasSidebar = computed(() => {
+  return (
+    route.path.startsWith('/guides/') ||
+    route.path.startsWith('/recipes/') ||
+    route.path.startsWith('/ingredients/')
+  )
+})
 const customTipCheckoutLabel = computed(() => {
   const amount = Number(customTipDollars.value)
   if (!Number.isFinite(amount) || amount <= 0) {
@@ -362,6 +378,10 @@ watch(
 onBeforeUnmount(() => {
   clearTipTimers()
 })
+
+function openCookiePreferences() {
+  window.dispatchEvent(new Event('open-cookie-preferences'))
+}
 </script>
 
 <style>
@@ -382,6 +402,31 @@ onBeforeUnmount(() => {
   box-sizing: border-box;
   text-align: left;
   line-height: 1.4;
+}
+
+.site-footer:not(.site-footer--with-sidebar) .footer-text {
+  max-width: var(--vp-layout-max-width);
+}
+
+.footer-legal-links {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.footer-legal-links a {
+  color: var(--vp-c-brand-1);
+}
+
+.footer-link-button {
+  border: 0;
+  background: none;
+  color: var(--vp-c-brand-1);
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+  text-decoration: underline;
 }
 
 #tip-button-container {
@@ -502,13 +547,13 @@ onBeforeUnmount(() => {
 }
 
 @media (min-width: 960px) and (max-width: 1439px) {
-  .footer-text {
+  .site-footer--with-sidebar .footer-text {
     padding-left: calc(var(--vp-sidebar-width) + 2rem);
   }
 }
 
 @media (min-width: 1440px) {
-  .footer-text {
+  .site-footer--with-sidebar .footer-text {
     padding-left: calc((100% - var(--vp-layout-max-width)) / 2 + var(--vp-sidebar-width) + 2rem);
     padding-right: calc((100% - var(--vp-layout-max-width)) / 2 + 1rem);
   }

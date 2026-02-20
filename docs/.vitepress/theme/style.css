@@ -255,6 +255,7 @@ html.dark .navbar-brand img {
 }
 
 /* Keep calculator nav as absolute URL without showing external-link glyph */
-.VPNavBarMenu .vp-external-link-icon::after {
+.VPNavBarMenu .vp-external-link-icon::after,
+.VPNavScreenMenu .vp-external-link-icon::after {
   display: none !important;
 }

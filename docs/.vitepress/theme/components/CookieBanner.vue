@@ -1,28 +1,29 @@
 <script setup>
-import { ref, onMounted, watch } from "vue";
+import { onBeforeUnmount, onMounted, ref, watch } from 'vue'
 
-const showBanner = ref(false);
+const showBanner = ref(false)
+const consentValue = ref(null)
 
 // disable scrolling when the banner is shown
 watch(showBanner, (isVisible) => {
-  document.body.style.overflow = isVisible ? "hidden" : "";
-});
+  document.body.style.overflow = isVisible ? 'hidden' : ''
+})
 
 // helper to get a cookie by name
 function getCookie(name) {
-  const match = document.cookie.match(new RegExp('(^|; )' + name + '=([^;]+)'));
-  return match ? decodeURIComponent(match[2]) : null;
+  const match = document.cookie.match(new RegExp(`(^|; )${name}=([^;]+)`))
+  return match ? decodeURIComponent(match[2]) : null
 }
 
 // helper to set a cookie for all subdomains (or localhost for testing)
 function setCookie(name, value, days = 365) {
-  const expires = new Date(Date.now() + days*24*60*60*1000).toUTCString();
-  const domain = window.location.hostname.includes("localhost") ? "" : ".kitchenratio.com";
-  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/;${domain ? ` domain=${domain}` : ""}`;
+  const expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString()
+  const domain = window.location.hostname.includes('localhost') ? '' : '.kitchenratio.com'
+  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/;${domain ? ` domain=${domain}` : ''}`
 }
 
 function initializeGA() {
-  if (window.gtag) return; // already initialized
+  if (window.gtag) return
 
   const script = document.createElement('script')
   script.src = 'https://www.googletagmanager.com/gtag/js?id=G-T4SQXKGZK8'
@@ -39,32 +40,47 @@ function initializeGA() {
 }
 
 async function trackInternal() {
-  console.log("User declined cookies")
+  // Hook for optional internal analytics when consent is declined.
+}
+
+function updateBannerFromConsent() {
+  consentValue.value = getCookie('ga-consent')
+  showBanner.value = !consentValue.value
+}
+
+function openCookiePreferences() {
+  showBanner.value = true
 }
 
 onMounted(() => {
-  const consent = getCookie("ga-consent");
-  if (!consent) {
-    showBanner.value = true;
-  } else if (consent === "accepted") {
-    initializeGA();
+  updateBannerFromConsent()
+  if (consentValue.value === 'accepted') {
+    initializeGA()
   }
-});
+  window.addEventListener('open-cookie-preferences', openCookiePreferences)
+})
+
+onBeforeUnmount(() => {
+  window.removeEventListener('open-cookie-preferences', openCookiePreferences)
+  document.body.style.overflow = ''
+})
 
 function acceptCookies() {
-  setCookie("ga-consent", "accepted");
-  showBanner.value = false;
-  initializeGA();
+  setCookie('ga-consent', 'accepted')
+  showBanner.value = false
+  consentValue.value = 'accepted'
+  initializeGA()
 }
 
 async function declineCookies() {
-  setCookie("ga-consent", "declined");
-  showBanner.value = false;
+  setCookie('ga-consent', 'declined')
+  showBanner.value = false
+  consentValue.value = 'declined'
 
   try {
-    await trackInternal("cookie_decline", "banner");
+    await trackInternal('cookie_decline', 'banner')
   } catch (error) {
-    console.error("Tracking failed", error);
+    console.error('Tracking failed', error)
   }
 }
 </script>
@@ -72,7 +88,11 @@ async function declineCookies() {
 <template>
   <div v-if="showBanner" class="cookie-overlay">
     <div class="cookie-banner">
-      <p>This site uses cookies for analytics to improve your experience.</p>
+      <p>
+        This site uses cookies for analytics to improve your experience. See our
+        <a href="/privacy-policy">Privacy Policy</a> and
+        <a href="/cookie-policy">Cookie Policy</a>.
+      </p>
       <div class="button-container">
         <button class="primary" @click="acceptCookies">Accept</button>
         <button class="alt" @click="declineCookies">Decline</button>
@@ -105,6 +125,14 @@ async function declineCookies() {
   align-items: center;
 }
 
+.cookie-banner p {
+  margin: 0;
+}
+
+.cookie-banner a {
+  color: var(--vp-c-brand-1);
+}
+
 .button-container {
   display: flex;
   gap: 0.75rem;
@@ -112,12 +140,12 @@ async function declineCookies() {
 }
 
 .cookie-banner button {
-    border-radius: 20px;
-    padding: 0 20px;
-    line-height: 38px;
-    font-size: 12px;
-    font-weight: 800;
-    cursor: pointer;
+  border-radius: 20px;
+  padding: 0 20px;
+  line-height: 38px;
+  font-size: 12px;
+  font-weight: 800;
+  cursor: pointer;
 }
 
 /* Brand button – matches VitePress 'brand' theme button */
@@ -152,5 +180,17 @@ async function declineCookies() {
 .cookie-banner button.alt:active {
   background: var(--vp-button-alt-active-bg);
   color: var(--vp-button-alt-active-text);
+}
+
+@media (max-width: 768px) {
+  .cookie-banner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .button-container {
+    margin-left: 0;
+  }
 }
 </style>
