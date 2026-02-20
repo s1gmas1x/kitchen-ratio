@@ -125,7 +125,7 @@ Put it on the edge of the peel so it slides off easily onto the stone or steel i
 
 ## Related Guides
 - [Hydration](/guides/hydration)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [Flour](/ingredients/flour)
 
 ## Get the Gear

@@ -23,7 +23,6 @@ Choose a guide below to get started:
 - [Scalds](/guides/scalds)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Folding](/guides/folding)
-- [Cold Fermentation](/guides/cold-fermentation)
 
 ## Gear
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

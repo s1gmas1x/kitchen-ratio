@@ -123,7 +123,7 @@ This batch works well for one 10x14-inch tray or similar surface area.
 
 ## Related Guides
 - [Hydration](/guides/hydration)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
 ## Get the Gear

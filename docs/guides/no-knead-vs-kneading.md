@@ -104,7 +104,7 @@ For hydration context, see [Hydration](/guides/hydration).
 
 ## Related Guides
 - [Folding](/guides/folding)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [French Bread](/recipes/french-bread)
 
 ## Get the Gear

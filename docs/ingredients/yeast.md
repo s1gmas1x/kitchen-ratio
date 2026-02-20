@@ -59,5 +59,5 @@ And yes, this is the important part: that hydration water is automatically subtr
 
 ## Related Guides
 - [Water](/ingredients/water)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)

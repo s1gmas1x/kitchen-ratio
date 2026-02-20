@@ -119,7 +119,7 @@ This batch generally fits a 9x13-inch pan for a medium-thick Sicilian profile.
 
 ## Related Guides
 - [Hydration](/guides/hydration)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
 ## Get the Gear

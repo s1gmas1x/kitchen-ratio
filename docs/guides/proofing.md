@@ -88,6 +88,6 @@ For better consistency, keep your dough temperature and container setup repeatab
 
 ## Related Guides
 - [Fermentation](/guides/fermentation)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Hydration](/guides/hydration)

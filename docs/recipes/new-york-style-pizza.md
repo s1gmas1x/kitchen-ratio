@@ -120,7 +120,7 @@ Launch from a peel with enough bench flour to slide, but not so much that the bo
 
 ## Related Guides
 - [Hydration](/guides/hydration)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [Flour](/ingredients/flour)
 
 ## Get the Gear

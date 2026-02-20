@@ -84,8 +84,7 @@ export default defineConfig({
         { text: 'Preferments', link: '/guides/preferments' },
         { text: 'Scalds', link: '/guides/scalds' },
         { text: 'No-Knead vs Kneading', link: '/guides/no-knead-vs-kneading' },
-        { text: 'Folding', link: '/guides/folding' },
-        { text: 'Cold Fermentation', link: '/guides/cold-fermentation' }
+        { text: 'Folding', link: '/guides/folding' }
       ]
     },
     {
@@ -107,7 +106,8 @@ export default defineConfig({
       collapsed: false,
       items: [
         { text: 'French Bread', link: '/recipes/french-bread' },
-        { text: 'Lightly Enriched Hoagie', link: '/recipes/lightly-enriched-hoagie' }
+        { text: 'Lightly Enriched Hoagie', link: '/recipes/lightly-enriched-hoagie' },
+        { text: 'Brioche (Early Butter, Cold Ferment)', link: '/recipes/brioche-early-butter-cold-ferment' }
       ]
     },
     {

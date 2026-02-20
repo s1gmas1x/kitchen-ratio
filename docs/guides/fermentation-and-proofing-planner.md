@@ -127,6 +127,6 @@ Reset behavior returns fermentation planning to:
 
 ## Related Guides
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Hydration](/guides/hydration)

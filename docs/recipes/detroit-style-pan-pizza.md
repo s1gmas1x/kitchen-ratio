@@ -124,7 +124,7 @@ This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller 
 
 ## Related Guides
 - [Hydration](/guides/hydration)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
 ## Get the Gear

@@ -42,4 +42,4 @@ Hydration percentage controls:
 ## Related Guides
 - [Hydration](/guides/hydration)
 - [Yeast](/ingredients/yeast)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)

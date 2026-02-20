@@ -65,6 +65,12 @@ Yeast makes gas, enzymes keep working, and time changes flavor and structure.
 - **Room fermentation** moves faster and needs tighter timing.
 - **Cold fermentation** moves slower and gives wider timing tolerance plus deeper flavor.
 
+### Cold Fermentation Baseline
+
+- Refrigerate dough **12-48 hours** as a practical starting range.
+- Keep dough covered to prevent surface drying.
+- Expect final proofing to move more slowly after cold storage.
+
 If your dough keeps overshooting, lower yeast or go colder.  
 If it keeps lagging, increase temperature or give more time.
 
@@ -81,9 +87,10 @@ If it keeps lagging, increase temperature or give more time.
 - **Dough too fast**: cooler spot, shorter bulk, or slightly less yeast next batch
 - **Dough tight after bulk**: longer bench rest before shaping
 - **Dough weak after bulk**: end bulk earlier next time or add one more fold cycle
+- **Sluggish from fridge**: add extra bench time before shaping or baking
+- **Overproofing during cold storage**: reduce yeast slightly next batch
 
 ## Related Guides
 - [Proofing](/guides/proofing)
-- [Cold Fermentation](/guides/cold-fermentation)
 - [Folding](/guides/folding)
 - [Hydration](/guides/hydration)

@@ -138,7 +138,7 @@ High hydration is not the gimmick here; process control is.
 
 ## Related Guides
 - [Hydration](/guides/hydration)
-- [Cold Fermentation](/guides/cold-fermentation)
+- [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
 ## Get the Gear
