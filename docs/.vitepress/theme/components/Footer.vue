@@ -5,7 +5,7 @@
     role="status"
     aria-live="polite"
   >
-    Thank you for your support. Your tip was successful.
+    Thanks for supporting KitchenRatio. Your tip went through.
   </div>
 
   <div
@@ -14,7 +14,7 @@
     role="status"
     aria-live="polite"
   >
-    Tip checkout was canceled.
+    Tip canceled. No worries! Glad you stopped by, and thanks for checking out KitchenRatio.
   </div>
 
   <footer class="site-footer" :class="{ 'site-footer--with-sidebar': hasSidebar }">
@@ -89,7 +89,7 @@
         </div>
 
         <p v-if="tipSuccess" class="tip-message tip-message-success">
-          Thank you for your support. Your tip was successful.
+          Thanks for supporting KitchenRatio. Your tip went through.
         </p>
 
         <p v-if="tipError" class="tip-message tip-message-error">
@@ -119,7 +119,7 @@ const tipCustomMinCents = ref(100)
 const tipCustomMaxCents = ref(5000)
 const hardCustomMaxCents = 5000
 
-const tipCanceledMessage = 'Tip checkout was canceled.'
+const tipCanceledMessage = 'Tip canceled. No worries! Glad you stopped by, and thanks for checking out KitchenRatio.'
 const tipTenantKey = 'kitchenratio'
 let tipSuccessTimer = null
 let tipCanceledTimer = null
