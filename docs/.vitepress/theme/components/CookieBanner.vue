@@ -39,6 +39,36 @@ function initializeGA() {
   }
 }
 
+function isAmazonAffiliateUrl(urlString) {
+  try {
+    const url = new URL(urlString, window.location.origin)
+    const host = url.hostname.toLowerCase()
+    return /(^|\.)amzn\.to$/.test(host) || /(^|\.)amazon\./.test(host)
+  } catch {
+    return false
+  }
+}
+
+function trackAffiliateClick(event) {
+  const anchor = event.target?.closest?.('a[href]')
+  if (!anchor) return
+  const href = anchor.getAttribute('href') || ''
+  if (!href || !isAmazonAffiliateUrl(href)) return
+  if (typeof window.gtag !== 'function') return
+
+  const absoluteUrl = new URL(href, window.location.origin).toString()
+  const linkText = (anchor.textContent || '').trim().slice(0, 120)
+
+  window.gtag('event', 'affiliate_click', {
+    event_category: 'affiliate',
+    event_label: absoluteUrl,
+    affiliate_network: 'amazon',
+    link_url: absoluteUrl,
+    link_domain: new URL(absoluteUrl).hostname,
+    link_text: linkText || 'affiliate_link',
+  })
+}
+
 async function trackInternal() {
   // Hook for optional internal analytics when consent is declined.
 }
@@ -58,10 +88,12 @@ onMounted(() => {
     initializeGA()
   }
   window.addEventListener('open-cookie-preferences', openCookiePreferences)
+  document.addEventListener('click', trackAffiliateClick)
 })
 
 onBeforeUnmount(() => {
   window.removeEventListener('open-cookie-preferences', openCookiePreferences)
+  document.removeEventListener('click', trackAffiliateClick)
   document.body.style.overflow = ''
 })
 
