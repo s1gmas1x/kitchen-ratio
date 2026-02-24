@@ -7,6 +7,9 @@ title: "How-To Guides"
 Improve your baking skills with clear explanations and practical technique guides.  
 Choose a guide below to get started:
 
+## Getting Started
+- [Getting Started With KitchenRatio](/guides/getting-started)
+
 ## Core Concepts
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Fermentation & Proofing Planner](/guides/fermentation-and-proofing-planner)

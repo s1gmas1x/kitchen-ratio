@@ -63,6 +63,11 @@ export default defineConfig({
       items: [{ text: 'Browse Guides', link: '/guides/' }]
     },
     {
+      text: 'Getting Started',
+      collapsed: false,
+      items: [{ text: 'Getting Started With KitchenRatio', link: '/guides/getting-started' }]
+    },
+    {
       text: 'Core Concepts',
       collapsed: false,
       items: [

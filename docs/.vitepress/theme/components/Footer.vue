@@ -20,7 +20,6 @@
   <footer class="site-footer" :class="{ 'site-footer--with-sidebar': hasSidebar }">
     <div class="footer-text">
       <p>As an Amazon Associate I earn from qualifying purchases.</p>
-      <p>© 2025-{{ year }} KitchenRatio</p>
       <p class="footer-legal-links">
         <a href="/privacy-policy">Privacy Policy</a>
         <span aria-hidden="true">·</span>
@@ -96,16 +95,19 @@
           {{ tipError }}
         </p>
       </div>
+
+      <p>© 2025-{{ year }} KitchenRatio. All rights reserved.</p>
     </div>
   </footer>
 </template>
 
 <script setup>
-import { useRoute } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 
 const year = new Date().getFullYear()
 const route = useRoute()
+const { page } = useData()
 
 const tipLoading = ref(false)
 const tipError = ref('')
@@ -128,6 +130,8 @@ const customMinDollars = computed(() => (tipCustomMinCents.value / 100).toFixed(
 const effectiveCustomMaxCents = computed(() => Math.min(tipCustomMaxCents.value, hardCustomMaxCents))
 const customMaxDollars = computed(() => (effectiveCustomMaxCents.value / 100).toFixed(2))
 const hasSidebar = computed(() => {
+  if (page.value?.isNotFound) return false
+  if (page.value?.frontmatter?.sidebar === false) return false
   return (
     route.path.startsWith('/guides/') ||
     route.path.startsWith('/recipes/') ||
@@ -417,6 +421,7 @@ function openCookiePreferences() {
 
 .footer-legal-links a {
   color: var(--vp-c-brand-1);
+  text-decoration: underline;
 }
 
 .footer-link-button {
