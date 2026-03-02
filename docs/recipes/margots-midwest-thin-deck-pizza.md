@@ -47,7 +47,7 @@ This formula is still being tested and refined.
 
 This recipe comes from long-term hands-on experience, plus a few adjustments that make it more practical at home.
 
-The original dough ran at a much **lower hydration**, closer to a cracker-style texture, which worked well with a commercial dough sheeter. For home baking, a small hydration lift improves:
+This hydration is likely very close to what we used at Fargo's: low enough for a crisp, cracker-leaning texture and well suited to sheeting. For home baking, this range still gives:
 
 - Extensibility
 - Handling (without a sheeter)
