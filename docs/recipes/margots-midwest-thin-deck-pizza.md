@@ -53,12 +53,12 @@ The original dough ran at a much **lower hydration**, closer to a cracker-style 
 - Handling (without a sheeter)
 - Crust texture while keeping the signature snap
 
-This version is currently set to **47.5% hydration** to preserve the thin, crisp Midwest deck profile while still handling cleanly at home.
+This version is currently set to **48% hydration** to preserve the thin, crisp Midwest deck profile while still handling cleanly at home.
 
 ## Baker's % (Testing Range)
 
 - **Bread flour (12.5-13% protein)** - 100%
-- **Water** - 47.5%
+- **Water** - 48%
 - **Salt** - 1.8%
 - **Corn oil** - 1.5%
 - **Diastatic malt powder** - 0.5%
@@ -74,7 +74,7 @@ This version is currently set to **47.5% hydration** to preserve the thin, crisp
 ## Ingredients (Example Batch)
 
 - **Bread flour** - 1000g (100%)
-- **Water** - 475g (47.5%)
+- **Water** - 480g (48%)
 - **Salt** - 18g (1.8%)
 - **Corn oil** - 15g (1.5%)
 - **Diastatic malt powder** - 5g (0.5%)
