@@ -57,6 +57,7 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Dough will be very loose. This is intentional.
 - If it feels too wet, resist the urge to add flour and trust the folds.
 - Oil the pan generously.
+- In older or worn enamel, line with a parchment round and oil the parchment to prevent sticking.
 - Best baked from a cold pan start.
 :::
 
@@ -83,6 +84,7 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
 ### 4. Pan + Final Proof
 - Generously oil your enameled cast-iron braiser or heavy pan.
+- Optional for older/worn enamel: add a parchment round, then oil the parchment.
 - Scrape cold dough directly into the pan.
 - Stretch and dimple with oiled fingers.
 - If it resists, wait 5 minutes and continue gently.
@@ -92,17 +94,17 @@ Need a brasier? [Tramontina Bestow Enameled Cast Iron Braiser Pan with Lid, 4-Qu
 
 ### 5. Topping
 - Top gently to preserve gas:
-  - Most of the cheese
-  - Sauce (light hand, do not flood it)
+  - Sauce (light hand, optional, do not flood it)
+  - Cheese
   - Other toppings
-  - Remaining cheese
+  - More cheese over the toppings
 
 ### 6. Bake (Cold Pan Start)
 - Oven: **450-465F (230-240C)**
-- Rack: lower third
+- Rack: bottom rack (or lowest position that avoids top burning)
 - Bake with the lid **off**.
 - Bake 25-35 minutes, rotating once if needed.
-- Bottom should finish deeply golden and crisp.
+- In a deep cast-iron or enameled braiser, it is hard to peek underneath, so push top color as dark as you are comfortable with.
 - If the top finishes early, place the room-temperature lid on to slow top browning (or tent loosely with foil).
 
 ## Pan Size and Bake Time (Starting Guide)
@@ -118,11 +120,17 @@ Use this as your first pass, then adjust by color and bottom crispness.
 
 > [!NOTE]
 > Heavy enameled cast iron can run slower than dark steel pans.
-> Trust bottom color and edge set more than the timer.
+> In heavy braisers, use top color and edge set as your primary doneness cues.
 
 ### 7. Rest
 - Rest 10-15 minutes before removing from the pan.
 - This sets the crumb, prevents collapse, and gives cleaner slices.
+
+## Variation: Cheesy Bread
+
+- Par-bake the dough plain for 12-16 minutes until set and lightly colored.
+- Brush with garlic butter.
+- Add cheese, then finish baking until deeply golden and bubbling.
 
 ## Texture and Flavor Profile
 

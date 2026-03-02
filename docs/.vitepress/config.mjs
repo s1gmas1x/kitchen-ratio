@@ -120,6 +120,7 @@ export default defineConfig({
       collapsed: false,
       items: [
         { text: 'Colorado-Style Pizza Dough', link: '/recipes/colorado-pizza-dough' },
+        { text: "Margot's Midwest Thin (Deck)", link: '/recipes/margots-midwest-thin-deck-pizza' },
         { text: 'Cold Iron Cloud Pan Pizza', link: '/recipes/cold-iron-cloud-pan-pizza' },
         { text: 'New York Style Pizza (Home-Oven Optimized)', link: '/recipes/new-york-style-pizza' },
         { text: 'Detroit Style Pan Pizza', link: '/recipes/detroit-style-pan-pizza' },

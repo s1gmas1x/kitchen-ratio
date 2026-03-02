@@ -77,3 +77,5 @@ If KitchenRatio helps you, you can leave an optional tip to support updates and 
 Checkout is handled by **Stripe** (third-party payment processor).  
 Payment details are entered there, not stored by KitchenRatio.
 
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

@@ -94,3 +94,6 @@ If it keeps lagging, increase temperature or give more time.
 - [Proofing](/guides/proofing)
 - [Folding](/guides/folding)
 - [Hydration](/guides/hydration)
+
+## Get the Gear
+- [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)

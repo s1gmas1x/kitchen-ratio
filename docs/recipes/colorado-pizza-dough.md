@@ -1,17 +1,17 @@
 ---
 title: Colorado Style Pizza Dough
-description: Cold-fermented pizza dough inspired by Fargo's Pizza Co., with malty flavor, soft interior, and crisp crust.
+description: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
 
 head:
   - - meta
     - name: description
-      content: Cold-fermented pizza dough inspired by Fargo's Pizza Co., with malty flavor, soft interior, and crisp crust.
+      content: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
   - - meta
     - property: og:title
       content: Colorado Style Pizza Dough
   - - meta
     - property: og:description
-      content: Cold-fermented pizza dough inspired by Fargo's Pizza Co., with malty flavor, soft interior, and crisp crust.
+      content: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
   - - meta
     - property: og:type
       content: article
@@ -28,7 +28,7 @@ head:
       content: Colorado Style Pizza Dough
   - - meta
     - name: twitter:description
-      content: Cold-fermented pizza dough inspired by Fargo's Pizza Co., with malty flavor, soft interior, and crisp crust.
+      content: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
 
 
   - - link
@@ -38,16 +38,19 @@ head:
 
 # Colorado Style Pizza Dough
 
-A cold-fermented dough inspired by the original Fargo's Pizza Co. style.
-This version is tuned for home baking: malty flavor, tender interior, and crisp crust.
+A cold-fermented Colorado-style dough with olive oil and honey.
+This version is tuned for home baking: tender interior, crisp crust, and a braided rim edge for honey dipping.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
+
+::: info Testing Status
+This formula is still being tested and refined, including hydration.
+:::
 
 ## Background
 
-When I worked at Fargo's Pizza Co., I didn't have the exact formula, but I worked with that dough every day for nearly 20 years.
-This recipe comes from that hands-on experience, plus a few adjustments that make it more practical at home.
+This current version is a Colorado-style direction with olive oil and honey, adapted for home ovens and hand shaping.
 
-The original dough ran at a much **lower hydration**, closer to a cracker-style texture, which worked well with a commercial dough sheeter. For home baking, increasing hydration improves:
+Shop doughs ran much **lower hydration** and were designed around commercial sheeters. At home, a higher hydration improves:
 
 - Extensibility  
 - Handling (without a sheeter)  
@@ -64,7 +67,7 @@ This version is now set to **62% hydration** for easier home handling. After tes
 - **Yeast** - 1.6g (0.3%)  
 - **Olive oil** - 39g (7%) 
 - **Salt** - 11g (2%) 
-- **Light malt powder** - 11g (2%)
+- **Honey** - 11g (2%)
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 ::: info
@@ -81,6 +84,7 @@ The low yeast percentage (0.3%) slows fermentation during the long cold rise:
 ### 1. Mixing
 - Combine all ingredients until a rough, cohesive dough forms.
 - If using active dry yeast, hydrate it in water for about 10 minutes before adding the rest of the ingredients.  
+- If your honey is thick, stir it into the water first so it disperses evenly.
 - At 62% hydration, knead for **4-6 minutes** after mixing to build strength early.
 
 > [!NOTE]
@@ -108,6 +112,7 @@ The low yeast percentage (0.3%) slows fermentation during the long cold rise:
 - Allow the dough balls to warm before shaping. Remove from refrigeration for 1-2 hours.  
 - Gently press and stretch into rounds while preserving gas in the dough.  
 - Use your fingertips to press outward in a circular pattern, leaving a slight ridge around the edge.  
+- For Colorado mountain-pie style, braid or rope the rim edge before topping to build the signature honey-dip crust.
 - Avoid over-degassing as it affects texture.  
 - Top with sauce and ingredients, being careful not to overload the dough.
 
@@ -132,6 +137,7 @@ Put it on the edge of the peel so it slides off easily onto the stone or steel i
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
 ## Related Recipes
+- [Margot's Midwest Thin (Deck)](/recipes/margots-midwest-thin-deck-pizza)
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
 
 ---
