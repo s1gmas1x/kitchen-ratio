@@ -1,24 +1,23 @@
 ---
 title: Colorado Style Pizza Dough
-description: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
+description: Colorado Mountain Pie style dough with a thin rolled center, thick honey-dipping rim, and generous topping support.
 
 head:
   - - meta
     - name: description
-      content: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
+      content: Colorado Mountain Pie style dough with a thin rolled center, thick honey-dipping rim, and generous topping support.
   - - meta
     - property: og:title
       content: Colorado Style Pizza Dough
   - - meta
     - property: og:description
-      content: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
+      content: Colorado Mountain Pie style dough with a thin rolled center, thick honey-dipping rim, and generous topping support.
   - - meta
     - property: og:type
       content: article
   - - meta
     - property: og:url
       content: https://kitchenratio.com/recipes/colorado-pizza-dough.html
-  
 
   - - meta
     - name: twitter:card
@@ -28,8 +27,7 @@ head:
       content: Colorado Style Pizza Dough
   - - meta
     - name: twitter:description
-      content: Cold-fermented Colorado-style pizza dough with olive oil and honey, soft interior, and crisp crust.
-
+      content: Colorado Mountain Pie style dough with a thin rolled center, thick honey-dipping rim, and generous topping support.
 
   - - link
     - rel: canonical
@@ -38,95 +36,110 @@ head:
 
 # Colorado Style Pizza Dough
 
-A cold-fermented Colorado-style dough with olive oil and honey.
-This version is tuned for home baking: tender interior, crisp crust, and a braided rim edge for honey dipping.
+Colorado Mountain Pie style: thin rolled center, thick bread-like rim, and a honey-dipping crust.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
 
 ::: info Testing Status
-This formula is still being tested and refined, including hydration.
+This formula is still being tested and refined, especially hydration.
 :::
 
 ## Background
 
-This current version is a Colorado-style direction with olive oil and honey, adapted for home ovens and hand shaping.
+This version is adapted for home baking without commercial pizza equipment.
+The goal is the Colorado mountain-pie profile: a firm dough that rolls thin in the center while keeping a large rim for honey dipping.
 
-Shop doughs ran much **lower hydration** and were designed around commercial sheeters. At home, a higher hydration improves:
+Honey is used instead of sugar in this dough, reflecting the traditional mountain-pie style where the crust is often finished with honey.
 
-- Extensibility  
-- Handling (without a sheeter)  
-- Crust texture: lighter, less dense, and more open
+## Baker's % (Testing Range)
 
-This version is now set to **62% hydration** for easier home handling. After testing, I found this level easier to work with when getting the pizza off the peel.
+- **Flour** - 100%
+- **Water** - 52-54% (53% strong starting point)
+- **Honey** - 5%
+- **Salt** - 2%
+- **Oil** - 2%
+- **Instant dry yeast** - 0.6%
+- **Diastatic malt powder (optional)** - 0.3%
+
+::: info
+Bread flour works well. For a chewier crust, try a blend of **70% bread flour + 30% high-gluten flour**.
+:::
+
+::: info
+This dough runs lower hydration than many pizza styles. That helps it roll thin in the center while supporting a thick outer rim.
+:::
 
 ---
 
 ## Ingredients (Example Batch)
 
-- **Flour** - 550g  
-- **Water** - 341g (62% hydration)  
-- **Yeast** - 1.6g (0.3%)  
-- **Olive oil** - 39g (7%) 
-- **Salt** - 11g (2%) 
-- **Honey** - 11g (2%)
+- **Flour** - 550g (100%)
+- **Water** - 292g (53%)
+- **Honey** - 27.5g (5%)
+- **Salt** - 11g (2%)
+- **Olive oil** - 11g (2%)
+- **Instant dry yeast** - 3.3g (0.6%)
+- **Diastatic malt powder (optional)** - 1.65g (0.3%)
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
-::: info
-This batch makes **about three 11-inch ("Medium") pizzas** depending on how thick you make the crust. I usually stretch mine to about 1/4-1/2 inch thick before adding toppings.
 
-The low yeast percentage (0.3%) slows fermentation during the long cold rise:  
-**24 hours bulk fermentation**, followed by **24-48 hours cold proofing**.
-:::
+## Equipment
 
----
+- Mixing bowl or stand mixer
+- Rolling pin
+- Baking steel or pizza stone (recommended)
+- Oven that can run **475-500F**
 
 ## Procedure
 
 ### 1. Mixing
-- Combine all ingredients until a rough, cohesive dough forms.
-- If using active dry yeast, hydrate it in water for about 10 minutes before adding the rest of the ingredients.  
-- If your honey is thick, stir it into the water first so it disperses evenly.
-- At 62% hydration, knead for **4-6 minutes** after mixing to build strength early.
+- Combine flour, yeast, and optional diastatic malt.
+- Mix water and honey together first so the honey disperses evenly.
+- Add honey-water and oil to the dry mix.
+- Mix until a rough dough forms.
+- Add salt and knead until smooth and elastic:
+  - **8-10 minutes by hand**
+  - **5-6 minutes in a mixer**
+- Dough should feel firmer than typical pizza dough, but smooth.
 
-> [!NOTE]
-> You have two options for adding the oil:
-> - **Add it during mixing** - easiest, but may slightly affect gluten development.  
-> - **Add it after the two folds** - better gluten formation, but requires kneading the oil in.
->
-> If adding it later:  
-> The dough may temporarily look like it's coming apart when you begin kneading in the oil. This is normal. Stay patient and continue pressing the dough with your palms, folding, rotating, and pressing again. It will come back together faster than it seems.
+### 2. Fermentation
+- Cover dough and rest **20-30 minutes**.
+- Divide and ball.
+- Place dough balls in lightly oiled containers.
+- Refrigerate **24-48 hours** for best flavor.
+- Before shaping, warm at room temperature **45-60 minutes**.
 
-### 2. Bulk Fermentation (Cold)
-- Place the dough in the refrigerator for **24 hours**.  
-- Perform **2 gentle folds** within the first hour to strengthen the dough (a third fold is optional if it still feels tight or uneven):
-  - Mix the dough and place it in the refrigerator.  
-  - After 30 minutes, remove, perform one fold, and return to the fridge.  
-  - After another 30 minutes, perform the second fold and refrigerate.
-- If you delayed adding the oil, add it after the folds. Let the dough rest a few hours, then knead in the oil just before leaving it to rest overnight.
+### 3. Dough Ball Reference
 
-### 3. Final Proof
-- Divide and shape into dough balls, stretching each against the counter to tighten.
-- Place the balls into a tray, or separate containers with a bit of olive oil to prevent sticking.  
-- Cold proof for **24-48 hours** for the best flavor and extensibility.
+| Pizza size | Dough weight |
+| --- | --- |
+| 10-11 inch | ~10 oz |
+| 12 inch | ~12-13 oz |
+| 14 inch | ~16 oz |
 
-### 4. Shaping
-- Allow the dough balls to warm before shaping. Remove from refrigeration for 1-2 hours.  
-- Gently press and stretch into rounds while preserving gas in the dough.  
-- Use your fingertips to press outward in a circular pattern, leaving a slight ridge around the edge.  
-- For Colorado mountain-pie style, braid or rope the rim edge before topping to build the signature honey-dip crust.
-- Avoid over-degassing as it affects texture.  
-- Top with sauce and ingredients, being careful not to overload the dough.
+### 4. Shaping (Mountain Pie Style)
+- Lightly flour the work surface.
+- Flatten dough with hands.
+- Roll with a pin so the center is thin, about **1/8 inch**.
+- Leave a **1.5-2 inch** uncovered border around the edge.
+- Toppings go on the center only.
 
-:::info
-Move the dough to a peel before topping, and use plenty of flour or cornmeal to prevent sticking.
+### 5. Form the Rim
+- Roll the outer edge inward to form a thick rim.
+- Optional: braid/rope the rim if desired.
+- This thick rim is intentional and becomes the signature honey-dipping crust.
 
-Put it on the edge of the peel so it slides off easily onto the stone or steel in the oven.
-:::
+### 6. Topping
+- Sauce and toppings stay in the center.
+- Leave rim uncovered.
+- This style can handle generous toppings, but avoid flooding the center.
 
-### 5. Baking
-- Preheat your oven as hot as it will go:
-  - Most home ovens reach **450-500°F**  
-  - Some can reach **500-550°F**
-- Bake on a pizza stone or steel until the crust is golden and crisp.
+### 7. Bake
+- Preheat oven to **475-500F** with steel/stone if available.
+- Bake until rim is golden and cheese is bubbling, usually **10-14 minutes**.
+
+### 8. Serve (Traditional)
+- Slice normally.
+- Eat the slice first, then finish the crust with honey (drizzled or dipped).
 
 ## Related Guides
 - [Hydration](/guides/hydration)
@@ -142,5 +155,5 @@ Put it on the edge of the peel so it slides off easily onto the stone or steel i
 
 ---
 
-> **Affiliate Disclaimer**  
+> **Affiliate Disclaimer**
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.
