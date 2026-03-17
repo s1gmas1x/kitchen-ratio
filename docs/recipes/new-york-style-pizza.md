@@ -46,7 +46,7 @@ This formula is still being tested and refined.
 ## Baker's % (Testing Range)
 
 - **Flour** - 100%
-- **Water** - 60-62%
+- **Water** - 62-64%
 - **Salt** - 2.2-2.5%
 - **Olive oil** - 1.5-2%
 - **Sugar** - 0-2% (1% is a strong starting point)
@@ -55,7 +55,7 @@ This formula is still being tested and refined.
 ## Ingredients (Example Batch)
 
 - **Flour** - 500g (100%)
-- **Water** - 305g (61%)
+- **Water** - 320g (64%)
 - **Salt** - 11.5g (2.3%)
 - **Olive oil** - 9g (1.8%)
 - **Sugar** - 5g (1%)
@@ -116,7 +116,7 @@ Launch from a peel with enough bench flour to slide, but not so much that the bo
 
 - **Too pale on bottom**: longer preheat, lower rack position, or slightly less dough weight.
 - **Too stiff to stretch**: add 1-2% water or extend warm-up time.
-- **Weak and sticky**: lower hydration toward 60% or tighten balling.
+- **Weak and sticky**: lower hydration toward 62% or tighten balling.
 
 ## Related Guides
 - [Hydration](/guides/hydration)
