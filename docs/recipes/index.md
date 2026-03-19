@@ -26,6 +26,8 @@ These recipes are starting points that I have found work well in my kitchen. Som
 
 ## Flatbreads
 - [Tortillas](/recipes/tortillas)
+- [Pita Bread](/recipes/pita)
+- [Yogurt Naan](/recipes/naan)
 
 
 ---

@@ -131,7 +131,11 @@ export default defineConfig({
     {
       text: 'Flatbreads',
       collapsed: false,
-      items: [{ text: 'Tortillas', link: '/recipes/tortillas' }]
+      items: [
+        { text: 'Tortillas', link: '/recipes/tortillas' },
+        { text: 'Pita Bread', link: '/recipes/pita' },
+        { text: 'Yogurt Naan', link: '/recipes/naan' }
+      ]
     }
   ],
 
