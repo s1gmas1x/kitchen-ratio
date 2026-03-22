@@ -39,7 +39,7 @@ head:
 This is high-hydration dough with a safety net: thermal mass, oil, and time.
 The pan does the heavy lifting while the dough does what wet dough does best: retain gas and stay tender.
 You get a crisp, fried bottom and a moist, airy crumb without pretending this is hand-tossed pizza.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/cold-iron-cloud-pan) to scale any batch size.
 
 ## Ingredients (Example batch)
 

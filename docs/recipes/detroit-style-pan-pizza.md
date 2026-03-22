@@ -38,7 +38,7 @@ head:
 
 This one is about contrast: fried bottom, lacy cheese edge, and a soft interior that still has structure.
 The pan and oil are not optional details. They are the method.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/detroit) to scale any batch size.
 
 ::: info Testing Status
 This formula is still being tested and refined.

@@ -38,7 +38,7 @@ head:
 
 This is a rich brioche that leans on an early butter emulsion and a cold ferment to build structure without aggressive kneading.
 The dough should look sticky and slack early. That is expected.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/brioche) to scale any batch.
 
 ::: info Testing Status
 This formula is still being tested and refined.

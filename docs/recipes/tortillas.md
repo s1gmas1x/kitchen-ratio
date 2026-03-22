@@ -40,7 +40,7 @@ head:
 
 No-knead tortillas that are ready in about 90 minutes with minimal prep.
 Rolling is the only part that needs attention, and this dough stays soft enough to make that manageable.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale to any batch.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/tortillas) to scale to any batch.
 
 ## Background
 

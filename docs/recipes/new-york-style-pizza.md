@@ -37,7 +37,7 @@ head:
 # New York Style Pizza (Home-Oven Optimized)
 
 This is the home-oven version of the classic foldable slice: thin enough to bend, strong enough to hold toppings, and crisp on the bottom without turning cracker-dry.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/new-york) to scale any batch size.
 
 ::: info Testing Status
 This formula is still being tested and refined.

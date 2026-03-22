@@ -37,7 +37,7 @@ head:
 # Margot's Midwest Thin (Deck)
 
 This is a Fargo's-style Midwest thin preset: low hydration, strong flour, long cold fermentation, rolled thin, and baked hot for crisp snap.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/midwest-thin) to scale any batch size.
 
 ::: info Testing Status
 This formula is still being tested and refined.

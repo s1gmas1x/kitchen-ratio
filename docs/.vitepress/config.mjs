@@ -1,5 +1,17 @@
 import { defineConfig } from 'vitepress'
 
+const calculatorSitemapPaths = [
+  '/calculator',
+  '/calculator/pizza',
+  '/calculator/bread',
+  '/calculator/flatbread',
+  '/calculator/pizza/new-york',
+  '/calculator/pizza/detroit',
+  '/calculator/pizza/midwest-thin',
+  '/calculator/bread/french-bread',
+  '/calculator/flatbread/tortillas',
+]
+
 export default defineConfig({
   title: 'KitchenRatio',
   description: 'Recipes, guides, and baker’s percentages - bake smarter with KitchenRatio.',
@@ -18,17 +30,20 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://kitchenratio.com',
     transformItems: (items) => {
-      const calculatorPath = '/calculator'
-      const hasCalculator = items.some((item) => {
-        try {
-          return new URL(item.url, 'https://kitchenratio.com').pathname === calculatorPath
-        } catch {
-          return false
-        }
-      })
+      const existingPaths = new Set(
+        items.flatMap((item) => {
+          try {
+            return [new URL(item.url, 'https://kitchenratio.com').pathname]
+          } catch {
+            return []
+          }
+        }),
+      )
 
-      if (!hasCalculator) {
-        items.push({ url: calculatorPath })
+      for (const path of calculatorSitemapPaths) {
+        if (!existingPaths.has(path)) {
+          items.push({ url: path })
+        }
       }
 
       return items
