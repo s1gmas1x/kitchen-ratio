@@ -38,6 +38,21 @@ head:
 
 The KitchenRatio calculator scales doughs with baker's percentages, fast. You set the ratio once, then move the flour and everything updates. No napkin math, no mystery. Access it at https://kitchenratio.com/calculator.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Learning the core calculator workflow from preset to scaled batch.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Percentages, grams, cards, and repeatable scaling behavior.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Follow with hydration, yield planning, and recipe conversion guides.</span>
+  </div>
+</div>
+
 ## Presets (Start Smart, Then Tweak)
 Presets give you a reliable baseline for breads, pizza, and flatbreads. Pick one, then adjust flour to scale and sliders to dial it in. You get a proven ratio without the guesswork, and you can still make it yours.
 
@@ -84,6 +99,8 @@ Everything else follows automatically.
 - Pair this with [Baker's Percentage](/guides/bakers-percentage) to understand the "why."
 
 ## Related Guides
+<div class="content-section">
+
 - [Fermentation & Proofing Planner](/guides/fermentation-and-proofing-planner)
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 - [Hydration](/guides/hydration)
@@ -91,5 +108,11 @@ Everything else follows automatically.
 - [Preferments](/guides/preferments)
 - [Scalds](/guides/scalds)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

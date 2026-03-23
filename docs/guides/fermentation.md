@@ -39,6 +39,21 @@ head:
 Fermentation is the engine of dough development.
 Yeast makes gas, enzymes keep working, and time changes flavor and structure.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Reading bulk fermentation by dough cues instead of by clock alone.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Gas development, timing control, and room-vs-cold workflow.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Proofing and folding if you want to refine process control further.</span>
+  </div>
+</div>
+
 ## What Fermentation Is Doing
 
 - Producing CO2 for rise
@@ -91,9 +106,17 @@ If it keeps lagging, increase temperature or give more time.
 - **Overproofing during cold storage**: reduce yeast slightly next batch
 
 ## Related Guides
+<div class="content-section">
+
 - [Proofing](/guides/proofing)
 - [Folding](/guides/folding)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

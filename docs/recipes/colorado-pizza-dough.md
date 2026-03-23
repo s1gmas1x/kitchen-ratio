@@ -39,6 +39,21 @@ head:
 Colorado Mountain Pie style: thin rolled center, thick bread-like rim, and a honey-dipping crust.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/colorado) to scale any batch size.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Rolled-thin center with a thick mountain-pie rim built for honey.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch covers roughly 3 medium pizzas depending on dough weight.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Rolled pizzas, generous toppings, and home ovens with steel or stone.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined, especially hydration.
 :::
@@ -142,16 +157,28 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Eat the slice first, then finish the crust with honey (drizzled or dipped).
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Flour](/ingredients/flour)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [Margot's Midwest Thin (Deck)](/recipes/margots-midwest-thin-deck-pizza)
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
+
+</div>
 
 ---
 

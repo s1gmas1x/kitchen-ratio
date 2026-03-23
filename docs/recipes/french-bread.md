@@ -42,11 +42,27 @@ head:
 
 # French Bread
 
-<!-- Image at top of recipe -->
-<img src="/images/recipes/french-bread.jpg" alt="French Bread fresh from the oven" style="max-width:100%; height:auto; display:block; margin:1rem 0; border-radius:6px;">
+<div class="recipe-image">
+  <img src="/images/recipes/french-bread.jpg" alt="French bread fresh from the oven">
+</div>
 
 A simple no-knead French bread at 70% hydration: crisp crust, tender interior, and straightforward handling.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/french-bread) to scale it without changing the ratio.
+
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Lean no-knead bread with a crisp crust and tender interior.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch makes one medium loaf or a pair of smaller loaves.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Cold overnight fermentation, Dutch ovens, and straightforward everyday bread.</span>
+  </div>
+</div>
 
 ## Ingredients (Example Batch)
 - **Flour** - 350g  
@@ -95,12 +111,20 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Allow to cool completely before slicing.
 
 ## Related Guides
+<div class="content-section">
+
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Folding](/guides/folding)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
 
 > **Affiliate Disclaimer**  
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

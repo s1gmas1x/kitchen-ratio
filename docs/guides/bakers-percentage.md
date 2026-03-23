@@ -38,10 +38,26 @@ head:
 
 # Baker's Percentage
 
-Baker's percentage is shorthand for dough ratios. Flour is the fixed baseline, and everything else is measured against it. That makes scaling clean and predictable.
+Baker's percentage is shorthand for dough ratios. Flour is the fixed baseline, and everything else is measured against it.
+That is what makes scaling clean and predictable.
 
 - Flour is always **100%**.  
 - Water, yeast, salt, and enrichments are percentages of the flour weight.
+
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Understanding the one idea that makes scaling and comparing dough formulas easy.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Flour as the baseline, total percentages over 100%, and ratio-based scaling.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Pair with hydration and the calculator guide to turn the concept into a working formula.</span>
+  </div>
+</div>
 
 ## The Big "Aha": It Won't Add Up to 100%
 This trips people up at first. In baker's math, **100% is just the flour**, not the total dough.  
@@ -62,15 +78,25 @@ The baker's percentages are:
 - Salt: 10 ÷ 500 × 100 = **2%**  
 - Yeast: 5 ÷ 500 × 100 = **1%**
 
+That same ratio still works if you scale flour up or down. The percentages stay fixed while the gram weights move.
+
 ## Why Bakers Love It
-- **Scale fast**: set the ratio, change the flour, everything follows.  
-- **Compare recipes**: two doughs can be compared by their percentages, not their batch size.  
-- **Tune with intent**: change hydration or salt by a point or two and you'll feel it.
+- **Scale fast**: set the ratio, change the flour, and everything follows.  
+- **Compare recipes**: two doughs can be compared by percentage instead of batch size.  
+- **Tune with intent**: change hydration or salt by a point or two and you will feel it.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Convert Recipes with the Calculator](/guides/calculator-for-recipes)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

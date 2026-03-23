@@ -19,7 +19,7 @@
 
   <footer class="site-footer" :class="{ 'site-footer--with-sidebar': hasSidebar }">
     <div class="footer-text">
-      <p>As an Amazon Associate I earn from qualifying purchases.</p>
+      <p class="footer-kicker">Built for dough formulas, hydration control, and repeatable scaling.</p>
       <p class="footer-legal-links">
         <a href="/privacy-policy">Privacy Policy</a>
         <span aria-hidden="true">·</span>
@@ -31,7 +31,13 @@
       </p>
 
       <div id="tip-button-container">
-        <p>Enjoying KitchenRatio? Drop a tip to support ongoing development.</p>
+        <div class="tip-copy">
+          <div class="tip-eyebrow">Support updates</div>
+          <h3 class="tip-heading">Help keep KitchenRatio online</h3>
+          <p class="tip-description">
+            If the docs or calculator help your workflow, a tip supports ongoing development and helps keep the tool ad free.
+          </p>
+        </div>
 
         <div class="tip-button-row">
           <button
@@ -42,7 +48,7 @@
             :disabled="tipLoading || tipOptionsLoading"
             @click="startTip(amountCents)"
           >
-            {{ tipLoading ? 'Opening…' : `Tip ${formatTipAmount(amountCents)}` }}
+            {{ tipLoading ? 'Opening…' : formatTipAmount(amountCents) }}
           </button>
 
           <div class="tip-custom-anchor">
@@ -82,7 +88,7 @@
               :disabled="tipLoading || tipOptionsLoading"
               @click="toggleCustomTipBox"
             >
-              Tip Custom
+              Custom tip
             </button>
           </div>
         </div>
@@ -94,9 +100,14 @@
         <p v-if="tipError" class="tip-message tip-message-error">
           {{ tipError }}
         </p>
+
+        <p class="tip-note">
+          Checkout is handled by Stripe on a secure hosted page. Payment details are not entered into KitchenRatio directly.
+        </p>
       </div>
 
-      <p>© 2025-{{ year }} KitchenRatio. All rights reserved.</p>
+      <p class="footer-affiliate">As an Amazon Associate I earn from qualifying purchases.</p>
+      <p class="footer-copyright">© 2025-{{ year }} KitchenRatio. All rights reserved.</p>
     </div>
   </footer>
 </template>
@@ -391,12 +402,17 @@ function openCookiePreferences() {
 <style>
 .site-footer {
   width: 100%;
-  padding: 2rem 0;
-  margin-top: 2rem;
-  background: var(--vp-c-bg);
-  border-top: 1px solid var(--vp-c-divider);
+  padding: 2.4rem 0 2.6rem;
+  margin-top: 2.5rem;
+  background:
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--calc-bg) 84%, transparent) 0%,
+      color-mix(in srgb, var(--calc-bg-elv) 96%, transparent) 100%
+    );
+  border-top: 1px solid var(--calc-card-reference-border);
   color: var(--vp-c-text-1);
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .footer-text {
@@ -405,7 +421,19 @@ function openCookiePreferences() {
   padding-right: 1rem;
   box-sizing: border-box;
   text-align: left;
-  line-height: 1.4;
+  line-height: 1.55;
+}
+
+.footer-text p {
+  margin: 0 0 0.75rem;
+}
+
+.footer-kicker {
+  margin-bottom: 0.45rem;
+  color: var(--calc-text-2);
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.45;
 }
 
 .site-footer:not(.site-footer--with-sidebar) .footer-text {
@@ -422,6 +450,7 @@ function openCookiePreferences() {
 .footer-legal-links a {
   color: var(--vp-c-brand-1);
   text-decoration: underline;
+  text-underline-offset: 0.16em;
 }
 
 .footer-link-button {
@@ -435,21 +464,56 @@ function openCookiePreferences() {
 }
 
 #tip-button-container {
-  margin-top: 1rem;
+  margin-top: 0.95rem;
+  padding: 0.95rem 1.05rem 1rem;
+  border: 1px solid var(--calc-card-reference-border);
+  border-bottom-width: 2px;
+  border-radius: 1rem;
+  background: var(--calc-card-reference-bg);
+  box-shadow: var(--calc-card-reference-shadow);
   text-align: left;
+}
+
+.tip-copy {
+  display: grid;
+  gap: 0.2rem;
+}
+
+.tip-eyebrow {
+  color: var(--calc-text-3);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.tip-heading {
+  margin: 0;
+  font-family: var(--kr-font-display);
+  font-size: 1.16rem;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  color: var(--calc-text-1);
+}
+
+.tip-description {
+  margin-bottom: 0;
+  color: var(--calc-text-2);
+  font-size: 0.88rem;
+  line-height: 1.5;
 }
 
 .tip-button-row {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: 0.5rem;
+  margin-top: 0.8rem;
 }
 
 .tip-button {
-  padding: 0.4rem 0.85rem;
-  border-radius: 10px;
-  font-size: 0.88rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
   font-weight: 600;
   cursor: pointer;
 }
@@ -468,8 +532,8 @@ function openCookiePreferences() {
   min-width: 19rem;
   padding: 0.75rem;
   border-radius: 12px;
-  border: 1px solid var(--vp-c-border);
-  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--calc-card-secondary-border);
+  background: var(--calc-card-secondary-bg);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18);
   display: flex;
   flex-wrap: wrap;
@@ -479,9 +543,9 @@ function openCookiePreferences() {
 .tip-input {
   min-width: 12rem;
   padding: 0.4rem 0.85rem;
-  border-radius: 10px;
-  border: 1px solid var(--vp-c-border);
-  background: var(--vp-c-bg-soft);
+  border-radius: 999px;
+  border: 1px solid var(--calc-border);
+  background: var(--calc-bg-soft);
   color: var(--vp-c-text-1);
 }
 
@@ -513,8 +577,30 @@ function openCookiePreferences() {
 }
 
 .tip-message {
-  margin-top: 0.5rem;
-  font-size: 0.8rem;
+  margin-top: 0.65rem;
+  font-size: 0.76rem;
+}
+
+.tip-note {
+  margin-top: 0.7rem;
+  margin-bottom: 0;
+  color: var(--calc-text-3);
+  font-size: 0.74rem;
+  line-height: 1.45;
+}
+
+.footer-affiliate {
+  margin-top: 0.95rem;
+  margin-bottom: 0.35rem;
+  color: var(--calc-text-3);
+  font-size: 0.76rem;
+  line-height: 1.45;
+}
+
+.footer-copyright {
+  margin-bottom: 0;
+  color: var(--calc-text-2);
+  font-size: 0.78rem;
 }
 
 .tip-message-success {
@@ -573,6 +659,10 @@ function openCookiePreferences() {
 
   #tip-button-container {
     text-align: center;
+  }
+
+  .tip-copy {
+    justify-items: center;
   }
 
   .tip-button-row {

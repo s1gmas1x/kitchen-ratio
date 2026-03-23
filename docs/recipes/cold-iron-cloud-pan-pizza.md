@@ -36,12 +36,26 @@ head:
 
 # Cold Iron Cloud Pan Pizza
 
-This is high-hydration dough with a safety net: thermal mass, oil, and time.
-The pan does the heavy lifting while the dough does what wet dough does best: retain gas and stay tender.
-You get a crisp, fried bottom and a moist, airy crumb without pretending this is hand-tossed pizza.
+This is high-hydration pan pizza built around thermal mass, oil, and time.
+The result is a crisp, fried bottom and a moist, airy crumb without trying to behave like hand-tossed pizza.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/cold-iron-cloud-pan) to scale any batch size.
 
-## Ingredients (Example batch)
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>High-hydration pan pizza with a fried bottom and cloud-soft crumb.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch is sized for about one 13-inch braiser or similar pan.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Cold-pan starts, cast iron or enamel, and very gentle dough handling.</span>
+  </div>
+</div>
+
+## Ingredients (Example Batch)
 
 Example shown is sized for a ~13-inch enameled braiser.
 
@@ -145,15 +159,27 @@ It is a technique-driven pan pie that happens to be forgiving and fun.
 High hydration is not the gimmick here; process control is.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [Colorado Style Pizza Dough](/recipes/colorado-pizza-dough)
+
+</div>
 
 > **Affiliate Disclaimer**
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

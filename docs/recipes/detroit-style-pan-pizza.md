@@ -40,6 +40,21 @@ This one is about contrast: fried bottom, lacy cheese edge, and a soft interior 
 The pan and oil are not optional details. They are the method.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/detroit) to scale any batch size.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Pan pizza with caramelized cheese walls, crisp edges, and a soft interior.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch fits one 10x14-inch Detroit pan or two smaller pans.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Deep steel pans, edge-to-edge cheese, and thicker square slices.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined.
 :::
@@ -123,16 +138,28 @@ This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller 
 - **Too greasy**: reduce pan oil by 2-4g, not by half.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [Sicilian Pan Pizza](/recipes/sicilian-pan-pizza)
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
+
+</div>
 
 ---
 

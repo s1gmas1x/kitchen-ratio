@@ -40,6 +40,21 @@ This is the bread-forward pan pie: thicker than New York, lighter than it looks,
 If Detroit is edge-caramel drama, Sicilian is crumb and structure.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/sicilian) to scale any batch size.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Thicker pan pizza with bread-forward chew, open crumb, and crisp oiled base.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch fits a 9x13-inch pan for a classic medium-thick profile.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Long pan proofs, rectangular pans, and softer, thicker tray slices.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined.
 :::
@@ -118,16 +133,28 @@ This batch generally fits a 9x13-inch pan for a medium-thick Sicilian profile.
 - **Bottom soft**: increase pan oil slightly and finish lower in oven.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [Detroit Style Pan Pizza](/recipes/detroit-style-pan-pizza)
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
+
+</div>
 
 ---
 

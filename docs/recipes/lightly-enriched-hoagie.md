@@ -41,10 +41,25 @@ head:
 A soft, lightly enriched dough for hoagies, cheesesteaks, and sandwich rolls.
 No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/hoagie) to scale any batch.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Soft sandwich-roll dough with light enrichment and easy shaping.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch is suited to a small set of hoagie rolls or sandwich buns.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Cheesesteaks, hoagies, and everyday sandwich baking with a softer crust.</span>
+  </div>
+</div>
+
 ## Background
 
 This started as a Philly cheesesteak roll test and became a go-to sandwich dough.
-The formula stays soft without turning fragile, which makes it forgiving for everyday baking.
+The formula stays soft without turning fragile, which keeps it forgiving for everyday baking.
 
 ## Ingredients (Example Batch)
 - **Flour** - 500g (100%)  
@@ -85,12 +100,20 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Allow to cool fully.
 
 ## Related Guides
+<div class="content-section">
+
 - [Enrichment](/guides/enrichment)
 - [Hydration](/guides/hydration)
 - [Baker's Percentage](/guides/bakers-percentage)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
 
 > **Affiliate Disclaimer**  
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

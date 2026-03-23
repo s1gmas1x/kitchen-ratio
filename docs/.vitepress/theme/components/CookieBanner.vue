@@ -173,23 +173,33 @@ async function declineCookies() {
 
 .cookie-banner {
   width: 100%;
-  background: var(--vp-c-bg);
+  background:
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--calc-bg-elv) 96%, transparent) 0%,
+      color-mix(in srgb, var(--calc-bg-soft) 92%, transparent) 100%
+    );
   color: var(--vp-c-text-1);
-  border-top: 1px solid var(--vp-c-divider);
-  padding: 1rem 1.5rem;
+  border-top: 1px solid var(--calc-card-reference-border);
+  box-shadow: 0 -10px 24px rgba(43, 30, 19, 0.12);
+  padding: 1.1rem 1.4rem;
   z-index: 9999;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
 }
 
 .cookie-banner p {
   margin: 0;
+  max-width: 46rem;
+  line-height: 1.55;
 }
 
 .cookie-banner a {
   color: var(--vp-c-brand-1);
+  text-underline-offset: 0.16em;
 }
 
 .button-container {
@@ -199,11 +209,13 @@ async function declineCookies() {
 }
 
 .cookie-banner button {
-  border-radius: 20px;
-  padding: 0 20px;
-  line-height: 38px;
-  font-size: 12px;
-  font-weight: 800;
+  border-radius: 999px;
+  padding: 0 1rem;
+  line-height: 36px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   cursor: pointer;
 }
 
@@ -246,6 +258,7 @@ async function declineCookies() {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.75rem;
+    padding: 1rem 1rem 1.1rem;
   }
 
   .button-container {

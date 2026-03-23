@@ -42,6 +42,21 @@ No-knead tortillas that are ready in about 90 minutes with minimal prep.
 Rolling is the only part that needs attention, and this dough stays soft enough to make that manageable.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/tortillas) to scale to any batch.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Soft, pliable flour tortillas made with hot-water gelatinization.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Portion guide targets roughly 10-inch tortillas at about 45-47g each.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Burritos, tacos, and fast stovetop flatbreads with minimal hands-on work.</span>
+  </div>
+</div>
+
 ## Background
 
 After testing many recipes, I found most tortillas came out too thick or tore during rolling. This version uses boiling water to gelatinize the flour, keeping the dough soft and pliable.  
@@ -58,6 +73,7 @@ These tortillas are perfect for burritos, soft tacos, or serving alongside green
 - **Salt** - ~7g (~1.6%)
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+
 ::: info
 I prefer lard, but any neutral fat works.  
 
@@ -95,12 +111,20 @@ I prefer lard, but any neutral fat works.
 - Leave covered for 10-15 minutes before serving.
 
 ## Related Guides
+<div class="content-section">
+
 - [Yield Planner](/guides/yield-planner)
 - [Hydration](/guides/hydration)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
 
 > **Affiliate Disclaimer**  
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

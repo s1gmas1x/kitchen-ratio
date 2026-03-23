@@ -40,6 +40,21 @@ This pita formula is built for a strong puff, tender interior, and a pocket that
 It follows the same overall direction as the ChainBaker-style dough, but uses **25% whole wheat** instead of half for a slightly lighter result.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/pita) to scale any batch.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Soft pocket pita with a mild whole-wheat blend and balanced chew.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>About 8 pitas at roughly 104g each before baking.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Hot steels or stones, wraps, sandwiches, and reliable pocket formation.</span>
+  </div>
+</div>
+
 ## Baker's %
 
 - **Bread flour** - 75%
@@ -100,19 +115,27 @@ This batch usually makes **8 pitas** at about **104g dough each** before baking.
 - Transfer baked pitas to a towel-lined bowl or covered container.
 - Keep them covered as they cool so they stay soft and flexible.
 
-## What To Adjust First
+## What to Adjust First
 
 - **No pocket**: hotter baking surface, slightly thicker roll, or a little more final rest.
 - **Too stiff**: give the dough a longer rest before rolling or raise hydration 1-2%.
 - **Too sticky to handle**: flour the bench lightly or back hydration down toward 62%.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Yield Planner](/guides/yield-planner)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
 
 > **Affiliate Disclaimer**
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

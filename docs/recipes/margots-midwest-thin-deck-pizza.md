@@ -39,6 +39,21 @@ head:
 This is a Fargo's-style Midwest thin preset: low hydration, strong flour, long cold fermentation, rolled thin, and baked hot for crisp snap.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/midwest-thin) to scale any batch size.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Low-hydration Midwest thin with crisp snap and rolled, deck-style structure.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Reference process targets 11-inch pizzas at about 10 oz dough each.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Cold fermentation, rolling pins, light toppings, and extra-crisp slices.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined.
 :::
@@ -172,16 +187,28 @@ No sugar and no docking for this style.
 - Process is tuned to emulate a ~500F rotating deck environment.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Yield Planner](/guides/yield-planner)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [Colorado Style Pizza Dough](/recipes/colorado-pizza-dough)
 - [New York Style Pizza (Home-Oven Optimized)](/recipes/new-york-style-pizza)
+
+</div>
 
 ---
 

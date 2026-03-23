@@ -3,6 +3,21 @@
 KitchenRatio helps you build, scale, and plan dough formulas without losing the thread between style, size, and process.
 If you want the shortest path: choose what you want to make, pick a preset, set your yield target, and go straight to the recipe.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Learning the fastest end-to-end KitchenRatio workflow without reading every guide first.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Presets, yield planning, formula tuning, timing, and the shortest route to a usable batch.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Move into hydration, yield planning, and the calculator guide once the core flow feels familiar.</span>
+  </div>
+</div>
+
 ## 1. Start With What You Want To Make
 The preset flow now starts by category:
 
@@ -123,5 +138,18 @@ Here is the repeatable workflow:
 6. Review **Recipe** and **Time to Bake Planner**.
 7. Share or bake.
 
+## Related Guides
+<div class="content-section">
+
+- [KitchenRatio Calculator](/guides/kitchenratio-calculator)
+- [Yield Planner](/guides/yield-planner)
+- [Hydration](/guides/hydration)
+
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

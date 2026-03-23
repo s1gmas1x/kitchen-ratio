@@ -40,6 +40,21 @@ This is a rich brioche that leans on an early butter emulsion and a cold ferment
 The dough should look sticky and slack early. That is expected.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/brioche) to scale any batch.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Rich brioche with early butter incorporation and a shreddable crumb.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch targets about 900g dough for one standard 2 lb loaf tin.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Soft sandwich loaves, toast, French toast, and other rich bread applications.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined.
 :::
@@ -82,7 +97,7 @@ This batch targets about **900g total dough**, a solid fit for a standard 2 lb l
 
 ---
 
-## Method (Day 1 -> Day 2)
+## Procedure (Day 1 -> Day 2)
 
 ### Day 1 - Mix and Cold Ferment
 
@@ -181,12 +196,20 @@ Great for:
 Need a mixer? [KitchenAid Stand Mixer](https://amzn.to/44EYHO4).
 
 ## Related Guides
+<div class="content-section">
+
 - [Enrichment](/guides/enrichment)
 - [Fermentation](/guides/fermentation)
 - [Proofing](/guides/proofing)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
 
 ---
 

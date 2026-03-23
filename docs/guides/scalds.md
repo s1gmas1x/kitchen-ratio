@@ -39,6 +39,21 @@ head:
 Scalds are a texture control move: pre-gelatinize flour with hot water before final mixing.
 They are how you steer crumb softness, chew, and moisture retention with intent instead of guesswork.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Choosing a scald method when softness, chew, or shelf life needs to change.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Tangzhong, yudane, allocation ranges, and how each one shifts dough feel.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Hydration and preferments if you are combining multiple advanced dough tools.</span>
+  </div>
+</div>
+
 > [!IMPORTANT]
 > Always let scalds cool before they touch yeast. Hot scald can damage yeast activity and weaken fermentation.
 
@@ -53,6 +68,12 @@ In the KitchenRatio calculator, scalds live in **Advanced → Scalds**.
 
 > [!NOTE]
 > The calculator allows only one scald type at a time: tangzhong or yudane.
+
+## Quick Choice
+
+- **Choose tangzhong** when you want a softer, more pillowy crumb and longer-lasting tenderness.
+- **Choose yudane** when you want more chew, more wheat presence, and stronger moisture retention.
+- **Choose a traditional grain scald** when rye or whole-grain behavior is the real problem you are trying to solve.
 
 ## Other Scald Style (Not in Calculator Yet)
 
@@ -70,21 +91,6 @@ Typical use in practice:
 - Frequently used with rye flour, whole grain flour, or coarse meal components.
 - Can be made with plain hot water or paired with malt/syrup in some regional styles.
 - Usually prepared ahead of final mixing and cooled before yeast is introduced.
-
-## When to Use Which
-
-- **Use tangzhong** when you want:
-  - pillowy, soft crumb
-  - longer-lasting tenderness
-  - plush texture in enriched doughs
-- **Use yudane** when you want:
-  - chewier bite
-  - stronger wheat presence
-  - moisture retention with a firmer backbone
-- **Use traditional European/Scandinavian scald** when you want:
-  - better handling and moisture behavior in rye/whole-grain systems
-  - deeper grain flavor in hearty breads
-  - stronger crumb stability in denser doughs
 
 ## Deeper Breakdown
 
@@ -108,19 +114,6 @@ Typical use in practice:
 - Focuses on grain hydration behavior, moisture retention, and flavor depth in robust loaves.
 - Usually less about ultra-soft crumb and more about stability and keeping quality.
 - Works best when cooled fully before yeast enters the system.
-
-## Where They Came From
-
-- **Tangzhong** is commonly linked to East Asian baking practice and became especially popular through modern Japanese and Chinese milk bread methods.
-- **Yudane** is also rooted in Japanese baking, using a boiling-water treatment with flour to shift texture and water handling in the final dough.
-- **Traditional European / Scandinavian scald** comes from long-standing Northern and Eastern European practice, especially in rye-forward breads from Scandinavian, German, and Baltic traditions.
-
-## Typical Use in Practice
-
-- **Tangzhong** is common in sandwich loaves, buns, and enriched doughs where softness is non-negotiable.
-- **Yudane** is common when bakers want chew and wheat character without drying out the crumb.
-- **Traditional European/Scandinavian scald** is common in rye-forward and mixed-grain breads where grain behavior drives final texture.
-- All three are texture tools, not just hydration tricks.
 
 ## How Allocation Works
 
@@ -208,11 +201,17 @@ For traditional European/Scandinavian scald (not in calculator yet), run it manu
   - Let the scald cool fully and hydrate evenly.
 
 ## Related Guides
+<div class="content-section">
 
 - [Preferments](/guides/preferments)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
 
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

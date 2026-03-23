@@ -41,6 +41,21 @@ head:
 Hydration is baker's shorthand for how wet a dough will feel. Flour is the baseline, water is the throttle.  
 No water, no bread. Higher number, looser dough. Lower number, stiffer dough.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Understanding how water percentage changes dough feel and structure.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Base hydration, effective hydration, and starch-adjusted behavior.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Pair with baker's percentage and the calculator guide for practical use.</span>
+  </div>
+</div>
+
 **Hydration % = (Liquid Water ÷ Total Flour) × 100**
 
 ## Hydration vs. Effective Hydration
@@ -123,9 +138,17 @@ Understanding effective hydration and adjusted effective hydration helps you sca
 Experiment with different hydration levels to find what works best for your baking style and the breads you love!
 
 ## Related Guides
+<div class="content-section">
+
 - [Baker's Percentage](/guides/bakers-percentage)
 - [Water](/ingredients/water)
 - [Flour](/ingredients/flour)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

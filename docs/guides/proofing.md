@@ -39,6 +39,21 @@ head:
 Proofing is the final rise after shaping.
 Its job is simple: finish gas development without losing structure.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Checking whether shaped dough is ready to bake without guessing.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Readiness tests, timing control, and under- vs over-proofing.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Fermentation if you want to connect bulk and final-rise decisions.</span>
+  </div>
+</div>
+
 ## What Good Proofing Looks Like
 
 - Dough gains volume and feels lighter
@@ -87,10 +102,17 @@ For better consistency, keep your dough temperature and container setup repeatab
 - **Weak shape during proof**: tighten shaping next batch and shorten final proof slightly
 
 ## Related Guides
-- [Fermentation](/guides/fermentation)
+<div class="content-section">
+
 - [Fermentation](/guides/fermentation)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

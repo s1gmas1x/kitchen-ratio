@@ -40,6 +40,21 @@ This dough is wet on purpose. The goal is an airy interior with a thin, crisp sh
 Handle it gently, give it time, and let the pan and heat do the heavy lifting.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/roman-al-taglio) to scale any batch size.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>High-hydration Roman tray pizza with a light interior and crisp shell.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>Example batch works for one 10x14-inch tray or a similar surface area.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Long cold fermentation, folds for strength, and lightly topped tray pizza.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined.
 :::
@@ -122,16 +137,28 @@ This batch works well for one 10x14-inch tray or similar surface area.
 - **Pale bottom**: longer preheat and lower rack placement.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Folding](/guides/folding)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [New York Style Pizza (Home-Oven Optimized)](/recipes/new-york-style-pizza)
 - [Cold Iron Cloud Pan Pizza](/recipes/cold-iron-cloud-pan-pizza)
+
+</div>
 
 ---
 

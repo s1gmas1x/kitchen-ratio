@@ -36,40 +36,64 @@ head:
 
 # Convert Recipes with the Calculator
 
-Turn any written recipe into baker's percentages, then scale it like a pro. Think of this as reverse'engineering a dough: grams in, ratios out, repeatable forever.
+Turn any written recipe into baker's percentages, then scale it cleanly. Think of this as reverse-engineering a dough: grams in, ratios out, repeatable forever.
+
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Translating existing recipes into a ratio-based formula you can reuse.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Setting flour as the baseline, matching grams, and capturing percentages.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Pair with baker's percentage and the main calculator guide.</span>
+  </div>
+</div>
 
 ## Step 1: Set the Flour Baseline
 Put your recipe's flour weight into the Flour card. That number is your 100%.
 
 ## Step 2: Match Ingredients by Grams
 Add the ingredients you need (water, salt, yeast, enrichments).  
-Move each slider until the grams shown match your recipe's weight.  
-The calculator reveals the percentage as you dial it in.
+Click either the **g** or **%** value and type directly, or use the slider if that is faster for you.  
+The calculator keeps both values in sync as you dial the formula in.
 
 ## Step 3: Capture the Ratio
-Once the grams match, the percentages are the recipe.  
-Write them down. They are now portable and scalable.
+Once the grams and percentages match your source recipe, the converted formula is set.  
+If you want to keep that converted formula, use the **Share** button above the recipe area to copy a link with the current settings.  
+You can still write the percentages down, but the shared link is the quickest way to save or send the result.
 
 ## Step 4: Scale the Batch
 Keep the percentages fixed and change the flour weight.  
 Every ingredient updates automatically.
 
 ## Example Workflow
-1. Flour is 500g - set Flour to 500g.  
-2. Water is 325g - slide water to 325g (65%).  
-3. Salt 10g - slide salt to 10g (2%).  
-4. Yeast 2.5g - slide yeast to 2.5g (0.5%).  
+1. Flour is 500g, so set Flour to 500g.  
+2. Water is 325g, so enter 325g or 65% for water.  
+3. Salt is 10g, so enter 10g or 2% for salt.  
+4. Yeast is 2.5g, so enter 2.5g or 0.5% for yeast.  
 5. Increase flour to 800g to scale the entire recipe.
 
 ## Practical Tips
 - Weigh everything in grams. Volumes lie.  
 - If your recipe has oil, sugar, eggs, or dairy, add them with Add Ingredient.  
-- Use presets as a starting point, then dial in the exact grams.
+- Type directly into the `g` or `%` values when you already know the target number.
 
 ## Related Guides
+<div class="content-section">
+
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Baker's Percentage](/guides/bakers-percentage)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

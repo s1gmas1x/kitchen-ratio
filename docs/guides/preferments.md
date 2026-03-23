@@ -36,8 +36,23 @@ head:
 
 # Preferments
 
-Preferments are dough "pre-games": part of your flour and water mixed ahead of time so the final dough starts with momentum.
-Done well, they buy you better flavor, better fermentation behavior, and nicer handling.
+Preferments are portions of flour and water mixed ahead of the final dough.
+Done well, they improve flavor, fermentation behavior, and handling without changing the whole formula.
+
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Choosing between poolish, biga, and old-dough style workflows.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Flavor, structure, hydration allocation, and preferment maturity.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Pair with scalds and hydration once preferment allocation starts affecting dough feel.</span>
+  </div>
+</div>
 
 In the KitchenRatio calculator, preferments live in **Advanced → Preferments**.
 
@@ -51,15 +66,17 @@ In the KitchenRatio calculator, preferments live in **Advanced → Preferments**
 > [!NOTE]
 > The calculator allows only one preferment type at a time: poolish or biga.
 
+## Quick Choice
+
+- **Choose poolish** when you want easier stretch, a more open crumb, and a softer, more extensible dough.
+- **Choose biga** when you want more structure, more chew, and a drier, firmer feel during mixing.
+- **Choose pâte fermentée** when you are repeating the same dough often and want a lower-fuss carryover workflow.
+
 ## Other Preferment Style (Not in Calculator Yet)
 
 ### Pate fermentee (Pâte fermentée)
 
-Pate fermentee ("old dough") is exactly what it sounds like: a piece of fully mixed dough saved from a previous batch and used to seed the next one.
-Think of it as a flavor relay baton from one bake to the next.
-
-Where it came from:
-- Traditional French and broader European baking practice, especially in systems where dough was mixed daily and a portion was intentionally held back.
+Pate fermentee ("old dough") is a piece of fully mixed dough saved from one batch and used to seed the next.
 
 How it behaves:
 - Already contains flour, water, salt, and yeast.
@@ -82,21 +99,6 @@ Quick walkthrough:
 5. Make a new hold-back piece from the new batch to continue the cycle.
 6. If the dough piece gets too old, acidic, or weak, reset with a fresh cycle.
 
-## When to Use Which
-
-- **Use poolish** when you want:
-  - a dough that stretches easier
-  - a more open crumb
-  - mellow, rounded fermentation flavor
-- **Use biga** when you want:
-  - stronger structure and shape tolerance
-  - a tighter, drier feel during mixing
-  - deeper flavor without turning the dough into soup
-- **Use pâte fermentée** when you want:
-  - a low-fuss, repeatable preferment workflow
-  - more flavor and strength without extra side builds
-  - continuity from one batch to the next
-
 ## Deeper Breakdown
 
 ### Poolish
@@ -104,14 +106,14 @@ Quick walkthrough:
 - Hydration is usually high (often near 100%), so it matures quickly.
 - It usually increases extensibility, which helps with stretch and open crumb.
 - Great fit for lean doughs and many pizza styles.
-- If it overripens, final dough can get sticky, slack, and annoying.
+- Watch out for overripeness, which can leave the final dough sticky and slack.
 
 ### Biga
 
 - Hydration is lower, so fermentation progresses differently and structure stays firmer.
 - It usually improves strength and shaping tolerance.
 - Useful when you want chew and a more assertive dough network.
-- If too dry or underdeveloped, final dough can feel tight and uneven.
+- Watch out for underdevelopment, which can leave the final dough tight and uneven.
 
 ### Pate fermentee (Pâte fermentée)
 
@@ -119,18 +121,6 @@ Quick walkthrough:
 - It contributes mature flavor and often better dough confidence in the next batch.
 - It is less about changing hydration style and more about process continuity.
 - Because salt is already present in the held dough, final mix balance still matters.
-
-## Where They Came From
-
-- **Poolish** is commonly tied to 19th-century Polish bakers working in France, and became a staple in French-style bread workflows.
-- **Biga** is the Italian preferment tradition, heavily used in breads and pizza where strength and flavor layering matter.
-
-## Typical Use in Practice
-
-- **Poolish** shows up in baguette-style and lean doughs when extensibility and openness are the goal.
-- **Biga** shows up when bakers want more structure and chew, especially in many Italian-style breads and pizzas.
-- **Pâte fermentée** shows up in bakeries and home routines where the same dough is made repeatedly and a piece is carried forward.
-- All three are used to build flavor without relying only on long final-proof times.
 
 ## How Allocation Works
 
@@ -223,11 +213,17 @@ For pâte fermentée (not in calculator yet), run it manually:
   - Verify yeast amount and room temperature.
 
 ## Related Guides
+<div class="content-section">
 
 - [Scalds](/guides/scalds)
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
 
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

@@ -21,7 +21,6 @@ head:
   - - meta
     - property: og:image
       content: https://kitchenratio.com/logo.png
-
   - - meta
     - name: twitter:card
       content: summary_large_image
@@ -34,7 +33,6 @@ head:
   - - meta
     - name: twitter:image
       content: https://kitchenratio.com/logo.png
-
   - - link
     - rel: canonical
       href: https://kitchenratio.com
@@ -50,7 +48,6 @@ head:
       href: /logolighttrans.svg
       type: image/svg+xml
       fetchpriority: high
-
   - - script
     - type: application/ld+json
       children: |
@@ -74,34 +71,59 @@ hero:
       <img src="/logolighttrans.svg" class="logo-dark" alt="KitchenRatio" width="682" height="180" loading="eager" decoding="async" fetchpriority="high" />
       <img src="/logodarktrans.svg" class="logo-light" alt="KitchenRatio" width="682" height="180" loading="eager" decoding="async" fetchpriority="high" />
     </span>
-  text: "Baker's Math & Dough Hydration Calculator"
-  tagline: "Calculate baker's percentages and dough hydration for bread, pizza, and flatbread."
+  text: "Bake by ratio, not by guesswork."
+  tagline: "Calculate baker's percentages, compare hydration, and scale dough with less friction."
   actions:
     - theme: brand
-      text: "Try the Calculator"
+      text: "Open Calculator"
       link: "https://kitchenratio.com/calculator"
       target: "_blank"
     - theme: alt
-      text: "Browse Guides"
+      text: "Explore Guides"
       link: /guides/
     - theme: alt
-      text: "Browse Recipes"
+      text: "See Recipes"
       link: /recipes/
 
 features:
-   - title: "Baker's Math & Percentages"
-     details: "Calculate baker's percentages and dough hydration for consistent bread and pizza dough, without reading long recipe blogs or watching long videos."
-   - title: "Guides That Explain the Math"
-     details: "Learn how hydration and ingredient ratios affect dough handling, texture, and consistency across common dough types."
-   - title: "Fast, Flexible Calculator"
-     details: "Adjust flour, water, and ingredient ratios in seconds to scale recipes accurately using baker's math."
+  - title: "Calculator First"
+    details: "Build and scale dough formulas with baker's percentages, hydration, and yield control in one place."
+  - title: "Learn And Apply"
+    details: "Use the guides and recipes to understand the numbers, then put them to work immediately."
 
 ---
-## Calculate Dough Hydration & Baker's Percentages
+<div class="home-band home-band-primary">
+  <p class="eyebrow">Start Strong</p>
+  <h2>The shortest path from formula to dough.</h2>
+  <p>Use the calculator to build or scale a batch, then use the docs when you want the reasoning behind the numbers.</p>
 
-KitchenRatio is a free **baker's math and dough hydration calculator** designed to help bakers scale recipes accurately using baker's percentages. Whether you're making bread, pizza dough, or flatbread, the calculator removes guesswork and improves consistency.
+  <div class="quick-links">
+    <a href="https://kitchenratio.com/calculator" target="_blank" rel="noreferrer">
+      <strong>Calculator</strong>
+      <span>Go straight to baker's math, hydration, and batch scaling.</span>
+    </a>
+    <a href="/guides/kitchenratio-calculator">
+      <strong>How It Works</strong>
+      <span>See how to read the inputs, outputs, and planning workflow.</span>
+    </a>
+    <a href="/guides/getting-started">
+      <strong>Get Started</strong>
+      <span>Use the fastest setup if you are new to KitchenRatio.</span>
+    </a>
+  </div>
+</div>
 
-### Start Here
-- [KitchenRatio Calculator Guide](/guides/kitchenratio-calculator)
-- [Hydration Guide](/guides/hydration)
-- [Browse Recipes](/recipes/)
+<div class="section-grid home-section-grid">
+  <a class="section-card" href="/guides/">
+    <h3>Guides</h3>
+    <p>Core concepts, fermentation, proofing, hydration, and dough technique.</p>
+  </a>
+  <a class="section-card" href="/recipes/">
+    <h3>Recipes</h3>
+    <p>Reference formulas for pizza, bread, and flatbread that scale cleanly.</p>
+  </a>
+  <a class="section-card" href="/ingredients/">
+    <h3>Ingredients</h3>
+    <p>Short practical references for flour, water, salt, and yeast.</p>
+  </a>
+</div>

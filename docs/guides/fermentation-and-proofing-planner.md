@@ -42,6 +42,21 @@ The calculator includes two timing helpers:
 
 These are yeast-aware, temperature-aware planning estimates. They are meant to speed up dialing in a process, not replace dough feel.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Using the calculator's timing helpers as a practical starting range.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Yeast-aware estimates, temperature inputs, and the limits of the model.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Fermentation and proofing guides if you want to pair the estimate with dough cues.</span>
+  </div>
+</div>
+
 ## Where It Shows Up
 
 The planner cards appear when:
@@ -126,10 +141,18 @@ Reset behavior returns fermentation planning to:
 5. Use the estimated range as a starting target, then confirm by dough behavior.
 
 ## Related Guides
+<div class="content-section">
+
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Fermentation](/guides/fermentation)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
 - [Hydration](/guides/hydration)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>

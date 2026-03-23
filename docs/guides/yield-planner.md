@@ -38,16 +38,32 @@ head:
 
 The Yield Planner is your batch reality check. Give it total dough weight, pick a mode, and it tells you either **how many pieces** or **how heavy each piece** should be. No guesswork, no napkin math.
 
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Sizing portions, rolls, tortillas, and loaf-pan batches more reliably.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Total dough weight, piece count, and grams-per-piece planning.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Use it alongside the calculator and recipe pages for real batch planning.</span>
+  </div>
+</div>
+
 ## Quick Start
-1. Open **Summary** and click **Yield planner**, then **Open**.  
-2. Choose a mode: **By Number of Pieces** or **By Grams per Piece**.  
+1. Open **Batch size** from the summary area.  
+2. Choose a mode: **Portions**, **Total dough**, or **Flour**.  
 3. Enter one value and the planner does the rest, instantly.
 
-## Use the Actual Final Weight (Optional)
-If your dough loses weight during mixing, resting, or benching, check **Use actual final weight** and enter the weighed total in grams. The planner swaps in that real-world number so your yield stays honest.
+## Pick the Planning Input
+If you are planning by portions, use the **Grams each** field to dial in your target piece size directly.  
+If you are planning by total dough, enter the full dough target in grams and let the calculator scale flour to match.
 
 > [!NOTE]
-> Dough weight is the input; pieces are the output. The tool never "makes" dough - it just divides what you already have.
+> Dough weight is the input and portions are the output. The planner does not create dough; it sizes the batch you want to make.
 
 ## Common Starting Weights
 These are solid starting points. Adjust for dough type, hydration, and the finished size you want.
@@ -72,16 +88,24 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
 ## Practical Tips
 - Weigh your dough for the most accurate yield count.  
-- Stiffer doughs feel tighter in smaller pieces; softer doughs can handle slightly larger pieces.  
-- If you tweak hydration, re-check piece size after a short rest.
+- Stiffer doughs feel tighter in smaller pieces, while softer doughs can handle slightly larger ones.  
+- If you change hydration, re-check piece size after a short rest.
 
 ## Related Guides
+<div class="content-section">
+
 - [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Hydration](/guides/hydration)
 - [No-knead Tortillas](/recipes/tortillas)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
 
 > **Affiliate Disclaimer**  
 > This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases. If you click on a link and make a purchase, I may receive a small commission at no extra cost to you.

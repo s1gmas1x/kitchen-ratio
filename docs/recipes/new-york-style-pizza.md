@@ -39,6 +39,21 @@ head:
 This is the home-oven version of the classic foldable slice: thin enough to bend, strong enough to hold toppings, and crisp on the bottom without turning cracker-dry.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/new-york) to scale any batch size.
 
+<div class="recipe-glance">
+  <div class="recipe-glance-card">
+    <strong>Style</strong>
+    <span>Thin, foldable, home-oven slice with balanced chew.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Yield</strong>
+    <span>About 3 pizzas at 11-12 inches from the example batch.</span>
+  </div>
+  <div class="recipe-glance-card">
+    <strong>Best For</strong>
+    <span>Baking steel setups, light toppings, and longer cold fermentation.</span>
+  </div>
+</div>
+
 ::: info Testing Status
 This formula is still being tested and refined.
 :::
@@ -119,16 +134,28 @@ Launch from a peel with enough bench flour to slide, but not so much that the bo
 - **Weak and sticky**: lower hydration toward 62% or tighten balling.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Fermentation](/guides/fermentation)
 - [Flour](/ingredients/flour)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
 
+</div>
+
 ## Related Recipes
+<div class="content-section">
+
 - [Colorado Style Pizza Dough](/recipes/colorado-pizza-dough)
 - [Roman Pizza al Taglio (High Hydration)](/recipes/roman-al-taglio-pizza)
+
+</div>
 
 ---
 

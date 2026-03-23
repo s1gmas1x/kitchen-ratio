@@ -41,7 +41,25 @@ head:
 Enriched doughs add ingredients like fats, sugar, eggs, and dairy to a lean formula.
 Those additions change both flavor and mechanics: usually softer crumb, richer taste, and different fermentation behavior.
 
-### How Enrichment Ingredients Affect Dough
+Light enrichment nudges a dough softer and more flexible.
+Heavy enrichment pushes it toward richer flavor, tighter scheduling, and more delicate handling.
+
+<div class="guide-glance">
+  <div class="guide-glance-card">
+    <strong>Best For</strong>
+    <span>Understanding what fats, sugar, eggs, and dairy actually change in a dough.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Focus</strong>
+    <span>Texture, tenderness, fermentation impact, and the difference between light and heavy enrichment.</span>
+  </div>
+  <div class="guide-glance-card">
+    <strong>Read This Next</strong>
+    <span>Pair with hydration and an enriched recipe once you want to tune a formula on purpose.</span>
+  </div>
+</div>
+
+## How Enrichment Changes Dough
 
 - **Fats (oil, butter, shortening)**  
   Soften the crumb, improve tenderness, and slow staling. Higher-fat doughs stay soft longer and are easier to shape.
@@ -60,9 +78,17 @@ These enrichments can be used lightly or heavily depending on the style of dough
 **Examples:** hoagie rolls, sandwich loaves, brioche, enriched-style pizza doughs.
 
 ## Related Guides
+<div class="content-section">
+
 - [Hydration](/guides/hydration)
 - [Flour](/ingredients/flour)
 - [Lightly Enriched Hoagie Rolls](/recipes/lightly-enriched-hoagie)
 
+</div>
+
 ## Get the Gear
+<div class="content-section">
+
 - [Baking Gear & Ingredients](/guides/baking-gear-and-ingredients)
+
+</div>
