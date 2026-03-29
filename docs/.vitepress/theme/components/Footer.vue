@@ -21,9 +21,9 @@
     <div class="footer-text">
       <p class="footer-kicker">Built for dough formulas, hydration control, and repeatable scaling.</p>
       <p class="footer-legal-links">
-        <a href="/privacy-policy">Privacy Policy</a>
+        <a href="https://kitchenratio.com/privacy-policy.html">Privacy Policy</a>
         <span aria-hidden="true">·</span>
-        <a href="/cookie-policy">Cookie Policy</a>
+        <a href="https://kitchenratio.com/cookie-policy.html">Cookie Policy</a>
         <span aria-hidden="true">·</span>
         <button type="button" class="footer-link-button" @click="openCookiePreferences">
           Cookie Preferences

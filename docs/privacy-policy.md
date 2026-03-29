@@ -29,7 +29,7 @@ KitchenRatio ("we", "us", "our") respects your privacy. This page explains what 
 
 We use a consent banner for analytics cookies. Analytics tracking is enabled only after you accept. You can change your preference using the "Cookie Preferences" control in the footer.
 
-See `/cookie-policy` for more details.
+See [the Cookie Policy](https://kitchenratio.com/cookie-policy.html) for more details.
 
 ## Sharing
 
