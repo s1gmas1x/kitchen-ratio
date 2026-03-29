@@ -109,6 +109,10 @@ function openCookiePreferences() {
   showBanner.value = true
 }
 
+function goToPolicyPage(path) {
+  window.location.assign(path)
+}
+
 onMounted(() => {
   updateBannerFromConsent()
   if (consentValue.value === 'accepted') {
@@ -149,8 +153,8 @@ async function declineCookies() {
     <div class="cookie-banner">
       <p>
         This site uses cookies for analytics to improve your experience. See our
-        <a href="https://kitchenratio.com/privacy-policy.html">Privacy Policy</a> and
-        <a href="https://kitchenratio.com/cookie-policy.html">Cookie Policy</a>.
+        <a href="/privacy-policy.html" @click.prevent="goToPolicyPage('/privacy-policy.html')">Privacy Policy</a> and
+        <a href="/cookie-policy.html" @click.prevent="goToPolicyPage('/cookie-policy.html')">Cookie Policy</a>.
       </p>
       <div class="button-container">
         <button class="primary" @click="acceptCookies">Accept</button>

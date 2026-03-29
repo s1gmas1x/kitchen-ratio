@@ -52,6 +52,12 @@ export default defineConfig({
 
   themeConfig: {
     externalLinkIcon: false,
+    notFound: {
+      title: 'PAGE NOT FOUND',
+      quote: "This page must have over-proofed. Let's get you back before it collapses.",
+      linkLabel: 'go to home',
+      linkText: 'Take me home',
+    },
     logo: {
       light: '/logo2darktrans.svg', // shown in light mode
       dark: '/logo2lighttrans.svg',   // shown in dark mode

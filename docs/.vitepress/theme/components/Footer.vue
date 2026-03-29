@@ -21,9 +21,9 @@
     <div class="footer-text">
       <p class="footer-kicker">Built for dough formulas, hydration control, and repeatable scaling.</p>
       <p class="footer-legal-links">
-        <a href="https://kitchenratio.com/privacy-policy.html">Privacy Policy</a>
+        <a href="/privacy-policy.html" @click.prevent="goToPolicyPage('/privacy-policy.html')">Privacy Policy</a>
         <span aria-hidden="true">·</span>
-        <a href="https://kitchenratio.com/cookie-policy.html">Cookie Policy</a>
+        <a href="/cookie-policy.html" @click.prevent="goToPolicyPage('/cookie-policy.html')">Cookie Policy</a>
         <span aria-hidden="true">·</span>
         <button type="button" class="footer-link-button" @click="openCookiePreferences">
           Cookie Preferences
@@ -396,6 +396,10 @@ onBeforeUnmount(() => {
 
 function openCookiePreferences() {
   window.dispatchEvent(new Event('open-cookie-preferences'))
+}
+
+function goToPolicyPage(path) {
+  window.location.assign(path)
 }
 </script>
 
