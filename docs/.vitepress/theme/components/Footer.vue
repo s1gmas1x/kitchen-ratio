@@ -424,16 +424,18 @@ function goToPolicyPage(path) {
   padding-left: 1rem;
   padding-right: 1rem;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
   text-align: left;
   line-height: 1.55;
 }
 
 .footer-text p {
-  margin: 0 0 0.75rem;
+  margin: 0;
 }
 
 .footer-kicker {
-  margin-bottom: 0.45rem;
   color: var(--calc-text-2);
   font-size: 0.8rem;
   font-weight: 600;
@@ -468,8 +470,8 @@ function goToPolicyPage(path) {
 }
 
 #tip-button-container {
-  margin-top: 0.95rem;
-  padding: 0.95rem 1.05rem 1rem;
+  margin-top: 0.15rem;
+  padding: 1rem 1.05rem;
   border: 1px solid var(--calc-card-reference-border);
   border-bottom-width: 2px;
   border-radius: 1rem;
@@ -594,8 +596,7 @@ function goToPolicyPage(path) {
 }
 
 .footer-affiliate {
-  margin-top: 0.95rem;
-  margin-bottom: 0.35rem;
+  margin-top: 0.1rem;
   color: var(--calc-text-3);
   font-size: 0.76rem;
   line-height: 1.45;

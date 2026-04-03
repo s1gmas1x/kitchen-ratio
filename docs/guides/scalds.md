@@ -1,17 +1,17 @@
 ---
 title: Scalds
-description: Learn how to use tangzhong and yudane in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
+description: Learn how to use tangzhong, yudane, and Scandinavian scalds in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
 
 head:
   - - meta
     - name: description
-      content: Learn how to use tangzhong and yudane in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
+      content: Learn how to use tangzhong, yudane, and Scandinavian scalds in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
   - - meta
     - property: og:title
       content: Scalds
   - - meta
     - property: og:description
-      content: Learn how to use tangzhong and yudane in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
+      content: Learn how to use tangzhong, yudane, and Scandinavian scalds in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
   - - meta
     - property: og:type
       content: article
@@ -27,7 +27,7 @@ head:
       content: Scalds
   - - meta
     - name: twitter:description
-      content: Learn how to use tangzhong and yudane in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
+      content: Learn how to use tangzhong, yudane, and Scandinavian scalds in the KitchenRatio calculator for softer crumb, moisture retention, and dough handling control.
 
   - - link
     - rel: canonical
@@ -46,7 +46,7 @@ They are how you steer crumb softness, chew, and moisture retention with intent 
   </div>
   <div class="guide-glance-card">
     <strong>Focus</strong>
-    <span>Tangzhong, yudane, allocation ranges, and how each one shifts dough feel.</span>
+    <span>Tangzhong, yudane, Scandinavian scald, allocation ranges, and how each one shifts dough feel.</span>
   </div>
   <div class="guide-glance-card">
     <strong>Read This Next</strong>
@@ -65,19 +65,19 @@ In the KitchenRatio calculator, scalds live in **Advanced → Scalds**.
   Cooked flour paste built for softness and shelf life.
 - **Yudane**  
   Boiling-water scald that pushes chew and moisture retention.
+- **Scandinavian scald**
+  Hot rye or whole-grain scald for grain hydration, keeping quality, and traditional pan or hearth loaves.
 
 > [!NOTE]
-> The calculator allows only one scald type at a time: tangzhong or yudane.
+> The calculator allows only one scald type at a time: tangzhong, yudane, or Scandinavian scald.
 
 ## Quick Choice
 
 - **Choose tangzhong** when you want a softer, more pillowy crumb and longer-lasting tenderness.
 - **Choose yudane** when you want more chew, more wheat presence, and stronger moisture retention.
-- **Choose a traditional grain scald** when rye or whole-grain behavior is the real problem you are trying to solve.
+- **Choose Scandinavian scald** when rye or whole-grain behavior is the real problem you are trying to solve.
 
-## Other Scald Style (Not in Calculator Yet)
-
-### Traditional European / Scandinavian Scald
+## Traditional European / Scandinavian Scald
 
 This style is common in rye-heavy and mixed-grain baking, where hot water is used to hydrate and soften part of the flour (or meal) before final mixing.
 It is less about "pillowy milk bread" and more about flavor development, moisture control, and crumb stability in hearty loaves.
@@ -108,7 +108,7 @@ Typical use in practice:
 - It is useful when you want structure plus moisture retention.
 - If under-rested or under-hydrated, it stays lumpy and fights your mix.
 
-### Traditional European / Scandinavian Scald
+### Scandinavian Scald
 
 - Often used with rye flour, whole grain flour, or coarse meal.
 - Focuses on grain hydration behavior, moisture retention, and flavor depth in robust loaves.
@@ -136,6 +136,13 @@ You get live totals for:
 
 - Flour allocation: **0 to 25%** (default **10%**)
 - Water ratio: **0.8 to 1.5** (default **1:1.0** flour:water)
+
+## Scandinavian Scald Settings
+
+- Best used with rye flour or whole-grain flour allocations
+- Built with boiling water poured over the allocated flour
+- Usually cooled fully or to warm before final mixing
+- Most useful when flavor, grain softening, and moisture retention matter more than an ultra-soft crumb
 
 ## How to Make Tangzhong
 
@@ -165,26 +172,34 @@ Typical target texture:
 Typical use:
 - Works well when added in chunks during initial mixing.
 
+## How to Make Scandinavian Scald
+
+1. Weigh the flour and water shown in the calculator for the scald allocation.
+2. Bring the scald water to a boil.
+3. Pour the boiling water over the flour and mix until evenly hydrated.
+4. Cover and let it cool until warm or fully cool before adding yeast.
+5. Mix the scald into the final dough with the remaining ingredients.
+
+Typical target texture:
+- Thick paste or heavy mash with no dry flour pockets.
+
+Typical use:
+- Especially useful in rye breads, mixed-grain pan loaves, and breads where improved keeping quality matters.
+
 ## Practical Workflow
 
 1. Build your base formula in the calculator.
 2. Open **Advanced → Scalds**.
-3. Enable tangzhong or yudane.
+3. Enable tangzhong, yudane, or Scandinavian scald.
 4. Set flour allocation and water ratio.
 5. Prepare the scald using the displayed flour and water grams.
 6. Mix final dough using remaining flour and water shown in Advanced.
-
-For traditional European/Scandinavian scald (not in calculator yet), run it manually:
-1. Choose the rye/whole-grain portion you want to scald.
-2. Add hot water and mix thoroughly.
-3. Rest covered until fully cooled and hydrated.
-4. Add this scalded portion during final dough mixing.
 
 ## Practical Tips
 
 - Start with tangzhong around 5% flour and 1:5 ratio for softer sandwich-style crumbs.
 - Start with yudane around 10% flour and 1:1 ratio for chewier texture.
-- For traditional rye-style scalds, start modest and observe dough behavior before increasing scalded flour share.
+- For Scandinavian or rye-style scalds, start modest and observe dough behavior before increasing scalded flour share.
 - If dough feels tighter than expected, review [Hydration](/guides/hydration) and adjust on purpose.
 - Keep total advanced allocation in range to avoid over-allocation warnings.
 

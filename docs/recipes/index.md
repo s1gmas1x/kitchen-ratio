@@ -10,15 +10,15 @@ description: "Bread, pizza, and flatbread recipes designed to scale with baker's
 </div>
 
 <div class="section-grid">
-  <a class="section-card" href="/recipes/new-york-style-pizza">
+  <a class="section-card" href="#pizza">
     <h3>Pizza</h3>
     <p>From New York to Detroit to Roman, compare styles without losing track of the math.</p>
   </a>
-  <a class="section-card" href="/recipes/french-bread">
+  <a class="section-card" href="#breads">
     <h3>Bread</h3>
     <p>Lean and enriched doughs that make percentage-based scaling easier to understand.</p>
   </a>
-  <a class="section-card" href="/recipes/tortillas">
+  <a class="section-card" href="#flatbreads">
     <h3>Flatbread</h3>
     <p>Fast doughs and softer breads that adapt well to batch and hydration changes.</p>
   </a>
@@ -37,6 +37,7 @@ These recipes are practical reference points, not fixed laws. They should put yo
 - [French Bread](/recipes/french-bread)
 - [Lightly Enriched Hoagie](/recipes/lightly-enriched-hoagie)
 - [Brioche (Early Butter, Cold Ferment)](/recipes/brioche-early-butter-cold-ferment)
+- [Grandma's Swedish Rye](/recipes/grandmas-swedish-rye)
 
 </div>
 
