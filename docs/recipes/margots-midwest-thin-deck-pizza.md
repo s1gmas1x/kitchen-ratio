@@ -36,7 +36,7 @@ head:
 
 # Margot's Midwest Thin (Deck)
 
-This is a Fargo's-style Midwest thin preset: low hydration, strong flour, long cold fermentation, rolled thin, and baked hot for crisp snap.
+Margot's Midwest Thin is a Midwest thin preset inspired by Fargo's Pizza Company: low hydration, strong flour, long cold fermentation, rolled thin, and baked hot for crisp snap.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/midwest-thin) to scale any batch size.
 
 <div class="recipe-glance">
@@ -50,7 +50,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/midw
   </div>
   <div class="recipe-glance-card">
     <strong>Best For</strong>
-    <span>Cold fermentation, rolling pins, light toppings, and extra-crisp slices.</span>
+    <span>Cold fermentation, rolling pins, heavier topping coverage, and extra-crisp slices.</span>
   </div>
 </div>
 
@@ -105,10 +105,37 @@ No sugar and no docking for this style.
 - Strong flour
 - Long cold fermentation
 - Sheeted thin
+- Fairly heavily topped for the style
 - Cornmeal-stacked skins
 - 500F rotating deck equivalent
 - No sugar
 - No docking
+
+## Sauce
+
+The sauce for this style is mixed cold rather than cooked.
+
+- Tomato paste
+- Tomato puree
+- Burgundy wine
+- Granulated garlic
+- Oregano
+- Basil
+- Black pepper
+- Small amount of horseradish
+- Salt
+
+The target consistency is thick but brushable: closer to loosened tomato paste or thick pancake batter than a loose pizza sauce.
+
+## Cheese
+
+Traditional cheese blend:
+
+- **Low-moisture mozzarella** - 80%
+- **Provolone** - 10%
+- **Mild cheddar** - 10%
+
+Coverage is generous. This style was fairly heavily topped, including cheese, while still relying on the thin crust to stay crisp.
 
 ---
 
@@ -159,8 +186,8 @@ No sugar and no docking for this style.
 
 ### Bake Process
 - Pull skin from fridge.
-- Sauce immediately.
-- Add light toppings.
+- Sauce immediately with a brush, keeping the layer thin and even.
+- Add cheese and toppings generously, but keep the distribution even.
 - Launch onto stone or steel.
 
 ### During Bake
