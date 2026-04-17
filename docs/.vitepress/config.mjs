@@ -8,8 +8,17 @@ const calculatorSitemapPaths = [
   '/calculator/pizza/new-york',
   '/calculator/pizza/detroit',
   '/calculator/pizza/midwest-thin',
+  '/calculator/pizza/sicilian',
+  '/calculator/pizza/roman-al-taglio',
+  '/calculator/pizza/colorado',
+  '/calculator/pizza/cold-iron-cloud-pan',
   '/calculator/bread/french-bread',
+  '/calculator/bread/hoagie',
+  '/calculator/bread/brioche',
+  '/calculator/bread/grandmas-swedish-rye',
+  '/calculator/flatbread/naan',
   '/calculator/flatbread/tortillas',
+  '/calculator/flatbread/pita',
 ]
 
 export default defineConfig({
