@@ -36,7 +36,7 @@ head:
 
 # KitchenRatio Calculator
 
-The KitchenRatio calculator scales doughs with baker's percentages, fast. You set the ratio once, then move the flour and everything updates. No napkin math, no mystery. Access it at https://kitchenratio.com/calculator.
+The KitchenRatio calculator builds and scales doughs with baker's percentages, fast. Start from a preset or your own formula, set batch size by flour, total dough, or portions, and everything stays in sync. No napkin math, no mystery. Access it at https://kitchenratio.com/calculator.
 
 <div class="guide-glance">
   <div class="guide-glance-card">
@@ -54,22 +54,25 @@ The KitchenRatio calculator scales doughs with baker's percentages, fast. You se
 </div>
 
 ## Presets (Start Smart, Then Tweak)
-Presets give you a reliable baseline for breads, pizza, and flatbreads. Pick one, then adjust flour to scale and sliders to dial it in. You get a proven ratio without the guesswork, and you can still make it yours.
+Presets give you a reliable baseline for breads, pizza, and flatbreads. Pick one, then set batch size and tune the formula from there. You get a proven ratio without the guesswork, and you can still make it yours.
 
 ## Quick Start (The 30-Second Tour)
-1. Set flour with the +/- buttons in the Flour card. That is your 100%.  
-2. Adjust water, salt, and yeast with the sliders.  
-3. Use Add Ingredient for enrichments and other add-ins.  
-4. Read the grams and bake.
+1. Pick a preset, or start with the default formula.  
+2. Set batch size in **Batch size** using **Portions**, **Total dough**, or **Flour**.  
+3. Adjust water, salt, yeast, and extras in **Formula**.  
+4. Check weights and process in **Recipe**, then use **Stats** for hydration and dough behavior.
 
 ## How the Cards Work
-- **Flour** uses step buttons to scale the batch.  
-- **Water, salt, yeast** use sliders to set percentages.  
+- **Batch size** scales the formula by portions, target dough weight, or flour weight.  
+- **Flour** shows your 100% base and lets you type grams directly, use step controls, or change flour blend details.  
+- **Water, salt, yeast** use sliders, and you can also click either the `%` or `g` value to type directly.  
 - **Add Ingredient** opens a grouped menu for eggs, dairy, fats, sugars, starches, seeds, and misc.  
-- Each card shows grams so you can confirm the batch at a glance.
+- **Preferments & Scalds** adds poolish, biga, tangzhong, yudane, and Scandinavian scald tools.  
+- **Recipe** shows ingredient weights, timing notes, and the share button.  
+- **Stats** shows base, effective, and adjusted hydration plus a texture forecast.
 
 ## Ratios That Behave
-Set the ratio first, then scale the flour.
+Set the ratio first, then scale the batch the way you want.
 - **Hydration (water %)** controls softness and handling.  
 - **Salt %** shapes flavor and fermentation.  
 - **Yeast %** controls rise speed.  
@@ -87,15 +90,18 @@ If you want repeatable results, grams are not "extra precise" - they are the bas
 
 ## Scaling Workflow (Repeatable and Boring, in a Good Way)
 1. Dial in a dough you trust.  
-2. Keep the sliders steady.  
-3. Increase or decrease flour to scale the batch.  
+2. Keep the percentages steady.  
+3. Scale by flour, total dough, or portions.  
 
 Everything else follows automatically.
 
 ## Practical Tips
 - Weigh in grams for accuracy.  
+- If you already know an exact target, click the flour, `%`, or `g` value and type it directly.  
 - Add enrichments as percentages of flour (oil, sugar, dairy, eggs).  
 - Use presets when you want a baseline, then tweak.  
+- Use the **Recipe** view when you want the ingredient list and a shareable link.  
+- Use **Stats** when you want the hydration readout translated into handling and crumb clues.  
 - Pair this with [Baker's Percentage](/guides/bakers-percentage) to understand the "why."
 
 ## Related Guides

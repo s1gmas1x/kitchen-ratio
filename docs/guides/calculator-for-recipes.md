@@ -54,7 +54,8 @@ Turn any written recipe into baker's percentages, then scale it cleanly. Think o
 </div>
 
 ## Step 1: Set the Flour Baseline
-Put your recipe's flour weight into the Flour card. That number is your 100%.
+Put your recipe's flour weight into the calculator so that number becomes your 100%.
+The cleanest way is to switch **Batch size** to **Flour** and enter the flour grams there, or click the flour weight and type directly.
 
 ## Step 2: Match Ingredients by Grams
 Add the ingredients you need (water, salt, yeast, enrichments).  
@@ -63,12 +64,12 @@ The calculator keeps both values in sync as you dial the formula in.
 
 ## Step 3: Capture the Ratio
 Once the grams and percentages match your source recipe, the converted formula is set.  
-If you want to keep that converted formula, use the **Share** button above the recipe area to copy a link with the current settings.  
+If you want to keep that converted formula, open **Recipe** and use **Share** to copy a link with the current settings.  
 You can still write the percentages down, but the shared link is the quickest way to save or send the result.
 
 ## Step 4: Scale the Batch
-Keep the percentages fixed and change the flour weight.  
-Every ingredient updates automatically.
+Keep the percentages fixed and change the batch target.  
+You can scale by flour weight, target total dough, or portions, and every ingredient updates automatically.
 
 ## Example Workflow
 1. Flour is 500g, so set Flour to 500g.  
@@ -81,6 +82,7 @@ Every ingredient updates automatically.
 - Weigh everything in grams. Volumes lie.  
 - If your recipe has oil, sugar, eggs, or dairy, add them with Add Ingredient.  
 - Type directly into the `g` or `%` values when you already know the target number.
+- If the recipe uses tangzhong, yudane, poolish, or biga, add those in **Preferments & Scalds** so the formula stays true to the original process.
 
 ## Related Guides
 <div class="content-section">

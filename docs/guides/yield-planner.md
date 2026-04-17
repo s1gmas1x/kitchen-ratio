@@ -36,7 +36,7 @@ head:
 
 # Yield Planner
 
-The Yield Planner is your batch reality check. Give it total dough weight, pick a mode, and it tells you either **how many pieces** or **how heavy each piece** should be. No guesswork, no napkin math.
+The Yield Planner is your batch reality check. Pick a mode, set the target you actually care about, and KitchenRatio scales the formula to match. No guesswork, no napkin math.
 
 <div class="guide-glance">
   <div class="guide-glance-card">
@@ -54,16 +54,17 @@ The Yield Planner is your batch reality check. Give it total dough weight, pick 
 </div>
 
 ## Quick Start
-1. Open **Batch size** from the summary area.  
+1. Open **Batch size** from the summary area on mobile, or use the **Batch size** card directly on desktop.  
 2. Choose a mode: **Portions**, **Total dough**, or **Flour**.  
 3. Enter one value and the planner does the rest, instantly.
 
 ## Pick the Planning Input
 If you are planning by portions, use the **Grams each** field to dial in your target piece size directly.  
 If you are planning by total dough, enter the full dough target in grams and let the calculator scale flour to match.
+If you already know the flour amount you want to use, switch to **Flour** and enter that directly.
 
 > [!NOTE]
-> Dough weight is the input and portions are the output. The planner does not create dough; it sizes the batch you want to make.
+> The planner sizes the batch you want to make. Depending on mode, your input can be portions, total dough, or flour.
 
 ## Common Starting Weights
 These are solid starting points. Adjust for dough type, hydration, and the finished size you want.
