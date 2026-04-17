@@ -92,7 +92,9 @@ This example uses **1200g total flour**, which lands close to **4 small pan loav
 | Instant yeast | 0.7% | 8.4g |
 
 ::: info
-The scald uses the **420g rye flour** and the **900g boiling water**. The remaining ingredients are mixed in after the scald cools to warm.
+On this recipe page, the scald uses the **420g rye flour** and the **900g boiling water** before the remaining ingredients are mixed in.
+
+In the calculator preset, the Scandinavian scald is modeled more conservatively as a **partial rye scald**: the **420g rye flour** is scalded at **1:1 water** and the remaining water stays in the main dough. That matches how the calculator's Scandinavian scald tool works now and keeps the formula easier to manage in-app.
 :::
 
 ## Method
