@@ -113,18 +113,22 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 ### 3. Mix the final dough
 
 - Stir in the milk, molasses, melted butter or margarine, salt, and yeast.
-- Add the bread flour and mix until a soft kneadable dough forms.
-- If the dough is clearly too loose to gather, add a little more bread flour.
+- Add the bread flour and mix until no dry flour remains.
+- The dough will be very sticky at this point. Do not judge the dough before it rests.
 
-### 4. Knead
+### 4. Rest and fold
 
-- Knead until the dough is reasonably smooth.
-- Do not expect a classic white-bread windowpane. Rye changes the feel, and this dough should stay somewhat tacky.
+- Cover and rest at room temperature for **30 minutes**.
+- With wet or lightly oiled hands, do one set of bowl folds: lift an edge of the dough, fold it toward the center, rotate the bowl, and repeat until the dough tightens slightly.
+- Rest another **30 minutes**, then fold again.
+- If the dough is still too sticky to handle comfortably, chill it briefly in the refrigerator before the next fold.
+- Do one final fold after another **30 minutes**.
 
 ### 5. Bulk ferment
 
 - Place the dough in a lightly greased bowl or tub.
-- Cover and let it rise until puffy, usually about **60-90 minutes** depending on room temperature.
+- Cover and let it rise until puffy, usually about **60-90 minutes** after the final fold depending on room temperature.
+- The dough does not need to become smooth like white bread; it should become more organized, elastic, and easier to move.
 
 ### 6. Divide and pan
 
@@ -146,9 +150,12 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 
 ## Dough Feel And Handling
 
-This dough should feel soft, tacky, and a little heavier than a standard sandwich loaf.
+This dough starts very sticky and can be difficult to knead directly after mixing.
+That is expected for this rye scald formula, and it does not mean the hydration is wrong.
+Use time, folds, wet hands, and a brief chill if needed instead of rushing to add more flour.
+After the rest-and-fold sequence, it should feel soft, tacky, and a little heavier than a standard sandwich loaf.
 Because the original note ended with "add white flour till you can knead it," some adjustment is expected.
-After your first test bake, you can adjust the bread flour slightly if the dough feels too loose or too stiff.
+After your first test bake, adjust the bread flour only if the finished bread tells you the dough was too loose or too stiff.
 
 ## Pan Loaf Recommendation
 
