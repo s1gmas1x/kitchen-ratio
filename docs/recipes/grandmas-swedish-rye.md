@@ -39,7 +39,7 @@ head:
 This is a reconstructed family recipe, not a claimed exact historical formula.
 It is based on a handwritten ingredient list with minimal instructions, likely passed down through a family line that came to the United States from Sweden through my great great grandmother.
 Whether the formula was originally hers is unknown, so it is presented here as a respectful reconstruction rather than a claim of exact provenance.
-The defining feature is a hot rye scald made by pouring boiling water over rye flour before the final dough is mixed.
+The defining feature is a hot rye scald, adapted here as a partial rye scald before the final dough is mixed.
 
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread) to scale the batch while keeping the percentages visible.
 
@@ -102,7 +102,7 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 ### 1. Make the rye scald
 
 - Put the rye flour in a large heat-safe mixing bowl.
-- Pour the boiling water over it.
+- Pour the scald water over it while still boiling.
 - Stir until no dry rye remains and the mixture becomes thick and uniform.
 
 ### 2. Cool the scald
@@ -112,7 +112,9 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 
 ### 3. Mix the final dough
 
-- Stir in the milk, molasses, melted butter or margarine, salt, and yeast.
+- In a separate container, stir the molasses into the remaining water until dissolved.
+- Add that mixture to the cooled scald along with the milk, melted butter or margarine, salt, and yeast.
+- Stir well to loosen the scald and distribute the liquid additions evenly before adding flour.
 - Add the bread flour and mix until no dry flour remains.
 - The dough will be very sticky at this point. Do not judge the dough before it rests.
 
@@ -183,7 +185,7 @@ Original note said:
 This version changes a few things on purpose:
 
 - It converts the formula into baker's percentages so the batch can be scaled and repeated.
-- It treats the boiling water and rye flour as a deliberate rye scald, which is the clearest structural idea in the note.
+- It treats the boiling water and rye flour as a deliberate rye scald, but in the calculator-style reconstruction only part of the total water is allocated to that scald.
 - It gives a measured starting point for white flour instead of relying entirely on feel.
 - It uses instant yeast percentages for consistency, even though the original note was written around a packet of dry yeast.
 - It is presented as a respectful reconstruction, not a claim that this is the exact original formula.
