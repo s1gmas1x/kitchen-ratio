@@ -36,7 +36,7 @@ head:
 
 # Convert Recipes with the Calculator
 
-Turn any written recipe into baker's percentages, then scale it cleanly. Think of this as reverse-engineering a dough: grams in, ratios out, repeatable forever.
+Turn any written recipe into baker's percentages, then scale it cleanly. This reverse-engineering workflow is the reason the calculator exists in the first place: grams in, ratios out, repeatable forever.
 
 <div class="guide-glance">
   <div class="guide-glance-card">

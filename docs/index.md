@@ -95,7 +95,7 @@ features:
 <div class="home-band home-band-primary">
   <p class="eyebrow">Start Strong</p>
   <h2>The shortest path from formula to dough.</h2>
-  <p>Use the calculator to build or scale a batch, then use the docs when you want the reasoning behind the numbers.</p>
+  <p>Use the calculator to build or scale a batch, then use the docs when you want the reasoning behind the numbers. It started as a way to reverse-engineer dough recipes reliably, worked well, and turned into something worth sharing.</p>
 
   <div class="quick-links">
     <a href="https://kitchenratio.com/calculator" target="_blank" rel="noreferrer">

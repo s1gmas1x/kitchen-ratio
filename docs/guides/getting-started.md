@@ -1,6 +1,7 @@
 # Getting Started With KitchenRatio
 
 KitchenRatio helps you build, scale, and plan dough formulas without losing the thread between style, size, and process.
+It started as a practical way to reverse-engineer dough recipes and keep the ratios repeatable enough to be useful beyond one bake.
 If you want the shortest path: choose what you want to make, pick a preset, set your yield target, and go straight to the recipe.
 
 <div class="guide-glance">
@@ -28,6 +29,7 @@ The preset flow now starts by category:
 From there, choose a featured preset card with a short description and use **Instructions** if you want a matching recipe guide before you tweak anything.
 
 Presets are meant to be fast starting points, not locked templates. If you change the formula or process, the preset switches to **Customized** and you can use **Revert to preset** to get back to the original baseline.
+They are also my reverse-engineered dough projects in various stages of completion, so treat them as working formulas rather than finished doctrine.
 
 ## 2. Set Your Yield First
 The **Yield Planner** is now a primary part of the workflow. Pick the planning mode that matches how you think:

@@ -115,8 +115,11 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 - In a separate container, stir the molasses into the remaining water until dissolved.
 - Add that mixture to the cooled scald along with the milk, melted butter or margarine, salt, and yeast.
 - Stir well to loosen the scald and distribute the liquid additions evenly before adding flour.
-- Add the bread flour and mix until no dry flour remains.
-- The dough will be very sticky at this point. Do not judge the dough before it rests.
+- For a **mixer method**, add the bread flour in stages, mixing between additions until no dry flour remains and the dough becomes smooth and sticky.
+- For a **hand-mixed method**, add the bread flour and mix until no dry flour remains.
+- The dough will be smooth and very sticky at first. Do not judge the dough before it rests.
+
+Need a mixer? [KitchenAid Stand Mixer](https://amzn.to/44EYHO4).
 
 ### 4. Rest and fold
 
@@ -125,6 +128,7 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 - Rest another **30 minutes**, then fold again.
 - If the dough is still too sticky to handle comfortably, chill it briefly in the refrigerator before the next fold.
 - Do one final fold after another **30 minutes**.
+- If you are handling the dough directly, dust the surface of the dough lightly with flour before each fold and keep your fingers damp. A light sprinkle is usually enough to keep it from sticking to you without changing the dough much.
 
 ### 5. Bulk ferment
 
@@ -154,7 +158,8 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 
 This dough starts very sticky and can be difficult to knead directly after mixing.
 That is expected for this rye scald formula, and it does not mean the hydration is wrong.
-Use time, folds, wet hands, and a brief chill if needed instead of rushing to add more flour.
+Using a mixer usually makes the early stage much easier because it smooths the dough before the first rest.
+Use time, folds, wet hands, a light dusting of flour on the dough surface, and a brief chill if needed instead of rushing to add more flour.
 After the rest-and-fold sequence, it should feel soft, tacky, and a little heavier than a standard sandwich loaf.
 Because the original note ended with "add white flour till you can knead it," some adjustment is expected.
 After your first test bake, adjust the bread flour only if the finished bread tells you the dough was too loose or too stiff.
