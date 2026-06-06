@@ -100,7 +100,7 @@ I prefer lard, but any neutral fat works.
 ### 3. Roll
 - Preheat a cast iron skillet over medium-high heat.  
 - Lightly flour the counter and rolling pin.  
-- Flatten each dough ball by hand after dusting with flour, then roll as thin as possible, rotating and flipping to maintain roundness.  
+- Flatten each dough ball by hand after dusting with flour, then roll to your preferred thickness, rotating and flipping to maintain roundness. Thinner tortillas are larger and more delicate; slightly thicker tortillas cook up softer and a little more substantial.  
 - Keep tortillas from sticking by lightly flouring as needed. Stack carefully without sticking.
 
 ### 4. Cook
