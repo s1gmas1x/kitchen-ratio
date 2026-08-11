@@ -76,7 +76,7 @@ hero:
   actions:
     - theme: brand
       text: "Open Calculator"
-      link: "https://kitchenratio.com/calculator"
+      link: "https://kitchenratio.com/calculator/"
       target: "_blank"
     - theme: alt
       text: "Explore Guides"
@@ -98,7 +98,7 @@ features:
   <p>Use the calculator to build or scale a batch, then use the docs when you want the reasoning behind the numbers. It started as a way to reverse-engineer dough recipes reliably, worked well, and turned into something worth sharing.</p>
 
   <div class="quick-links">
-    <a href="https://kitchenratio.com/calculator" target="_blank" rel="noreferrer">
+    <a href="https://kitchenratio.com/calculator/" target="_blank" rel="noreferrer">
       <strong>Calculator</strong>
       <span>Go straight to baker's math, hydration, and batch scaling.</span>
     </a>

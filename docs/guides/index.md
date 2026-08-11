@@ -44,7 +44,7 @@ Start with the calculator and core concepts if you are new. Move into techniques
 
 </div>
 
-<p class="section-link-note">Start applying these ideas in the <a href="https://kitchenratio.com/calculator">KitchenRatio Calculator</a>.</p>
+<p class="section-link-note">Start applying these ideas in the <a href="https://kitchenratio.com/calculator/">KitchenRatio Calculator</a>.</p>
 
 ## Techniques
 

@@ -36,7 +36,7 @@ head:
 
 # KitchenRatio Calculator
 
-The KitchenRatio calculator builds and scales doughs with baker's percentages, fast. It started as a way to reverse-engineer dough recipes, turned out to work really well, and was worth sharing. Start from a preset or your own formula, set batch size by flour, total dough, or portions, and everything stays in sync. No napkin math, no mystery. Access it at https://kitchenratio.com/calculator.
+The KitchenRatio calculator builds and scales doughs with baker's percentages, fast. It started as a way to reverse-engineer dough recipes, turned out to work really well, and was worth sharing. Start from a preset or your own formula, set batch size by flour, total dough, or portions, and everything stays in sync. No napkin math, no mystery. Access it at <https://kitchenratio.com/calculator/>.
 
 <div class="guide-glance">
   <div class="guide-glance-card">

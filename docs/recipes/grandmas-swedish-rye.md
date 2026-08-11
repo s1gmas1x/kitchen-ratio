@@ -41,7 +41,7 @@ It is based on a handwritten ingredient list with minimal instructions, likely p
 Whether the formula was originally hers is unknown, so it is presented here as a respectful reconstruction rather than a claim of exact provenance.
 The defining feature is a hot rye scald, adapted here as a partial rye scald before the final dough is mixed.
 
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread) to scale the batch while keeping the percentages visible.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/) to scale the batch while keeping the percentages visible.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

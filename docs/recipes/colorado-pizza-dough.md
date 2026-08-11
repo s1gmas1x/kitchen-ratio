@@ -37,7 +37,7 @@ head:
 # Colorado Style Pizza Dough
 
 Colorado Mountain Pie style: thin rolled center, thick bread-like rim, and a honey-dipping crust.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/colorado) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/colorado/) to scale any batch size.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

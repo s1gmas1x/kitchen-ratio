@@ -41,7 +41,7 @@ These recipes are practical reference points, not fixed laws. They should put yo
 
 </div>
 
-<p class="section-link-note">Scale these in the <a href="https://kitchenratio.com/calculator/bread">Bread Dough Calculator</a>.</p>
+<p class="section-link-note">Scale these in the <a href="https://kitchenratio.com/calculator/bread/">Bread Dough Calculator</a>.</p>
 
 ## Pizza
 
@@ -59,7 +59,7 @@ These recipes are practical reference points, not fixed laws. They should put yo
 
 </div>
 
-<p class="section-link-note">Compare styles and scale batches in the <a href="https://kitchenratio.com/calculator/pizza">Pizza Dough Calculator</a>.</p>
+<p class="section-link-note">Compare styles and scale batches in the <a href="https://kitchenratio.com/calculator/pizza/">Pizza Dough Calculator</a>.</p>
 
 ## Flatbreads
 
@@ -73,4 +73,4 @@ These recipes are practical reference points, not fixed laws. They should put yo
 
 </div>
 
-<p class="section-link-note">Scale these in the <a href="https://kitchenratio.com/calculator/flatbread">Flatbread Calculator</a>.</p>
+<p class="section-link-note">Scale these in the <a href="https://kitchenratio.com/calculator/flatbread/">Flatbread Calculator</a>.</p>

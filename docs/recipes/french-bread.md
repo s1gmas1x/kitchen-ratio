@@ -47,7 +47,7 @@ head:
 </div>
 
 A simple no-knead French bread at 70% hydration: crisp crust, tender interior, and straightforward handling.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/french-bread) to scale it without changing the ratio.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/french-bread/) to scale it without changing the ratio.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">
