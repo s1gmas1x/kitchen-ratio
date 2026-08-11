@@ -38,7 +38,7 @@ head:
 
 This is the bread-forward pan pie: thicker than New York, lighter than it looks, and built around a long pan proof.
 If Detroit is edge-caramel drama, Sicilian is crumb and structure.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/sicilian) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/sicilian/) to scale any batch size.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

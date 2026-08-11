@@ -37,7 +37,7 @@ head:
 # Margot's Midwest Thin (Deck)
 
 Margot's Midwest Thin is a Midwest thin preset inspired by Fargo's Pizza Company: low hydration, strong flour, long cold fermentation, rolled thin, and baked hot for crisp snap.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/midwest-thin) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/midwest-thin/) to scale any batch size.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

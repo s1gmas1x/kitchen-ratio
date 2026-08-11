@@ -38,7 +38,7 @@ head:
 
 This naan is designed for a hot skillet or steel, not a tandoor.
 The yogurt adds tenderness, the milk rounds out the crumb, and the dough stays easy to shape.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/naan) to scale any batch.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/naan/) to scale any batch.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

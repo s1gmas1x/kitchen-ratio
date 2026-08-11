@@ -38,7 +38,7 @@ head:
 
 This dough is wet on purpose. The goal is an airy interior with a thin, crisp shell that fractures when you bite it.
 Handle it gently, give it time, and let the pan and heat do the heavy lifting.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/roman-al-taglio) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/roman-al-taglio/) to scale any batch size.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

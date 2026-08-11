@@ -38,7 +38,7 @@ head:
 
 This is high-hydration pan pizza built around thermal mass, oil, and time.
 The result is a crisp, fried bottom and a moist, airy crumb without trying to behave like hand-tossed pizza.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/cold-iron-cloud-pan) to scale any batch size.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/cold-iron-cloud-pan/) to scale any batch size.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">

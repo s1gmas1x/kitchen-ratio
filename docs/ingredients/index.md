@@ -38,4 +38,4 @@ These pages are practical references, not exhaustive ingredient encyclopedias. T
 
 </div>
 
-<p class="section-link-note">Put the ingredient references to work in the <a href="https://kitchenratio.com/calculator">KitchenRatio Calculator</a>.</p>
+<p class="section-link-note">Put the ingredient references to work in the <a href="https://kitchenratio.com/calculator/">KitchenRatio Calculator</a>.</p>

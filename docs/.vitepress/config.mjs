@@ -1,24 +1,24 @@
 import { defineConfig } from 'vitepress'
 
 const calculatorSitemapPaths = [
-  '/calculator',
-  '/calculator/pizza',
-  '/calculator/bread',
-  '/calculator/flatbread',
-  '/calculator/pizza/new-york',
-  '/calculator/pizza/detroit',
-  '/calculator/pizza/midwest-thin',
-  '/calculator/pizza/sicilian',
-  '/calculator/pizza/roman-al-taglio',
-  '/calculator/pizza/colorado',
-  '/calculator/pizza/cold-iron-cloud-pan',
-  '/calculator/bread/french-bread',
-  '/calculator/bread/hoagie',
-  '/calculator/bread/brioche',
-  '/calculator/bread/grandmas-swedish-rye',
-  '/calculator/flatbread/naan',
-  '/calculator/flatbread/tortillas',
-  '/calculator/flatbread/pita',
+  '/calculator/',
+  '/calculator/pizza/',
+  '/calculator/bread/',
+  '/calculator/flatbread/',
+  '/calculator/pizza/new-york/',
+  '/calculator/pizza/detroit/',
+  '/calculator/pizza/midwest-thin/',
+  '/calculator/pizza/sicilian/',
+  '/calculator/pizza/roman-al-taglio/',
+  '/calculator/pizza/colorado/',
+  '/calculator/pizza/cold-iron-cloud-pan/',
+  '/calculator/bread/french-bread/',
+  '/calculator/bread/hoagie/',
+  '/calculator/bread/brioche/',
+  '/calculator/bread/grandmas-swedish-rye/',
+  '/calculator/flatbread/naan/',
+  '/calculator/flatbread/tortillas/',
+  '/calculator/flatbread/pita/',
 ]
 
 export default defineConfig({
@@ -80,7 +80,7 @@ export default defineConfig({
       { text: 'Ingredients', link: '/ingredients/' },
       {
         text: 'Calculator',
-        link: 'https://kitchenratio.com/calculator'
+        link: 'https://kitchenratio.com/calculator/'
       }
     ],
 

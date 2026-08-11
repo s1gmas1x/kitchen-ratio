@@ -38,7 +38,7 @@ head:
 
 This pita formula is built for a strong puff, tender interior, and a pocket that actually opens.
 It follows the same overall direction as the ChainBaker-style dough, but uses **25% whole wheat** instead of half for a slightly lighter result.
-Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/pita) to scale any batch.
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/pita/) to scale any batch.
 
 <div class="recipe-glance">
   <div class="recipe-glance-card">
