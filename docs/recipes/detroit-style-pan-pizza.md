@@ -36,8 +36,8 @@ head:
 
 # Detroit Style Pan Pizza
 
-This one is about contrast: fried bottom, lacy cheese edge, and a soft interior that still has structure.
-The pan and oil are not optional details. They are the method.
+Detroit-style pan pizza is about contrast: a fried bottom, lacy cheese edge, and soft interior that still has structure.
+The pan and oil drive that result, so treat them as part of the method.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/detroit/) to scale any batch size.
 
 <div class="recipe-glance">
@@ -59,7 +59,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/detr
 This formula is still being tested and refined.
 :::
 
-## Baker's % (Testing Range)
+## Formula (Baker's %, Testing Range)
 
 - **Flour** - 100%
 - **Water** - 68-72%
@@ -69,7 +69,7 @@ This formula is still being tested and refined.
 - **Yeast (IDY)** - 0.4-0.8%
 - **Pan oil** - heavy, usually 10-20g+ per pan
 
-## Ingredients (Example Batch)
+## Example Batch and Yield
 
 - **Flour** - 500g (100%)
 - **Water** - 350g (70%)
@@ -86,7 +86,7 @@ This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller 
 
 ---
 
-## Procedure
+## Method
 
 ### 1. Mixing
 - Combine flour, yeast, sugar, and water until no dry flour remains.
@@ -131,7 +131,7 @@ This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller 
 > [!NOTE]
 > Dark steel pans often brown faster than light anodized pans. Trust color and crispness over the timer.
 
-## What to Adjust First
+## Adjustments
 
 - **Bottom too pale**: increase pan oil slightly and lower rack position.
 - **Dense interior**: longer pan proof before topping.

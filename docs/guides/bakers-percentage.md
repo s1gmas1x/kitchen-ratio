@@ -38,11 +38,8 @@ head:
 
 # Baker's Percentage
 
-Baker's percentage is shorthand for dough ratios. Flour is the fixed baseline, and everything else is measured against it.
-That is what makes scaling clean and predictable.
-
-- Flour is always **100%**.  
-- Water, yeast, salt, and enrichments are percentages of the flour weight.
+Baker's percentage expresses every ingredient as a percentage of the total flour weight.
+Flour is the fixed baseline at **100%**, so the formula stays readable when the batch size changes.
 
 <div class="guide-glance">
   <div class="guide-glance-card">
@@ -59,12 +56,21 @@ That is what makes scaling clean and predictable.
   </div>
 </div>
 
-## The Big "Aha": It Won't Add Up to 100%
-This trips people up at first. In baker's math, **100% is just the flour**, not the total dough.  
-So if you add 65% water + 2% salt + 1% yeast, you get **168% total**. That is normal.  
-Think of the percentages as **relative to flour**, not a pie chart of the whole dough.
+## The Core Rule
 
-## Example
+**Baker's percentage = (ingredient weight ÷ total flour weight) × 100**
+
+- Add all flour weights together and treat that total as **100%**.
+- Divide each other ingredient by the total flour weight.
+- Keep the percentages fixed when you want to scale a formula without changing its balance.
+
+## Why the Total Goes Over 100%
+
+In baker's math, **100% is the flour baseline**, not the whole dough. If you add 65% water, 2% salt, and 1% yeast to 100% flour, the formula totals **168%**. That is normal.
+
+Think of the percentages as ingredient weights relative to flour, not slices of a pie chart.
+
+## Worked Example
 For a dough with:
 
 - 500g flour  
@@ -74,16 +80,21 @@ For a dough with:
 
 The baker's percentages are:
 
+- Flour: 500 ÷ 500 × 100 = **100%**
 - Water: 325 ÷ 500 × 100 = **65%**  
 - Salt: 10 ÷ 500 × 100 = **2%**  
 - Yeast: 5 ÷ 500 × 100 = **1%**
 
 That same ratio still works if you scale flour up or down. The percentages stay fixed while the gram weights move.
 
-## Why Bakers Love It
+## Why It Matters
 - **Scale fast**: set the ratio, change the flour, and everything follows.  
 - **Compare recipes**: two doughs can be compared by percentage instead of batch size.  
 - **Tune with intent**: change hydration or salt by a point or two and you will feel it.
+
+## Use It in KitchenRatio
+
+Open the [KitchenRatio Calculator](https://kitchenratio.com/calculator/) with a preset or your own formula. The percentages define the formula; changing the batch size updates the ingredient weights together.
 
 ## Related Guides
 <div class="content-section">

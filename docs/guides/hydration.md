@@ -38,8 +38,9 @@ head:
 
 # Dough Hydration
 
-Hydration is baker's shorthand for how wet a dough will feel. Flour is the baseline, water is the throttle.  
-No water, no bread. Higher number, looser dough. Lower number, stiffer dough.
+Hydration is the amount of liquid water relative to the total flour weight. It is a practical preview of dough feel: a higher number generally means a looser dough, while a lower number means a stiffer dough.
+
+Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/) to compare hydration, effective hydration, and adjusted effective hydration while you build or scale a formula.
 
 <div class="guide-glance">
   <div class="guide-glance-card">
@@ -56,19 +57,28 @@ No water, no bread. Higher number, looser dough. Lower number, stiffer dough.
   </div>
 </div>
 
-**Hydration % = (Liquid Water ÷ Total Flour) × 100**
+## The Formula
 
-## Hydration vs. Effective Hydration
-There are no hard rules, but this is the practical split that works in the real world.
+**Hydration % = (liquid water ÷ total flour) × 100**
 
-- **Hydration (liquids):** the water you pour in, plus watery liquids like milk, cream, buttermilk, coffee, tea, beer, wine, juice, kombucha, etc.  
-- **Effective hydration:** total water from every ingredient, including eggs, butter, sugars, and yeast water where applicable.
+## Base, Effective, and Adjusted Hydration
+
+These three numbers answer different questions about the same dough.
+
+### Hydration (Liquids)
+
+This is the water you pour in, plus the water contributed by liquids like milk, cream, buttermilk, coffee, tea, beer, wine, juice, kombucha, and similar ingredients.
+
+### Effective Hydration
+
+This is the total water from every ingredient, including eggs, butter, sugars, and yeast water where applicable.
 
 > [!NOTE]
 > Butter and eggs usually do not count toward base hydration, but they absolutely change how a dough feels.
 
-## Adjusted Effective Hydration
-This is the new reality-check number. It starts with effective hydration, then adjusts for starch-heavy ingredients that soak up water and quietly change dough behavior.
+### Adjusted Effective Hydration
+
+This starts with effective hydration, then adjusts for starch-heavy ingredients that soak up water and quietly change dough behavior.
 
 - **Adjusted effective hydration:** effective hydration corrected for how much water starches bind in the final mix.
 
@@ -90,7 +100,7 @@ Three numbers, three jobs. Think of them as your mix control, moisture truth, an
 One number helps you tune handling, one explains total moisture, and one accounts for starch absorption. Together they make hydration easier to predict, not harder.
 :::
 
-## Hydration Levels
+## Practical Hydration Ranges
 
 ### **Low Hydration (< 60%)**
 - Firm, stiff dough  
@@ -108,7 +118,7 @@ One number helps you tune handling, one explains total moisture, and one account
 - Harder to handle  
 - **Tip:** Use gentle folding during bulk fermentation to build strength - especially for no-knead doughs.
 
-## Why Hydration Matters
+## What Hydration Changes
 Water drives the whole show: fermentation, gluten development, starch hydration, and the final texture and keeping quality.
 
 Hydration influences:
@@ -120,7 +130,7 @@ Hydration influences:
 
 Once you know hydration, you can compare recipes clearly and predict how a dough will feel before you start mixing.
 
-## Example
+## Worked Example
 
 **Recipe:**  
 - Flour: 1000g  
@@ -135,12 +145,11 @@ This dough shows a low base hydration but still feels soft because of eggs and b
 
 Understanding effective hydration and adjusted effective hydration helps you scale recipes, adjust ingredients, and troubleshoot dough with much better accuracy - especially for enriched or starch-heavy breads.
 
-Experiment with different hydration levels to find what works best for your baking style and the breads you love!
-
 ## Related Guides
 <div class="content-section">
 
 - [Baker's Percentage](/guides/bakers-percentage)
+- [KitchenRatio Calculator](/guides/kitchenratio-calculator)
 - [Water](/ingredients/water)
 - [Flour](/ingredients/flour)
 

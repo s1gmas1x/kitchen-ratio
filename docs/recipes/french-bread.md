@@ -46,7 +46,8 @@ head:
   <img src="/images/recipes/french-bread.jpg" alt="French bread fresh from the oven">
 </div>
 
-A simple no-knead French bread at 70% hydration: crisp crust, tender interior, and straightforward handling.
+This is a lean, no-knead French bread at 70% hydration, with a crisp crust and tender interior.
+The cold fermentation makes this an overnight dough, while early folds build strength without kneading.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/french-bread/) to scale it without changing the ratio.
 
 <div class="recipe-glance">
@@ -64,7 +65,15 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/fren
   </div>
 </div>
 
-## Ingredients (Example Batch)
+## Formula (Baker's %)
+
+- **Flour** - 100%
+- **Water** - 70%
+- **Salt** - 2%
+- **Instant dry yeast** - 1%
+
+## Example Batch and Yield
+
 - **Flour** - 350g  
 - **Water** - 245g (70% hydration)  
 - **Salt** - 7g (2%)  
@@ -72,9 +81,13 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/fren
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
+::: info
+This batch makes one medium loaf or two smaller loaves.
+:::
+
 ---
 
-## Procedure
+## Method
 
 ### 1. Mixing
 - Combine flour, water, salt, and yeast until a rough dough forms.  
@@ -109,6 +122,12 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
 ### 8. Cooling
 - Allow to cool completely before slicing.
+
+## Adjustments
+
+- **Dough resists shaping**: give it more bench rest before trying again.
+- **Loaf spreads during proofing**: use the floured couche or towel-lined bowl to support the sides.
+- **Crust softens while cooling**: leave the loaf uncovered until it has cooled completely.
 
 ## Related Guides
 <div class="content-section">

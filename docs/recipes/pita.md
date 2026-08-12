@@ -36,8 +36,8 @@ head:
 
 # Pita Bread
 
-This pita formula is built for a strong puff, tender interior, and a pocket that actually opens.
-It follows the same overall direction as the ChainBaker-style dough, but uses **25% whole wheat** instead of half for a slightly lighter result.
+This pita formula is built for a strong puff, tender interior, and a pocket that opens cleanly.
+The **25% whole wheat** blend adds flavor while keeping the dough light enough to roll and puff.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/pita/) to scale any batch.
 
 <div class="recipe-glance">
@@ -55,7 +55,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/
   </div>
 </div>
 
-## Baker's %
+## Formula (Baker's %)
 
 - **Bread flour** - 75%
 - **Whole wheat flour** - 25%
@@ -64,7 +64,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/
 - **Olive oil** - 2%
 - **Instant dry yeast** - 1%
 
-## Ingredients (Example Batch)
+## Example Batch and Yield
 
 - **Bread flour** - 375g (75%)
 - **Whole wheat flour** - 125g (25%)
@@ -81,7 +81,7 @@ This batch usually makes **8 pitas** at about **104g dough each** before baking.
 
 ---
 
-## Procedure
+## Method
 
 ### 1. Mixing
 - Combine flour, yeast, and most of the water.
@@ -92,7 +92,7 @@ This batch usually makes **8 pitas** at about **104g dough each** before baking.
 ### 2. Bulk Fermentation
 - Cover and ferment at room temperature until expanded by about 75%, usually **60-90 minutes**.
 
-### 3. Divide And Pre-Shape
+### 3. Divide and Pre-Shape
 - Divide into **8 equal pieces**.
 - Shape into tight balls.
 - Cover and rest **20 minutes** so the dough relaxes before rolling.
@@ -111,11 +111,11 @@ This batch usually makes **8 pitas** at about **104g dough each** before baking.
 - Bake pitas one or two at a time until fully puffed and lightly colored, usually **2-3 minutes**.
 - Do not overbake or they will dry out.
 
-### 7. Steam And Hold
+### 7. Steam and Hold
 - Transfer baked pitas to a towel-lined bowl or covered container.
 - Keep them covered as they cool so they stay soft and flexible.
 
-## What to Adjust First
+## Adjustments
 
 - **No pocket**: hotter baking surface, slightly thicker roll, or a little more final rest.
 - **Too stiff**: give the dough a longer rest before rolling or raise hydration 1-2%.
