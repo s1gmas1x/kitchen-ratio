@@ -97,7 +97,7 @@ active formula. For example, Grandma's Swedish Rye currently uses these test-bak
 | 8.5 x 4.5 in sandwich pan | 800g | Midpoint of the flour-guidance range after applying this recipe's 202.7% formula factor. |
 | 9 x 5 in sandwich pan | 975g | Rounded from about 973g calculated for this formula. |
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ## Example: Plan Tortillas
 - Flour: **450 g**  

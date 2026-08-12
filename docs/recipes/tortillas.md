@@ -72,7 +72,7 @@ These tortillas are perfect for burritos, soft tacos, or serving alongside green
 - **Baking soda** - 9g (2%)
 - **Salt** - ~7g (~1.6%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 I prefer lard, but any neutral fat works.  

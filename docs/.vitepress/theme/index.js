@@ -1,6 +1,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useRoute } from 'vitepress'
+import AffiliateLink from './components/AffiliateLink.vue'
 import CookieBanner from './components/CookieBanner.vue'
 import Footer from './components/Footer.vue'
 import './fonts.css'
@@ -39,6 +40,6 @@ export default {
   },
 
   enhanceApp({ app, router, siteData }) {
-    // your existing enhanceApp logic, if any
+    app.component('AffiliateLink', AffiliateLink)
   }
 }

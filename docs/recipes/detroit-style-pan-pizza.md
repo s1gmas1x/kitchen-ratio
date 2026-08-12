@@ -78,7 +78,7 @@ This formula is still being tested and refined.
 - **Sugar** - 7.5g (1.5%)
 - **Instant dry yeast** - 3g (0.6%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller pans.
