@@ -48,12 +48,13 @@ Inputs no longer clamp aggressively while you are typing, which makes it much ea
 
 Quick chips help you land on common batch sizes faster:
 
-- grams-per-portion chips that change by category
-- pizza style chips that pin relevant dough weights first
-- loaf chips including **1.5 lb** and **2 lb**
-- tortillas adjusted to **45g**
+- recipe targets labeled with the actual pan, pizza diameter, or piece size
+- pan and tray targets that can set both the count and grams in one action
+- test-bake labels where a recipe or pan loading is still being verified
+- general starting points for custom formulas without pretending one weight fits every style
 
-This makes the planner useful for both rough sizing and repeatable production.
+Choosing a recipe does not apply one of these targets automatically. The current batch stays intact
+until you choose a shortcut or edit a Batch value yourself.
 
 ## 4. Tune The Formula
 Once yield is set, adjust the formula in **Formula**:

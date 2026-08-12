@@ -50,7 +50,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/) to
   </div>
   <div class="recipe-glance-card">
     <strong>Yield</strong>
-    <span>Example batch makes about 4 small pan loaves, close to what the original note seems to suggest.</span>
+    <span>Example batch makes about 3 test loaves in 8.5 x 4.5-inch pans; larger 9 x 5-inch pans need about 975g each.</span>
   </div>
   <div class="recipe-glance-card">
     <strong>Best For</strong>
@@ -78,7 +78,9 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/) to
 
 ## Ingredients (Example Batch)
 
-This example uses **1200g total flour**, which lands close to **4 small pan loaves**.
+This example uses **1200g total flour** and makes about **2432g dough**. That is close to three
+8.5 x 4.5-inch test loaves at roughly 800g each. For a 9 x 5-inch pan, scale the batch around a
+**975g dough target per pan** instead of dividing this example evenly.
 
 | Ingredient | Baker's % | Weight |
 | --- | ---: | ---: |
@@ -138,7 +140,9 @@ Need a mixer? [KitchenAid Stand Mixer](https://amzn.to/44EYHO4).
 
 ### 6. Divide and pan
 
-- Divide into **4 pieces** for small pan loaves.
+- For 8.5 x 4.5-inch pans, divide into **3 pieces** at about **800g each**. The unscaled example will
+  leave each piece slightly heavier, so use the calculator when you want an exact 2400g batch.
+- For 9 x 5-inch pans, use about **975g per pan** and scale the total batch to match your pan count.
 - Shape gently and place into greased loaf pans.
 
 ### 7. Proof
@@ -167,7 +171,15 @@ After your first test bake, adjust the bread flour only if the finished bread te
 ## Pan Loaf Recommendation
 
 This formula is best treated as a pan bread rather than a free-standing hearth loaf.
-For the example batch, use **4 small loaf pans** or reduce the batch for **2 larger 8.5 x 4.5-inch style pans**.
+
+Use these as test-bake starting points:
+
+- **8.5 x 4.5-inch pan:** about **800g dough**
+- **9 x 5-inch pan:** about **975g dough**
+
+These targets come from applying standard yeast-loaf flour guidance to this formula's 202.7% total
+ingredient weight. Pan depth, proof, and the finished loaf shape still matter. Record how the dough
+fills your actual pan before treating either number as final.
 
 ## Storage
 

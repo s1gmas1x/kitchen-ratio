@@ -66,18 +66,36 @@ If you already know the flour amount you want to use, switch to **Flour** and en
 > [!NOTE]
 > The planner sizes the batch you want to make. Depending on mode, your input can be portions, total dough, or flour.
 
+## Recipe Targets And General Starting Points
+
+When a KitchenRatio recipe is active, the Batch card shows targets tied to that recipe: a pan size,
+pizza diameter and style, roll length, or another physical result. Some targets also set the
+recommended piece or pan count.
+
+Selecting a recipe does not resize your current batch. A target is applied only when you choose it.
+If no recipe-specific target is ready, the card shows clearly labeled general starting points or
+leaves the exact loaf-pan size for direct entry instead of guessing.
+
+Targets marked **Test bake** are useful working values, not final production claims. Pan depth,
+material, proof, shaping, and preferred thickness can all move the right dough weight.
+
 ## Common Starting Weights
 These are solid starting points. Adjust for dough type, hydration, and the finished size you want.
 
 | Item | Starter weight (g) | Typical range (g) | Notes |
 | --- | --- | --- | --- |
-| Tortilla (10-12 in, rolled thin) | 47 | 40-55 | 47g yields a thin 10-12 inch tortilla. |
+| Tortilla (about 10 in, rolled thin) | 47 | 40-55 | Formula and rolling thickness affect the final diameter. |
 | Dinner roll | 60 | 50-80 | Soft dinner rolls, medium size. |
 | Sandwich roll | 100 | 85-120 | For buns or sandwich rolls. |
 | Hoagie / sub roll | 160 | 140-190 | Classic 6-8 inch subs. |
-| 1 lb loaf pan | 454 | 430-500 | Starting dough weight for a 1 lb pan. |
-| 1.5 lb loaf pan | 680 | 640-760 | Starting dough weight for a 1.5 lb pan. |
-| 2 lb loaf pan | 908 | 850-1000 | Starting dough weight for a 2 lb pan. |
+
+Loaf-pan capacity is not a universal conversion from nominal pounds. Use pan dimensions and the
+active formula. For example, Grandma's Swedish Rye currently uses these test-bake targets:
+
+| Pan | Test dough target | Why it is provisional |
+| --- | ---: | --- |
+| 8.5 x 4.5 in sandwich pan | 800g | Midpoint of the flour-guidance range after applying this recipe's 202.7% formula factor. |
+| 9 x 5 in sandwich pan | 975g | Rounded from about 973g calculated for this formula. |
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
@@ -91,6 +109,7 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Weigh your dough for the most accurate yield count.  
 - Stiffer doughs feel tighter in smaller pieces, while softer doughs can handle slightly larger ones.  
 - If you change hydration, re-check piece size after a short rest.
+- Record the pan dimensions and dough weight after a test bake so the next batch starts from your actual result.
 
 ## Related Guides
 <div class="content-section">

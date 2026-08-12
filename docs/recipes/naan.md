@@ -47,7 +47,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/
   </div>
   <div class="recipe-glance-card">
     <strong>Yield</strong>
-    <span>About 8 naan at around 106g each from the example batch.</span>
+    <span>About 8 medium skillet naan at around 106g each from the example batch.</span>
   </div>
   <div class="recipe-glance-card">
     <strong>Best For</strong>
@@ -78,7 +78,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
 ::: info
-This batch usually makes **8 naan** at about **106g dough each**.
+This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 :::
 
 ---
@@ -98,7 +98,7 @@ This batch usually makes **8 naan** at about **106g dough each**.
 - Cover and rest **20-30 minutes** so the dough relaxes.
 
 ### 4. Shape
-- Roll or stretch each piece into an oval.
+- Roll or stretch each piece into a medium oval that fits your skillet.
 - Keep the center a little thinner than the edges for fast puffing and blistering.
 
 ### 5. Cook

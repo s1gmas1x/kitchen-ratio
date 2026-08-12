@@ -47,7 +47,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/brio
   </div>
   <div class="recipe-glance-card">
     <strong>Yield</strong>
-    <span>Example batch targets about 900g dough for one standard 2 lb loaf tin.</span>
+    <span>Example batch targets about 900g dough for one brioche loaf; the actual tin dimensions still need confirmation.</span>
   </div>
   <div class="recipe-glance-card">
     <strong>Best For</strong>
@@ -69,7 +69,7 @@ This formula is still being tested and refined.
 - **Salt** - 2%
 - **Active dry yeast** - 2%
 
-## Ingredients (Example Batch: 1 x 2 lb loaf tin)
+## Ingredients (Example Batch: 1 Brioche Loaf)
 
 - **Bread flour** - 400g (100%)
 - **Whole eggs** - 250g (62.5%)
@@ -82,7 +82,12 @@ This formula is still being tested and refined.
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).  
 
 ::: info
-This batch targets about **900g total dough**, a solid fit for a standard 2 lb loaf tin.
+This batch targets about **900g total dough** for one brioche loaf.
+:::
+
+::: warning Pan Size Needed
+The original note calls this a 2 lb loaf tin but does not record its dimensions. Measure the actual
+tin and confirm the baked fill before treating 900g as a reusable pan-size shortcut.
 :::
 
 ## Full-Size Batch Reference (Your Recent Bake)
