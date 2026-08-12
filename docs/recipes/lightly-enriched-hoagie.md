@@ -48,7 +48,7 @@ No-knead, cold fermented, and easy to shape. Use the [KitchenRatio Calculator](h
   </div>
   <div class="recipe-glance-card">
     <strong>Yield</strong>
-    <span>Example batch is suited to a small set of hoagie rolls or sandwich buns.</span>
+    <span>Example batch makes about 6 test hoagie rolls at 147-150g each for a 6-8-inch finished roll.</span>
   </div>
   <div class="recipe-glance-card">
     <strong>Best For</strong>
@@ -83,11 +83,12 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - Perform **2-3 folds every 30 minutes** in the first 1-1.5 hours.
 
 ### 3. Pre-Shape
-- Turn dough out and divide into portions.  
+- Turn dough out and divide into **6 portions** at about **147-150g each**.
 - Pre-shape into rounds; rest **20-30 minutes**.
 
 ### 4. Final Shape
-- Shape into hoagie rolls or sandwich buns.
+- Shape into hoagie rolls aiming for about **6-8 inches** after proofing and baking.
+- Treat this as a test-bake target and adjust the portion weight if you want a shorter or longer roll.
 
 ### 5. Proofing
 - Allow to rise at room temperature until puffy.
