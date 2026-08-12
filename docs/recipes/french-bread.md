@@ -77,7 +77,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/bread/fren
 - **Flour** - 350g  
 - **Water** - 245g (70% hydration)  
 - **Salt** - 7g (2%)  
-- **Yeast** - 3.5g (1%)  
+- **Instant dry yeast** - 3.5g (1%)
 
 Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 
