@@ -69,7 +69,7 @@ The formula stays soft without turning fragile, which keeps it forgiving for eve
 - **Sugar** - 10g (2%)  
 - **Olive oil** - 15g (3%)  
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ---
 

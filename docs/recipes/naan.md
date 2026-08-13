@@ -75,7 +75,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/
 - **Sugar** - 10g (2%)
 - **Instant dry yeast** - 5g (1%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 This batch usually makes **8 medium skillet naan** at about **106g dough each**.

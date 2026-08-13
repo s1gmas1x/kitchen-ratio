@@ -79,7 +79,7 @@ This formula is still being tested and refined.
 - **Active dry yeast** - 8g (2%)
 - **Milk (for yeast bloom, ~100F / 38C)** - 28g (7%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).  
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 This batch targets about **900g total dough** for one brioche loaf.
@@ -198,7 +198,7 @@ Great for:
 > [!NOTE]
 > Alternate butter incorporation (mixer method): you can develop dough first with eggs/liquid/flour/salt/yeast, then add very soft butter gradually in a stand mixer until fully absorbed and smooth. This is the classic method and can give a tighter, more uniform structure.
 
-Need a mixer? [KitchenAid Stand Mixer](https://amzn.to/44EYHO4).
+Need a mixer? <AffiliateLink product-key="kitchenaid-stand-mixer">KitchenAid Stand Mixer</AffiliateLink>.
 
 ## Related Guides
 <div class="content-section">

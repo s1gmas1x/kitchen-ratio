@@ -1,5 +1,6 @@
 <script setup>
 import { onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { emitAffiliateClick } from '../affiliate-analytics.mjs'
 
 const showBanner = ref(false)
 const consentValue = ref(null)
@@ -39,61 +40,13 @@ function initializeGA() {
   }
 }
 
-function isAmazonAffiliateUrl(urlString) {
-  try {
-    const url = new URL(urlString, window.location.origin)
-    const host = url.hostname.toLowerCase()
-    return /(^|\.)amzn\.to$/.test(host) || /(^|\.)amazon\./.test(host)
-  } catch {
-    return false
-  }
-}
-
 function trackAffiliateClick(event) {
-  const anchor = event.target?.closest?.('a[href]')
-  if (!anchor) return
-  const href = anchor.getAttribute('href') || ''
-  if (!href || !isAmazonAffiliateUrl(href)) return
-  if (typeof window.gtag !== 'function') return
-
-  const absoluteUrl = new URL(href, window.location.origin).toString()
-  const linkText = (anchor.textContent || '').trim().slice(0, 120)
-  const eventPayload = {
-    event_category: 'affiliate',
-    event_label: absoluteUrl,
-    affiliate_network: 'amazon',
-    link_url: absoluteUrl,
-    link_domain: new URL(absoluteUrl).hostname,
-    link_text: linkText || 'affiliate_link',
-    transport_type: 'beacon',
-    page_path: window.location.pathname,
-  }
-
-  const opensNewTab = anchor.target === '_blank'
-  const modifiedClick = event.metaKey || event.ctrlKey || event.shiftKey || event.altKey
-  const nonPrimaryClick = typeof event.button === 'number' && event.button !== 0
-
-  // Let modified/new-tab clicks proceed normally and send via beacon transport.
-  if (opensNewTab || modifiedClick || nonPrimaryClick) {
-    window.gtag('event', 'affiliate_click', eventPayload)
-    return
-  }
-
-  // Hold same-tab navigation briefly so GA can flush the click event reliably.
-  event.preventDefault()
-  let hasNavigated = false
-  const navigate = () => {
-    if (hasNavigated) return
-    hasNavigated = true
-    window.location.assign(absoluteUrl)
-  }
-
-  window.gtag('event', 'affiliate_click', {
-    ...eventPayload,
-    event_callback: navigate,
+  emitAffiliateClick({
+    eventTarget: event.target,
+    hasAnalyticsConsent: consentValue.value === 'accepted',
+    pagePath: window.location.pathname,
+    gtag: window.gtag,
   })
-
-  window.setTimeout(navigate, 250)
 }
 
 async function trackInternal() {

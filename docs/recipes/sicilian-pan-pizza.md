@@ -78,7 +78,7 @@ This formula is still being tested and refined.
 - **Sugar** - 5g (1%)
 - **Instant dry yeast** - 3g (0.6%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 This batch generally fits a 9x13-inch pan for a medium-thick Sicilian profile.

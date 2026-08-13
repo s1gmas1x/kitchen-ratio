@@ -77,7 +77,7 @@ This formula is still being tested and refined.
 - **Sugar** - 2.5g (0.5%)
 - **Instant dry yeast** - 1g (0.2%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 This batch works well for one 10x14-inch tray or similar surface area.

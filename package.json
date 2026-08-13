@@ -4,8 +4,10 @@
     "vue": "^3.5.25"
   },
   "scripts": {
+    "affiliate:validate": "node scripts/validate-affiliate-links.mjs",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:build": "npm run affiliate:validate && vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test:affiliate": "node --test scripts/affiliate-links.test.mjs"
   }
 }

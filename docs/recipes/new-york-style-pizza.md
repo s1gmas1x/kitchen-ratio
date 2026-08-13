@@ -76,7 +76,7 @@ This formula is still being tested and refined.
 - **Sugar** - 5g (1%)
 - **Instant dry yeast** - 1.5g (0.3%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info
 This batch usually makes **three 11-12 inch pizzas**, depending on rim thickness.

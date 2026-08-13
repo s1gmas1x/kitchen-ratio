@@ -121,7 +121,7 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 - For a **hand-mixed method**, add the bread flour and mix until no dry flour remains.
 - The dough will be smooth and very sticky at first. Do not judge the dough before it rests.
 
-Need a mixer? [KitchenAid Stand Mixer](https://amzn.to/44EYHO4).
+Need a mixer? <AffiliateLink product-key="kitchenaid-stand-mixer">KitchenAid Stand Mixer</AffiliateLink>.
 
 ### 4. Rest and fold
 

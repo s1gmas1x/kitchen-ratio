@@ -65,7 +65,7 @@ Example shown is sized for a ~13-inch enameled braiser.
 - **Dry yeast** - 2-2.4g (0.7-0.8%)
 - **Olive oil** - 18g (6%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ::: info Note
 - Dough will be very loose. This is intentional.
@@ -104,7 +104,7 @@ Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
 - If it resists, wait 5 minutes and continue gently.
 - Cover and proof 2-3 hours until puffy, jiggly, and visibly bubbled.
 
-Need a brasier? [Tramontina Bestow Enameled Cast Iron Braiser Pan with Lid, 4-Quart](https://amzn.to/3MCdJOS).
+Need a brasier? <AffiliateLink product-key="tramontina-bestow-braiser">Tramontina Bestow Enameled Cast Iron Braiser Pan with Lid, 4-Quart</AffiliateLink>.
 
 ### 5. Topping
 - Top gently to preserve gas:

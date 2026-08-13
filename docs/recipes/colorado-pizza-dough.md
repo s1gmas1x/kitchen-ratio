@@ -95,7 +95,7 @@ This dough runs lower hydration than many pizza styles. That helps it roll thin 
 - **Instant dry yeast** - 3.3g (0.6%)
 - **Diastatic malt powder (optional)** - 1.65g (0.3%)
 
-Need a scale? [KitchenAid Digital Scale](https://amzn.to/48F9DfT).
+Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid Digital Scale</AffiliateLink>.
 
 ## Equipment
 
