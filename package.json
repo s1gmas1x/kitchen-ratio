@@ -6,8 +6,12 @@
   "scripts": {
     "affiliate:validate": "node scripts/validate-affiliate-links.mjs",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "npm run affiliate:validate && vitepress build docs",
+    "docs:build": "npm run affiliate:validate && npm run recipes:check && vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "test:affiliate": "node --test scripts/affiliate-links.test.mjs"
+    "recipes:check": "node scripts/recipes/generate-all.mjs --check",
+    "recipes:generate": "node scripts/recipes/generate-all.mjs",
+    "recipes:validate": "node scripts/recipes/validate-recipes.mjs",
+    "test:affiliate": "node --test scripts/affiliate-links.test.mjs",
+    "test:recipes": "node --test scripts/recipes/recipe-pipeline.test.mjs"
   }
 }
