@@ -103,12 +103,15 @@ async function declineCookies() {
 
 <template>
   <div v-if="showBanner" class="cookie-overlay">
-    <div class="cookie-banner">
-      <p>
-        This site uses cookies for analytics to improve your experience. See our
-        <a href="/privacy-policy.html" @click.prevent="goToPolicyPage('/privacy-policy.html')">Privacy Policy</a> and
-        <a href="/cookie-policy.html" @click.prevent="goToPolicyPage('/cookie-policy.html')">Cookie Policy</a>.
-      </p>
+    <div class="cookie-banner" role="region" aria-labelledby="cookie-consent-title" aria-describedby="cookie-consent-description">
+      <div class="cookie-copy">
+        <h2 id="cookie-consent-title">Your cookie choice</h2>
+        <p id="cookie-consent-description">
+          This site uses cookies for analytics to improve your experience. See our
+          <a href="/privacy-policy.html" @click.prevent="goToPolicyPage('/privacy-policy.html')">Privacy Policy</a> and
+          <a href="/cookie-policy.html" @click.prevent="goToPolicyPage('/cookie-policy.html')">Cookie Policy</a>.
+        </p>
+      </div>
       <div class="button-container">
         <button class="primary" @click="acceptCookies">Accept</button>
         <button class="alt" @click="declineCookies">Decline</button>
@@ -121,7 +124,7 @@ async function declineCookies() {
 .cookie-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(0,0,0,0.3);
+  background: rgba(31, 27, 24, 0.48);
   z-index: 9998;
   display: flex;
   justify-content: center;
@@ -146,6 +149,26 @@ async function declineCookies() {
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
+}
+
+.cookie-copy h2 {
+  margin: 0 0 .35rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+@media (min-width: 769px) {
+  .cookie-overlay { align-items: flex-end; padding: 1.5rem; }
+  .cookie-banner {
+    width: min(100%, 58rem);
+    margin: 0 auto;
+    padding: 1.4rem 1.7rem;
+    border: 2px solid var(--calc-orange-700);
+    border-radius: 1rem;
+    box-shadow: 0 22px 60px rgba(31, 27, 24, .3);
+    font-size: 1rem;
+  }
+  .button-container button { min-height: 44px; min-width: 6.5rem; }
 }
 
 .cookie-banner p {
