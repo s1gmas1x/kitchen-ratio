@@ -78,9 +78,13 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 1. Mixing
 - Combine ingredients until a rough dough forms.
 
+![Shaggy dough just after mixing in a bowl.](/images/recipes/lightly-enriched-hoagie/rough-dough.webp)
+
 ### 2. Bulk Fermentation (Cold)
 - Refrigerate **12-18 hours**.
 - Perform **2-3 folds every 30 minutes** in the first 1-1.5 hours.
+
+![A hand lifts one edge of the dough and folds it toward the center.](/images/recipes/lightly-enriched-hoagie/fold.webp)
 
 ### 3. Pre-Shape
 - Turn dough out and divide into **6 portions** at about **147-150g each**.
@@ -90,8 +94,12 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Shape into hoagie rolls aiming for about **6-8 inches** after proofing and baking.
 - Treat this as a test-bake target and adjust the portion weight if you want a shorter or longer roll.
 
+![Pat the dough into a rectangle, roll it up from the near edge, pinch the seam closed, then roll from the center toward the ends.](/images/recipes/lightly-enriched-hoagie/shape.webp)
+
 ### 5. Proofing
 - Allow to rise at room temperature until puffy.
+
+![Freshly shaped rolls beside the same rolls after they have puffed up during proofing.](/images/recipes/lightly-enriched-hoagie/proof.webp)
 
 ### 6. Baking
 - Bake at **425°F (220°C)** for **20-25 minutes** until lightly golden.
@@ -99,6 +107,8 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 7. Cooling
 - Brush with melted butter right after removing from the oven and cover with a kitchen towel.
 - Allow to cool fully.
+
+![Lightly golden rolls being brushed with melted butter before cooling under a kitchen towel.](/images/recipes/lightly-enriched-hoagie/finish.webp)
 
 ## Related Guides
 <div class="content-section">
