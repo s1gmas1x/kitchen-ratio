@@ -101,10 +101,20 @@ This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 - Roll or stretch each piece into a medium oval that fits your skillet.
 - Keep the center a little thinner than the edges for fast puffing and blistering.
 
+<figure>
+  <img src="/images/recipes/naan/shape.webp" alt="A rested dough ball beside the same dough stretched into an oval with a slightly thicker edge." width="640" height="307" loading="lazy" />
+  <figcaption><strong>Stretch to a skillet-sized oval</strong></figcaption>
+</figure>
+
 ### 5. Cook
 - Heat a cast iron skillet, steel, or heavy pan over medium-high to high heat until fully hot.
 - Cook one naan at a time until the first side bubbles and blisters, about **45-60 seconds**.
 - Flip and cook the second side until browned in spots and cooked through, another **30-60 seconds**.
+
+<figure>
+  <img src="/images/recipes/naan/skillet.webp" alt="The naan bubbles on its first side. After flipping, toasted brown spots are visible on the cooked side." width="640" height="321" loading="lazy" />
+  <figcaption><strong>Flip when the first side bubbles and blisters</strong></figcaption>
+</figure>
 
 ### 6. Finish
 - Brush lightly with melted butter or ghee if you want a softer finish.
