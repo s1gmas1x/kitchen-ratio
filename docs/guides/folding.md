@@ -92,6 +92,11 @@ Wet your fingers or use a dough scraper:
 
 Damp hands prevent sticking, so you can usually skip extra flour.
 
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/fold.webp" alt="A hand lifts one edge of the dough and folds it toward the center." width="573" height="352" loading="lazy" />
+  <figcaption><strong>Fold.</strong> Lift one edge of the dough and fold it toward the center. Rotate the bowl and repeat around the dough.</figcaption>
+</figure>
+
 ### 3. Repeat 2-3 More Times
 
 Do another fold every 20-30 minutes.

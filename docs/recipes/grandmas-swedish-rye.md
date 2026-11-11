@@ -136,7 +136,7 @@ Need a mixer? <AffiliateLink product-key="kitchenaid-stand-mixer">KitchenAid Sta
 ### 4. Rest and fold
 
 - Cover and rest at room temperature for **30 minutes**.
-- With wet or lightly oiled hands, do one set of bowl folds: lift an edge of the dough, fold it toward the center, rotate the bowl, and repeat until the dough tightens slightly.
+- With wet or lightly oiled hands, do one [set of bowl folds](/guides/folding#_2-first-fold) until the dough tightens slightly.
 - Rest another **30 minutes**, then fold again.
 - If the dough is still too sticky to handle comfortably, chill it briefly in the refrigerator before the next fold.
 - Do one final fold after another **30 minutes**.
