@@ -122,12 +122,12 @@ This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 </figure>
 
 ### 6. Finish
-- Brush lightly with melted butter or ghee if you want a softer finish.
+- Remove the naan from the skillet, then brush lightly with melted butter or ghee if you want a softer finish.
 - Stack under a towel to keep warm and flexible.
 
 <figure>
-  <img src="/images/recipes/naan/finish.webp" alt="A pastry brush spreads melted butter on a cooked naan beside a stack partly covered by a towel." width="640" height="315" loading="lazy" />
-  <figcaption><strong>Butter and cover.</strong> Brush with melted butter or ghee if desired, then stack under a towel to keep the naan warm and flexible.</figcaption>
+  <img src="/images/recipes/naan/finish-on-plate.webp" alt="A pastry brush spreads melted butter on a naan on a plate beside a stack partly covered by a towel." width="640" height="320" loading="lazy" />
+  <figcaption><strong>Butter and cover.</strong> Take the naan out of the skillet, brush with melted butter or ghee if desired, then stack under a towel to keep warm and flexible.</figcaption>
 </figure>
 
 ## What to Adjust First
