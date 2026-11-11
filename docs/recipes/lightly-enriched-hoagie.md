@@ -84,7 +84,10 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Refrigerate **12-18 hours**.
 - Perform **2-3 folds every 30 minutes** in the first 1-1.5 hours.
 
-![A hand lifts one edge of the dough and folds it toward the center.](/images/recipes/lightly-enriched-hoagie/fold.webp)
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/fold.webp" alt="A hand lifts one edge of the dough and folds it toward the center." width="573" height="352" loading="lazy" />
+  <figcaption>Lift one edge of the dough and fold it toward the center. Rotate the bowl and repeat around the dough.</figcaption>
+</figure>
 
 ### 3. Pre-Shape
 - Turn dough out and divide into **6 portions** at about **147-150g each**.
