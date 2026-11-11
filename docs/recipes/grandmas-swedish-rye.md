@@ -107,6 +107,11 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 - Pour the scald water over it while still boiling.
 - Stir until no dry rye remains and the mixture becomes thick and uniform.
 
+<figure>
+  <img src="/images/recipes/grandmas-swedish-rye/scald.webp" alt="A silicone spatula leaves a groove in thick, evenly mixed rye paste." width="640" height="237" loading="lazy" />
+  <figcaption><strong>Thick, uniform rye scald</strong></figcaption>
+</figure>
+
 ### 2. Cool the scald
 
 - Cover and let the scald cool until warm, not hot.
@@ -120,6 +125,11 @@ In the calculator reconstruction, that was adjusted to a more conservative **par
 - For a **mixer method**, add the bread flour in stages, mixing between additions until no dry flour remains and the dough becomes smooth and sticky.
 - For a **hand-mixed method**, add the bread flour and mix until no dry flour remains.
 - The dough will be smooth and very sticky at first. Do not judge the dough before it rests.
+
+<figure>
+  <img src="/images/recipes/grandmas-swedish-rye/mixer.webp" alt="Bread flour is tipped into a stand mixer bowl fitted with a dough hook." width="640" height="253" loading="lazy" />
+  <figcaption><strong>Add the bread flour in stages</strong></figcaption>
+</figure>
 
 Need a mixer? <AffiliateLink product-key="kitchenaid-stand-mixer">KitchenAid Stand Mixer</AffiliateLink>.
 
@@ -148,6 +158,11 @@ Need a mixer? <AffiliateLink product-key="kitchenaid-stand-mixer">KitchenAid Sta
 ### 7. Proof
 
 - Cover and proof until the dough crowns the pans and looks aerated, usually about **45-75 minutes**.
+
+<figure>
+  <img src="/images/recipes/grandmas-swedish-rye/proof.webp" alt="Two loaf pans show the dough below the rim after panning and rising above it after proofing." width="640" height="190" loading="lazy" />
+  <figcaption><strong>Proof until the dough crowns the pan</strong></figcaption>
+</figure>
 
 ### 8. Bake
 
