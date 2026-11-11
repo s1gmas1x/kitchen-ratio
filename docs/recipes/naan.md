@@ -90,6 +90,11 @@ This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 - Mix until shaggy, then rest 10 minutes.
 - Add salt and knead until smooth and elastic, about **6-8 minutes**.
 
+<figure>
+  <img src="/images/recipes/naan/shaggy-dough.webp" alt="A black silicone spatula lifts a rough clump of dough from a glass mixing bowl." width="640" height="315" loading="lazy" />
+  <figcaption><strong>Mix until shaggy.</strong> Let the dough rest for 10 minutes before adding the salt.</figcaption>
+</figure>
+
 ### 2. Bulk Fermentation
 - Cover and let rise at room temperature until noticeably puffy, usually **60-90 minutes**.
 
@@ -101,14 +106,29 @@ This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 - Roll or stretch each piece into a medium oval that fits your skillet.
 - Keep the center a little thinner than the edges for fast puffing and blistering.
 
+<figure>
+  <img src="/images/recipes/naan/shape.webp" alt="A rested dough ball beside the same dough stretched into an oval with a slightly thicker edge." width="640" height="307" loading="lazy" />
+  <figcaption><strong>Stretch to a skillet-sized oval</strong></figcaption>
+</figure>
+
 ### 5. Cook
 - Heat a cast iron skillet, steel, or heavy pan over medium-high to high heat until fully hot.
 - Cook one naan at a time until the first side bubbles and blisters, about **45-60 seconds**.
 - Flip and cook the second side until browned in spots and cooked through, another **30-60 seconds**.
 
+<figure>
+  <img src="/images/recipes/naan/skillet.webp" alt="The naan bubbles on its first side. After flipping, toasted brown spots are visible on the cooked side." width="640" height="321" loading="lazy" />
+  <figcaption><strong>Flip when the first side bubbles and blisters</strong></figcaption>
+</figure>
+
 ### 6. Finish
-- Brush lightly with melted butter or ghee if you want a softer finish.
+- Remove the naan from the skillet, then brush lightly with melted butter or ghee if you want a softer finish.
 - Stack under a towel to keep warm and flexible.
+
+<figure>
+  <img src="/images/recipes/naan/finish-on-plate.webp" alt="A pastry brush spreads melted butter on a naan on a plate beside a stack partly covered by a towel." width="640" height="320" loading="lazy" />
+  <figcaption><strong>Butter and cover.</strong> Take the naan out of the skillet, brush with melted butter or ghee if desired, then stack under a towel to keep warm and flexible.</figcaption>
+</figure>
 
 ## What to Adjust First
 
