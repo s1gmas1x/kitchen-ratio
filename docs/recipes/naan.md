@@ -90,6 +90,11 @@ This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 - Mix until shaggy, then rest 10 minutes.
 - Add salt and knead until smooth and elastic, about **6-8 minutes**.
 
+<figure>
+  <img src="/images/recipes/naan/shaggy-dough.webp" alt="A black silicone spatula lifts a rough clump of dough from a glass mixing bowl." width="640" height="315" loading="lazy" />
+  <figcaption><strong>Mix until shaggy.</strong> Let the dough rest for 10 minutes before adding the salt.</figcaption>
+</figure>
+
 ### 2. Bulk Fermentation
 - Cover and let rise at room temperature until noticeably puffy, usually **60-90 minutes**.
 
@@ -119,6 +124,11 @@ This batch usually makes **8 medium skillet naan** at about **106g dough each**.
 ### 6. Finish
 - Brush lightly with melted butter or ghee if you want a softer finish.
 - Stack under a towel to keep warm and flexible.
+
+<figure>
+  <img src="/images/recipes/naan/finish.webp" alt="A pastry brush spreads melted butter on a cooked naan beside a stack partly covered by a towel." width="640" height="315" loading="lazy" />
+  <figcaption><strong>Butter and cover.</strong> Brush with melted butter or ghee if desired, then stack under a towel to keep the naan warm and flexible.</figcaption>
+</figure>
 
 ## What to Adjust First
 
