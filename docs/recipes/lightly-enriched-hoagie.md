@@ -78,7 +78,10 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 1. Mixing
 - Combine ingredients until a rough dough forms.
 
-![Shaggy dough just after mixing in a bowl.](/images/recipes/lightly-enriched-hoagie/rough-dough.webp)
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/rough-dough.webp" alt="Shaggy dough just after mixing in a bowl." width="576" height="357" loading="lazy" />
+  <figcaption><strong>Rough dough</strong></figcaption>
+</figure>
 
 ### 2. Bulk Fermentation (Cold)
 - Refrigerate **12-18 hours**.
@@ -86,7 +89,7 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 
 <figure>
   <img src="/images/recipes/lightly-enriched-hoagie/fold.webp" alt="A hand lifts one edge of the dough and folds it toward the center." width="573" height="352" loading="lazy" />
-  <figcaption>Lift one edge of the dough and fold it toward the center. Rotate the bowl and repeat around the dough.</figcaption>
+  <figcaption><strong>Fold.</strong> Lift one edge of the dough and fold it toward the center. Rotate the bowl and repeat around the dough.</figcaption>
 </figure>
 
 ### 3. Pre-Shape
@@ -120,7 +123,10 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 5. Proofing
 - Allow to rise at room temperature until puffy.
 
-![Freshly shaped rolls beside the same rolls after they have puffed up during proofing.](/images/recipes/lightly-enriched-hoagie/proof.webp)
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/proof.webp" alt="Freshly shaped rolls beside the same rolls after they have puffed up during proofing." width="576" height="313" loading="lazy" />
+  <figcaption><strong>Proof until puffy</strong></figcaption>
+</figure>
 
 ### 6. Baking
 - Bake at **425°F (220°C)** for **20-25 minutes** until lightly golden.
@@ -129,7 +135,10 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Brush with melted butter right after removing from the oven and cover with a kitchen towel.
 - Allow to cool fully.
 
-![Lightly golden rolls being brushed with melted butter before cooling under a kitchen towel.](/images/recipes/lightly-enriched-hoagie/finish.webp)
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/finish.webp" alt="Lightly golden rolls being brushed with melted butter before cooling under a kitchen towel." width="573" height="313" loading="lazy" />
+  <figcaption><strong>Butter and cover</strong></figcaption>
+</figure>
 
 ## Related Guides
 <div class="content-section">
