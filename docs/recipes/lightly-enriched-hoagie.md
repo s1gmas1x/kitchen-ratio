@@ -79,7 +79,7 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Combine ingredients until a rough dough forms.
 
 <figure>
-  <img src="/images/recipes/lightly-enriched-hoagie/rough-dough.webp" alt="Shaggy dough just after mixing in a bowl." width="576" height="357" loading="lazy" />
+  <img src="/images/recipes/lightly-enriched-hoagie/rough-dough.webp" alt="A black silicone spatula stirs shaggy dough in a mixing bowl." width="576" height="360" loading="lazy" />
   <figcaption><strong>Rough dough</strong></figcaption>
 </figure>
 
