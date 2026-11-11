@@ -84,7 +84,10 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Refrigerate **12-18 hours**.
 - Perform **2-3 folds every 30 minutes** in the first 1-1.5 hours.
 
-![A hand lifts one edge of the dough and folds it toward the center.](/images/recipes/lightly-enriched-hoagie/fold.webp)
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/fold.webp" alt="A hand lifts one edge of the dough and folds it toward the center." width="573" height="352" loading="lazy" />
+  <figcaption>Lift one edge of the dough and fold it toward the center. Rotate the bowl and repeat around the dough.</figcaption>
+</figure>
 
 ### 3. Pre-Shape
 - Turn dough out and divide into **6 portions** at about **147-150g each**.
@@ -94,7 +97,25 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Shape into hoagie rolls aiming for about **6-8 inches** after proofing and baking.
 - Treat this as a test-bake target and adjust the portion weight if you want a shorter or longer roll.
 
-![Pat the dough into a rectangle, roll it up from the near edge, pinch the seam closed, then roll from the center toward the ends.](/images/recipes/lightly-enriched-hoagie/shape.webp)
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/shape-pat.webp" alt="Both hands flatten a dough portion into a rectangle with its long edge facing the baker." width="574" height="384" loading="lazy" />
+  <figcaption><strong>1. Pat it out.</strong> Gently flatten one rested portion into a rough rectangle, with the long edge facing you.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/shape-roll.webp" alt="Fingertips curl the near edge away from the baker to begin a horizontal log." width="576" height="384" loading="lazy" />
+  <figcaption><strong>2. Roll it up.</strong> Start at the edge closest to you and roll the dough away from you into a log.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/shape-seam.webp" alt="Fingers pinch the long seam together. The inset shows the opening being pressed closed." width="574" height="469" loading="lazy" />
+  <figcaption><strong>3. Seal the seam.</strong> Pinch along the full length of the seam to close it, then turn the roll seam-side down.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/recipes/lightly-enriched-hoagie/shape-even.webp" alt="Both palms rest on the log, with arrows pointing outward from the center." width="576" height="416" loading="lazy" />
+  <figcaption><strong>4. Roll it even.</strong> Gently roll from the center toward the ends to even out the thickness.</figcaption>
+</figure>
 
 ### 5. Proofing
 - Allow to rise at room temperature until puffy.
