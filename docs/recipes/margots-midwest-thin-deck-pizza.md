@@ -173,12 +173,22 @@ Coverage is generous. This style was fairly heavily topped, including cheese, wh
 - Roll with pin (do not stretch).
 - Target thickness: **2-2.5 mm** (about 1/8 inch).
 
+<figure>
+  <img src="/images/recipes/margots-midwest-thin/roll-thin.webp" alt="A thick dough round is rolled flat with a wooden rolling pin, followed by a low-angle view of the thin, even edge." width="2172" height="724" loading="lazy" />
+  <figcaption><strong>Roll evenly thin.</strong> Keep the dough cold and roll to 2–2.5 mm thick across the whole skin.</figcaption>
+</figure>
+
 ### Cut and Stack
 - Trim to clean 11-inch circle.
-- Dust lightly with cornmeal.
-- Stack skins (max 10).
+- Scatter a generous, even layer of cornmeal across each skin to prevent sticking.
+- Stack skins directly together with cornmeal between every layer (max 10).
 - Refrigerate **24-48 hours**.
 - This hold creates the signature snap.
+
+<figure>
+  <img src="/images/recipes/margots-midwest-thin/cornmeal-stack.webp" alt="Cornmeal is scattered generously across a raw pizza skin. Another skin is lowered onto a stack with cornmeal visible between the layers." width="2172" height="724" loading="lazy" />
+  <figcaption><strong>Cornmeal between every skin.</strong> Spread it evenly right to the edge, then stack the skins directly together for their refrigerator hold.</figcaption>
+</figure>
 
 ### Bake Day - Oven Setup
 - Use stone or steel.
@@ -186,9 +196,15 @@ Coverage is generous. This style was fairly heavily topped, including cheese, wh
 
 ### Bake Process
 - Pull skin from fridge.
-- Sauce immediately with a brush, keeping the layer thin and even.
-- Add cheese and toppings generously, but keep the distribution even.
+- Sauce immediately with a brush, spreading a thin, even layer all the way to the edge.
+- Add cheese generously and evenly, stopping about **½ inch (13 mm)** from the edge to leave a visible ring of sauce.
+- Distribute toppings evenly.
 - Launch onto stone or steel.
+
+<figure>
+  <img src="/images/recipes/margots-midwest-thin/sauce-and-cheese.webp" alt="Sauce is brushed across the entire pizza skin to its edge. Shredded cheese covers the center, leaving a continuous ring of red sauce around the perimeter." width="1774" height="887" loading="lazy" />
+  <figcaption><strong>Sauce to the edge, cheese set back.</strong> Brush sauce to the edge, then add cheese evenly, stopping about ½ inch (13 mm) from the edge.</figcaption>
+</figure>
 
 ### During Bake
 - At **60-90 seconds**, pop center bubbles.
