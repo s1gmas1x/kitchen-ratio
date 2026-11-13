@@ -100,6 +100,11 @@ This batch usually makes **three 11-12 inch pizzas**, depending on rim thickness
 - Ball tightly with smooth seams underneath.
 - Place in lightly oiled covered containers.
 
+<figure>
+  <img src="/images/recipes/new-york-style-pizza/ball-and-seal.webp" alt="Hands gather the edges of a dough portion, pinch its seam closed, then cup the smooth ball with the seam underneath." width="1920" height="819" loading="lazy" />
+  <figcaption><strong>Gather, seal, and round.</strong> Fold the edges toward the center and pinch the seam closed. Turn seam-side down and gently cup the dough into a smooth, taut ball.</figcaption>
+</figure>
+
 ### 3. Cold Fermentation
 - Refrigerate dough balls for **24-72 hours**.
 - The sweet spot for flavor and handling is often **48 hours**.
@@ -112,7 +117,18 @@ This batch usually makes **three 11-12 inch pizzas**, depending on rim thickness
 - Dust bench with flour (or a flour/semolina blend).
 - Press from center outward and leave a small rim.
 - Stretch to final size without crushing all gas.
+
+<figure>
+  <img src="/images/recipes/new-york-style-pizza/stretch.webp" alt="Fingertips press the center of a dough round outward while preserving its rim. The dough is then supported over the knuckles and gently stretched." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Keep the rim puffy.</strong> Press from the center outward, leaving the rim untouched. Support the dough over your knuckles and gently stretch, rotating for an even thickness.</figcaption>
+</figure>
+
 - Top with a light hand. Overloading kills the foldable slice profile.
+
+<figure>
+  <img src="/images/recipes/new-york-style-pizza/top-lightly.webp" alt="An uncooked cheese pizza on a wooden peel has an exposed dough rim and an even scattering of mozzarella with sauce visible between the shreds." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Top with a light hand.</strong> Spread sauce and cheese evenly, keeping the rim clear. This cheese pizza shows light coverage with sauce visible between the shreds.</figcaption>
+</figure>
 
 ::: info
 Launch from a peel with enough bench flour to slide, but not so much that the bottom burns on steel.
@@ -122,6 +138,11 @@ Launch from a peel with enough bench flour to slide, but not so much that the bo
 - Preheat baking steel for **45-60 minutes** at **500-550F**.
 - Bake until underside is browned and top is well set, usually **5-8 minutes** depending on oven.
 - If top color lags, finish under broiler for **30-90 seconds**.
+
+<figure>
+  <img src="/images/recipes/new-york-style-pizza/check-bake.webp" alt="A metal tool lifts the edge of a pizza to reveal its browned underside. Beside it, a finished cheese pizza has melted cheese and a golden-brown rim." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Check underneath as well as on top.</strong> Lift an edge with a peel to check the underside. Look for a browned base, melted cheese, and a well-set top.</figcaption>
+</figure>
 
 ### 7. Rest and Slice
 - Rest pizza **2-3 minutes** before slicing.
