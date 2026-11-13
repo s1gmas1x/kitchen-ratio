@@ -75,6 +75,11 @@ Yeast makes gas, enzymes keep working, and time changes flavor and structure.
 - **Feel**: lighter and gassy, not dense and tight
 - **Edges in container**: small gas pockets along the sides
 
+<figure>
+  <img src="/images/guides/fermentation/bulk-development.webp" alt="The same dough before and after bulk fermentation in clear containers. The risen dough has a gently domed surface and bubbles along the sides. Orange bands mark the starting level." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Watch the dough develop.</strong> The left container shows the starting dough; the right shows expansion and gas development. The orange band marks the starting level. Use your recipe’s rise target alongside the surface and texture cues above.</figcaption>
+</figure>
+
 ## Room vs Cold Fermentation
 
 - **Room fermentation** moves faster and needs tighter timing.
@@ -95,6 +100,11 @@ If it keeps lagging, increase temperature or give more time.
 - Over-warming dough early and losing control later
 - Adding too much bench flour instead of using folds/time
 - Letting bulk run until dough weakens and collapses
+
+<figure>
+  <img src="/images/guides/fermentation/bulk-collapse.webp" alt="Aerated, domed dough on the left beside collapsed dough on the right. The collapsed dough has a sunken center and a residue line above its surface showing its former peak." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Bulk fermentation taken too far.</strong> The dough on the right has begun to collapse, leaving a sunken surface and a dough residue line above its current level. The orange band marks the original starting level in both containers.</figcaption>
+</figure>
 
 ## Quick Fixes
 
