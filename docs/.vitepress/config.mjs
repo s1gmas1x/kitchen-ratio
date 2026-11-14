@@ -142,7 +142,7 @@ export default defineConfig({
       items: [
         { text: 'French Bread', link: '/recipes/french-bread' },
         { text: 'Lightly Enriched Hoagie', link: '/recipes/lightly-enriched-hoagie' },
-        { text: 'Brioche (Early Butter, Cold Ferment)', link: '/recipes/brioche-early-butter-cold-ferment' },
+        { text: 'Brioche (Stand Mixer, Cold Ferment)', link: '/recipes/brioche-early-butter-cold-ferment' },
         { text: "Grandma's Swedish Rye", link: '/recipes/grandmas-swedish-rye' }
       ]
     },
