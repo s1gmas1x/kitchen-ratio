@@ -93,8 +93,8 @@ Wet your fingers or use a dough scraper:
 Damp hands prevent sticking, so you can usually skip extra flour.
 
 <figure>
-  <img src="/images/recipes/lightly-enriched-hoagie/fold.webp" alt="A hand lifts one edge of the dough and folds it toward the center." width="573" height="352" loading="lazy" />
-  <figcaption><strong>Fold.</strong> Lift one edge of the dough and fold it toward the center. Rotate the bowl and repeat around the dough.</figcaption>
+  <img src="/images/guides/folding/round-bowl-fold.webp" alt="Four panels show a damp hand lifting one edge of wet dough and folding it toward the center in a round bowl, then repeating from another side." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Lift, fold, rotate, repeat.</strong> Stretch one edge gently over the center, turn the bowl a quarter turn, and work around all four sides.</figcaption>
 </figure>
 
 ### 3. Repeat 2-3 More Times
@@ -108,6 +108,11 @@ You should notice the dough becoming:
 - more elastic
 
 That change is the point. If the dough is still slack after a couple of rounds, one more fold cycle usually helps more than immediately adding flour.
+
+<figure>
+  <img src="/images/guides/folding/round-bowl-strength.webp" alt="The same dough in two round bowls: slack and shaggy after mixing, then smoother and more cohesive after several folding rounds." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Watch the dough gain strength.</strong> After a few rounds, it should look smoother and hold together better. It still needs time to finish bulk fermentation.</figcaption>
+</figure>
 
 ## After Folding
 
