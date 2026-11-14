@@ -102,6 +102,11 @@ This batch usually makes **8 pitas** at about **104g dough each** before baking.
 - Roll each ball into a round about **6-7 inches** wide and roughly **1/4 inch** thick.
 - Keep rounds covered while you work so the surface does not dry out.
 
+<figure>
+  <img src="/images/recipes/pita/rolling.webp" alt="A rolling pin flattens a pita dough ball into an even round; another rolled round rests under a linen towel." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Roll evenly, then keep the rounds covered.</strong> Aim for about 1/4 inch thickness across the round so it can puff into a pocket.</figcaption>
+</figure>
+
 ### 5. Final Rest
 - Let the rolled rounds rest **10-15 minutes** before baking.
 - This helps the dough relax and improves pocket formation.
@@ -110,6 +115,11 @@ This batch usually makes **8 pitas** at about **104g dough each** before baking.
 - Preheat a baking steel, stone, or inverted sheet pan for **45 minutes** at **500-550F**.
 - Bake pitas one or two at a time until fully puffed and lightly colored, usually **2-3 minutes**.
 - Do not overbake or they will dry out.
+
+<figure>
+  <img src="/images/recipes/pita/puff-pocket.webp" alt="Pita balloons into a pocket on a hot baking steel; a baked pita is cut open to show the hollow pocket, while others stay wrapped in a towel." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Look for a full puff.</strong> The hot surface inflates the pita into a pocket. Keep the baked pitas covered so they stay soft.</figcaption>
+</figure>
 
 ### 7. Steam and Hold
 - Transfer baked pitas to a towel-lined bowl or covered container.
