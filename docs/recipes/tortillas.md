@@ -59,7 +59,7 @@ Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/flatbread/
 
 ## Background
 
-After testing many recipes, I found most tortillas came out too thick or tore during rolling. This version uses boiling water to gelatinize the flour, keeping the dough soft and pliable.  
+After testing many recipes, I found most tortillas came out too thick or tore during rolling. This version uses boiling water to gelatinize the flour, keeping the dough soft and pliable. For how water and fat affect dough handling, see the [hydration guide](/guides/hydration).  
 
 These tortillas are perfect for burritos, soft tacos, or serving alongside green chili and beans.
 
@@ -93,7 +93,7 @@ I prefer lard, but any neutral fat works.
 - Transfer to a container, cover, and let rest at room temperature for 30 minutes.
 
 ### 2. Divide
-- Weigh the dough, then divide by desired portion size (45-47g yields ~10-inch tortillas).  
+- Weigh the dough, then divide by desired portion size (45-47g yields ~10-inch tortillas). Use the [yield planner guide](/guides/yield-planner) to choose a different count or portion weight.  
 - Shape each portion into a small ball, tightening the surface against the counter, until the surface is smooth.  
 - Cover and refrigerate for at least 30 minutes. Roll straight from the fridge.
 
@@ -103,12 +103,22 @@ I prefer lard, but any neutral fat works.
 - Flatten each dough ball by hand after dusting with flour, then roll to your preferred thickness, rotating and flipping to maintain roundness. Thinner tortillas are larger and more delicate; slightly thicker tortillas cook up softer and a little more substantial.  
 - Keep tortillas from sticking by lightly flouring as needed. Stack carefully without sticking.
 
+<figure>
+  <img src="/images/recipes/tortillas/divide-roll.webp" alt="Smooth tortilla dough balls rest under a towel; a rolling pin flattens one ball into a thin round on a lightly floured counter." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Rest the balls, then roll thin.</strong> Keep the portions covered, and rotate the dough as you roll for a more even round.</figcaption>
+</figure>
+
 ### 4. Cook
 - Dust excess flour, then place individual tortillas in the cast iron pan and cook.
 - Cook about 15-30 seconds per side, flipping twice per side (four flips total). Aim for a light kiss of brown on each side, and do not overcook.
 - Remove to a plate and cover with foil or a kitchen towel.  
 - When all tortillas are finished, flip the entire stack over to prevent the bottom tortilla from getting soggy.
 - Leave covered for 10-15 minutes before serving.
+
+<figure>
+  <img src="/images/recipes/tortillas/cook-hold.webp" alt="A flour tortilla forms small bubbles and light brown spots in a cast iron skillet; cooked tortillas stay covered in a towel on a plate." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Cook lightly and keep the stack covered.</strong> Look for bubbles and a few brown spots, then trap steam under a towel so the tortillas stay flexible.</figcaption>
+</figure>
 
 ## Related Guides
 <div class="content-section">
