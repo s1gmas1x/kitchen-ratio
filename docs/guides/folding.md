@@ -97,6 +97,13 @@ Damp hands prevent sticking, so you can usually skip extra flour.
   <figcaption><strong>Lift, fold, rotate, repeat.</strong> Stretch one edge gently over the center, turn the bowl a quarter turn, and work around all four sides.</figcaption>
 </figure>
 
+You can also round the dough on the counter after a fold. Gently turn it out, slide damp hands under the lower edges, and push the bottom up and inward as you turn it into a loose ball. Put it back in the bowl to continue bulk fermentation. This is a light gathering motion, not the final shaping step.
+
+<figure>
+  <img src="/images/guides/folding/bench-rounding.webp" alt="Outside the bowl on the counter, damp hands scoop under the lower edges of wet dough and gently gather it into a loose round." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Optional bench rounding.</strong> Push the lower edges up and in, turning the dough into a loose ball before it returns to the bowl.</figcaption>
+</figure>
+
 ### 3. Repeat 2-3 More Times
 
 Do another fold every 20-30 minutes.
