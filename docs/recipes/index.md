@@ -36,7 +36,7 @@ These recipes are practical reference points, not fixed laws. They should put yo
 
 - [French Bread](/recipes/french-bread)
 - [Lightly Enriched Hoagie](/recipes/lightly-enriched-hoagie)
-- [Brioche (Early Butter, Cold Ferment)](/recipes/brioche-early-butter-cold-ferment)
+- [Brioche (Stand Mixer, Cold Ferment)](/recipes/brioche-early-butter-cold-ferment)
 - [Grandma's Swedish Rye](/recipes/grandmas-swedish-rye)
 
 </div>
