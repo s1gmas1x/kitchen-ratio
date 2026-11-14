@@ -103,14 +103,24 @@ This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller 
 - Transfer dough to pan and gently press it outward with oiled fingertips.
 - If it springs back, rest 10 minutes and press again.
 
+<figure>
+  <img src="/images/recipes/detroit/pan-press.webp" alt="Oil coats the bottom and corners of a deep rectangular steel pan; oiled fingertips gently press pizza dough outward in the pan." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Coat the pan, then press gently.</strong> Let the dough rest and press again if it pulls back from the corners.</figcaption>
+</figure>
+
 ### 4. Pan Proof
 - Proof in pan until visibly puffy and bubbly, usually **1.5-3 hours** depending on temperature.
-- Dough should nearly fill the corners before topping.
+- Dough should nearly fill the corners before topping. See the [fermentation guide](/guides/fermentation) for more on judging dough by expansion and bubbles.
 
 ### 5. Top for Edge Caramelization
 - Spread cheese all the way to the edges.
 - Add sauce in stripes or light spooned lines.
 - Keep the center balanced so it bakes through.
+
+<figure>
+  <img src="/images/recipes/detroit/proof-top.webp" alt="Puffy, bubbly dough nearly fills a rectangular pan; the next view has cheese cubes all the way to the pan walls and two stripes of sauce." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Proof first, then top to the walls.</strong> Cheese against the pan edge makes the caramelized border; keep the sauce in light stripes.</figcaption>
+</figure>
 
 ### 6. Bake
 - Bake at **450-525F** until top is browned and edge cheese is deeply caramelized, usually **12-18 minutes**.
@@ -119,6 +129,11 @@ This batch typically fits one deep 10x14-inch Detroit-style pan, or two smaller 
 ### 7. De-pan and Finish
 - Run a spatula along all edges while hot.
 - Lift pizza out and cool on a rack for 2-3 minutes so the bottom stays crisp.
+
+<figure>
+  <img src="/images/recipes/detroit/edge-bottom.webp" alt="A baked Detroit pan pizza has deeply golden lacy cheese edges; a lifted square slice reveals a crisp fried bottom and airy interior." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Check the edge and underside.</strong> Release the caramelized cheese while hot, then rest the pizza on a rack to protect the crisp bottom.</figcaption>
+</figure>
 
 ## Pan Size and Dough Feel (Starting Guide)
 
