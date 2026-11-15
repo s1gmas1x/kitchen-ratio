@@ -116,7 +116,12 @@ One number helps you tune handling, one explains total moisture, and one account
 - Wet, sticky dough  
 - Open, airy crumb  
 - Harder to handle  
-- **Tip:** Use gentle folding during bulk fermentation to build strength - especially for no-knead doughs.
+- **Tip:** Use [gentle folding](/guides/folding) during bulk fermentation to build strength - especially for no-knead doughs.
+
+<figure>
+  <img src="/images/guides/hydration/dough-feel.webp" alt="On a flour-dusted bench, three doughs progress from a firm ball to a softer mound draping over a hand, then a wet slack dough stretching between hands." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Same flour, different dough feel.</strong> A firm dough holds its shape; a softer dough relaxes; a wetter dough stretches and spreads more readily. Flour choice, rest, and enrichments change the result too.</figcaption>
+</figure>
 
 ## What Hydration Changes
 Water drives the whole show: fermentation, gluten development, starch hydration, and the final texture and keeping quality.
