@@ -77,10 +77,15 @@ In the KitchenRatio calculator, scalds live in **Advanced → Scalds**.
 - **Choose yudane** when you want more chew, more wheat presence, and stronger moisture retention.
 - **Choose Scandinavian scald** when rye or whole-grain behavior is the real problem you are trying to solve.
 
+<figure>
+  <img src="/images/guides/scalds/three-textures.webp" alt="Three cooled scald textures: smooth tangzhong paste in a saucepan, a dense hydrated yudane mass in a bowl, and a thick coarse rye and oat mash lifted on a spoon." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Three scalds, three textures.</strong> Tangzhong is a smooth paste; yudane is a firm hydrated mass; a coarse-grain Scandinavian scald is a heavy mash. Cool each before final mixing.</figcaption>
+</figure>
+
 ## Traditional European / Scandinavian Scald
 
 This style is common in rye-heavy and mixed-grain baking, where hot water is used to hydrate and soften part of the flour (or meal) before final mixing.
-It is less about "pillowy milk bread" and more about flavor development, moisture control, and crumb stability in hearty loaves.
+It is less about "pillowy milk bread" and more about flavor development, moisture control, and crumb stability in hearty loaves. See the [Swedish rye recipe](/recipes/grandmas-swedish-rye) for a scald in a full bread method.
 
 How it behaves:
 - Hot water hydrates starches and changes how flour absorbs and holds water.
