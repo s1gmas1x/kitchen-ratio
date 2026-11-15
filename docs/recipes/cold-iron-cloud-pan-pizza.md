@@ -36,7 +36,7 @@ head:
 
 # Cold Iron Cloud Pan Pizza
 
-This is high-hydration pan pizza built around thermal mass, oil, and time.
+This is high-hydration pan pizza built around thermal mass, oil, and time. I often use the same dough for the [cheesy bread variation](#variation-cheesy-bread) below.
 The result is a crisp, fried bottom and a moist, airy crumb without trying to behave like hand-tossed pizza.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/cold-iron-cloud-pan/) to scale any batch size.
 
@@ -93,7 +93,7 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 3. Fold Schedule + Cold Ferment
 - Return dough to the fridge and perform the second fold after a few hours.
 - Perform one final fold once the first 24 hours are complete.
-- Total folds: **3**.
+- Total folds: **3**. See the [Folding guide](/guides/folding) for a gentle wet-dough fold.
 - Continue cold fermenting for another 24 hours (48 hours total cold bulk fermentation).
 
 ### 4. Pan + Final Proof
@@ -102,7 +102,12 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Scrape cold dough directly into the pan.
 - Stretch and dimple with oiled fingers.
 - If it resists, wait 5 minutes and continue gently.
-- Cover and proof 2-3 hours until puffy, jiggly, and visibly bubbled.
+- Cover and proof 2-3 hours until puffy, jiggly, and visibly bubbled. Use those visible cues alongside the clock; see [Fermentation](/guides/fermentation) for what to watch.
+
+<figure class="recipe-figure">
+  <img src="/images/recipes/cold-iron-pan-and-dimple.webp" alt="Loose cold dough scraped into a generously oiled round enameled braiser, then gently stretched and dimpled with oiled fingers." loading="lazy" />
+  <figcaption>Move the cold dough straight into the oiled pan, then coax it outward without pressing out its bubbles.</figcaption>
+</figure>
 
 Need a brasier? <AffiliateLink product-key="tramontina-bestow-braiser">Tramontina Bestow Enameled Cast Iron Braiser Pan with Lid, 4-Quart</AffiliateLink>.
 
@@ -142,9 +147,23 @@ Use this as your first pass, then adjust by color and bottom crispness.
 
 ## Variation: Cheesy Bread
 
+This is my usual way to make the dough. Follow the mixing, folding, cold ferment, and final proof above. For this version, leave off the sauce and pizza toppings.
+
+<figure class="recipe-figure">
+  <img src="/images/recipes/cold-iron-proof-and-garlic-butter.webp" alt="Puffy bubbly dough in a round braiser before baking; after a plain par-bake, the lightly colored crust is brushed with garlic butter beside a bowl of cheese." loading="lazy" />
+  <figcaption>Let the dough get puffy and bubbly, then par-bake it plain before garlic butter and cheese.</figcaption>
+</figure>
+
+- Start with the room-temperature pan in the oven at **450-465F (230-240C)**, on the bottom rack, lid **off**.
 - Par-bake the dough plain for 12-16 minutes until set and lightly colored.
-- Brush with garlic butter.
-- Add cheese, then finish baking until deeply golden and bubbling.
+- Carefully brush the hot crust with garlic butter, keeping hands clear of the hot pan.
+- Add cheese, then return it to the oven and finish baking until deeply golden and bubbling. Use the dark top and set edges as cues; the total bake may vary with the pan.
+- Rest 10-15 minutes in the pan before removing and slicing.
+
+<figure class="recipe-figure">
+  <img src="/images/recipes/cold-iron-cheesy-bread-finished.webp" alt="Round garlic cheese bread cut into wedges in an enameled braiser, with a lifted wedge showing open airy crumb and a crisp dark golden bottom." loading="lazy" />
+  <figcaption>Deeply browned cheese on top, an open cloud-soft middle, and a crisp oil-fried bottom.</figcaption>
+</figure>
 
 ## Texture and Flavor Profile
 
