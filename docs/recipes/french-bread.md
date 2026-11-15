@@ -95,7 +95,7 @@ This batch makes one medium loaf or two smaller loaves.
 
 ### 2. Bulk Fermentation (Cold)
 - Cover the bowl and place in the refrigerator for **12-18 hours**.
-- **Perform 2-3 folds every 30 minutes** during the first 1-1.5 hours.
+- **Perform 2-3 rounds of folds, spaced about 30 minutes apart**, during the first 1-1.5 hours. See the [illustrated folding guide](/guides/folding#first-fold) for the hand motion.
 - **Fold once more** 8-12 hours before baking (usually the morning of baking).
 
 ### 3. Pre-Shape
@@ -107,12 +107,22 @@ This batch makes one medium loaf or two smaller loaves.
 - Gently stretch and roll into rough boule shapes.  
 - Place on parchment or floured couche. Use a bowl and towel to help hold shape during proofing.
 
+<figure>
+  <img src="/images/recipes/french-bread/shape-boule.webp" alt="Hands gently gather wet bread dough on a lightly floured bench into a loose round, then tighten it into a smooth boule after a rest." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Round gently, rest, then shape.</strong> Build a little surface tension without pressing out the air.</figcaption>
+</figure>
+
 ### 5. Proofing
-- Let dough proof until slightly puffy and relaxed.
+- Let dough proof until slightly puffy and relaxed. The [fermentation guide](/guides/fermentation) explains why the dough's feel and expansion matter more than the clock.
 
 ### 6. Scoring & Spritzing
 - Score with a sharp blade at a shallow angle (a bread lame like this <AffiliateLink product-key="bread-lame">Bread Lame</AffiliateLink> works great).
 - Lightly mist with water for a crisp crust.
+
+<figure>
+  <img src="/images/recipes/french-bread/score-boule.webp" alt="A bread lame makes one curved cut across a lightly floured round loaf on parchment, leaving a clean opening before baking." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Score on parchment.</strong> Hold the blade at a shallow angle and make a confident cut before transferring the loaf to the hot pot.</figcaption>
+</figure>
 
 ### 7. Baking
 - Preheat a Dutch oven (or baking stone/steel, or something like this <AffiliateLink product-key="lodge-combo-cooker">Lodge Cast Iron Combo Cooker</AffiliateLink>) to **480°F (249°C)**.
@@ -122,6 +132,11 @@ This batch makes one medium loaf or two smaller loaves.
 
 ### 8. Cooling
 - Allow to cool completely before slicing.
+
+<figure>
+  <img src="/images/recipes/french-bread/bake-cool.webp" alt="An oven-mitted hand lifts a Dutch oven lid from an expanded round loaf; a finished deep-golden boule cools uncovered on a wire rack." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Uncover to brown, then cool on a rack.</strong> Look for a well-colored crust and let the loaf cool completely before slicing.</figcaption>
+</figure>
 
 ## Adjustments
 
