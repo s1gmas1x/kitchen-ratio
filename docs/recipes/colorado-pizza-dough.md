@@ -36,7 +36,7 @@ head:
 
 # Colorado Style Pizza Dough
 
-Colorado Mountain Pie style: thin rolled center, thick bread-like rim, and a honey-dipping crust.
+A Beau Jo's-inspired Colorado mountain pie: thin rolled center, thick hand-rolled rim, and a honey-dipping crust. This is a home-oven interpretation, not Beau Jo's recipe.
 Use the [KitchenRatio Calculator](https://kitchenratio.com/calculator/pizza/colorado/) to scale any batch size.
 
 <div class="recipe-glance">
@@ -61,9 +61,9 @@ This formula is still being tested and refined, especially hydration.
 ## Background
 
 This version is adapted for home baking without commercial pizza equipment.
-The goal is the Colorado mountain-pie profile: a firm dough that rolls thin in the center while keeping a large rim for honey dipping.
+The goal is the Beau Jo's Mountain Pie profile: a firm dough that rolls thin in the center, with a hand-rolled edge that holds generous toppings and becomes a honey-dipping crust after the slice is eaten.
 
-Honey is used instead of sugar in this dough, reflecting the traditional mountain-pie style where the crust is often finished with honey.
+Honey is used instead of sugar in this dough. The remaining bare crust can be dipped in honey after the pizza.
 
 ## Baker's % (Testing Range)
 
@@ -114,14 +114,14 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 - Add salt and knead until smooth and elastic:
   - **8-10 minutes by hand**
   - **5-6 minutes in a mixer**
-- Dough should feel firmer than typical pizza dough, but smooth.
+- Dough should feel firmer than typical pizza dough, but smooth. See [Hand Kneading](/guides/hand-kneading) for the bench motion and readiness cues.
 
 ### 2. Fermentation
 - Cover dough and rest **20-30 minutes**.
 - Divide and ball.
 - Place dough balls in lightly oiled containers.
 - Refrigerate **24-48 hours** for best flavor.
-- Before shaping, warm at room temperature **45-60 minutes**.
+- Before shaping, warm at room temperature **45-60 minutes**. See [Fermentation](/guides/fermentation) for dough development cues.
 
 ### 3. Dough Ball Reference
 
@@ -141,7 +141,12 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 5. Form the Rim
 - Roll the outer edge inward to form a thick rim.
 - Optional: braid/rope the rim if desired.
-- This thick rim is intentional and becomes the signature honey-dipping crust.
+- This thick rim is intentional and becomes the signature honey-dipping crust. Keep it free of toppings; it is a rolled dough edge, not a cheese-stuffed crust.
+
+<figure>
+  <img src="/images/recipes/colorado/hand-rolled-rim.webp" alt="A rolling pin thins the center of Colorado pizza dough while leaving a wide outer border; hands roll that border inward to form a thick raised rim." width="1995" height="788" loading="lazy" />
+  <figcaption><strong>Build the mountain-pie edge.</strong> Thin the center, leave dough around the outside, then roll that edge inward into a sturdy wall for the toppings.</figcaption>
+</figure>
 
 ### 6. Topping
 - Sauce and toppings stay in the center.
@@ -155,6 +160,11 @@ Need a scale? <AffiliateLink product-key="kitchenaid-digital-scale">KitchenAid D
 ### 8. Serve (Traditional)
 - Slice normally.
 - Eat the slice first, then finish the crust with honey (drizzled or dipped).
+
+<figure>
+  <img src="/images/recipes/colorado/mountain-pie-honey.webp" alt="A generously topped round Colorado mountain pie has a tall hand-rolled crust; a piece of the remaining bread-like rim is dipped into a bowl of honey." width="1997" height="788" loading="lazy" />
+  <figcaption><strong>Pizza first, honey after.</strong> The rolled edge holds the toppings while baking, then the leftover crust becomes dessert.</figcaption>
+</figure>
 
 ## Related Guides
 <div class="content-section">
