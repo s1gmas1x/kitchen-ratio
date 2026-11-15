@@ -96,20 +96,30 @@ This batch generally fits a 9x13-inch pan for a medium-thick Sicilian profile.
 
 ### 2. Bulk Fermentation
 - Ferment at room temperature for **2-3 hours**, with one fold halfway through.
-- For deeper flavor, move to the refrigerator overnight after the first hour.
+- For deeper flavor, move to the refrigerator overnight after the first hour. See the [Folding guide](/guides/folding) for the gentle fold and [Fermentation](/guides/fermentation) for development cues.
 
 ### 3. Pan and Stretch
 - Oil the pan generously.
 - Transfer dough and gently stretch to cover most of the pan.
 - If it resists, wait 10-15 minutes and continue.
 
+<figure>
+  <img src="/images/recipes/sicilian/pan-stretch.webp" alt="Soft Sicilian dough is eased into an oiled shallow rectangular metal pan; after a rest it is gently stretched to reach the corners." width="1996" height="788" loading="lazy" />
+  <figcaption><strong>Stretch, rest, finish.</strong> Let the dough relax if it pulls back, then guide it toward the corners without forcing it.</figcaption>
+</figure>
+
 ### 4. Long Pan Proof
 - Proof until dough is light, puffy, and visibly aerated.
-- Typical range is **2-4 hours** at room temperature.
+- Typical range is **2-4 hours** at room temperature. Judge the rise by its airy look as well as the clock; see the [Proofing guide](/guides/proofing).
 
 ### 5. Dimple and Top
 - Dimple with oiled fingertips to redistribute gas without crushing it.
 - Top evenly but avoid drowning the center.
+
+<figure>
+  <img src="/images/recipes/sicilian/proof-and-dimple.webp" alt="Sicilian dough fills a shallow 9-by-13-inch pan after a long proof, thick and visibly bubbly; oiled fingers make shallow dimples without flattening it." width="1997" height="788" loading="lazy" />
+  <figcaption><strong>Keep the pan proof airy.</strong> Light dimples even the surface while leaving most of the gas in the dough.</figcaption>
+</figure>
 
 ### 6. Bake
 - Bake at **450-500F** until crust is golden and bottom is crisp, usually **14-22 minutes** depending on pan and thickness.
@@ -117,6 +127,11 @@ This batch generally fits a 9x13-inch pan for a medium-thick Sicilian profile.
 
 ### 7. Rest
 - Rest 5 minutes in pan, then move to a rack to preserve bottom texture.
+
+<figure>
+  <img src="/images/recipes/sicilian/crisp-bottom-crumb.webp" alt="Square Sicilian pan pizza slices rest on a wire rack; a lifted slice reveals a bread-like open crumb over a golden crisp oiled bottom." width="1995" height="788" loading="lazy" />
+  <figcaption><strong>Check the slice.</strong> The crumb should feel light for its thickness, with a crisp golden underside. Moving it to a rack helps keep that base crisp.</figcaption>
+</figure>
 
 ## Thickness and Bake Guide (Starting Point)
 
