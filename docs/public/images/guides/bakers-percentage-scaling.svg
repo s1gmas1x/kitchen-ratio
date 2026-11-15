@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-labelledby="title desc">
+  <title id="title">Baker's percentage keeps flour at 100 percent</title>
+  <desc id="desc">A formula with 500 grams flour, 325 grams water, 10 grams salt, and 5 grams yeast is 100, 65, 2, and 1 percent of flour. Scaling flour to 800 grams changes the other weights to 520, 16, and 8 grams while preserving the percentages. The baker's percentages add to 168 percent because they are relative to flour, not parts of the whole dough.</desc>
+  <rect width="1000" height="570" rx="28" fill="#f7f1e6"/>
+  <rect x="18" y="18" width="964" height="534" rx="22" fill="#fffaf2" stroke="#d9c8b2" stroke-width="2"/>
+  <text x="54" y="78" font-family="system-ui,sans-serif" font-size="31" font-weight="750" fill="#382c26">Flour is always the 100% baseline</text>
+  <text x="54" y="113" font-family="system-ui,sans-serif" font-size="18" fill="#6d5848">Each percentage compares that ingredient’s weight with the flour weight.</text>
+  <rect x="48" y="145" width="904" height="58" rx="13" fill="#47372f"/>
+  <text x="71" y="182" font-family="system-ui,sans-serif" font-size="19" font-weight="700" fill="#fffaf2">INGREDIENT</text>
+  <text x="405" y="182" font-family="system-ui,sans-serif" font-size="19" font-weight="700" fill="#fffaf2">ORIGINAL</text>
+  <text x="617" y="182" font-family="system-ui,sans-serif" font-size="19" font-weight="700" fill="#fffaf2">BAKER’S %</text>
+  <text x="815" y="182" font-family="system-ui,sans-serif" font-size="19" font-weight="700" fill="#fffaf2">SCALED</text>
+  <g font-family="system-ui,sans-serif" font-size="23" fill="#382c26">
+    <rect x="48" y="207" width="904" height="58" rx="10" fill="#f2d8ad"/>
+    <text x="72" y="244" font-weight="700">Flour</text><text x="404" y="244">500 g</text><text x="642" y="244" font-weight="750">100%</text><text x="817" y="244">800 g</text>
+    <rect x="48" y="270" width="904" height="58" rx="10" fill="#e9eee9"/>
+    <text x="72" y="307">Water</text><text x="404" y="307">325 g</text><text x="642" y="307" font-weight="700">65%</text><text x="817" y="307">520 g</text>
+    <rect x="48" y="333" width="904" height="58" rx="10" fill="#f3eee7"/>
+    <text x="72" y="370">Salt</text><text x="404" y="370">10 g</text><text x="642" y="370" font-weight="700">2%</text><text x="817" y="370">16 g</text>
+    <rect x="48" y="396" width="904" height="58" rx="10" fill="#f3eee7"/>
+    <text x="72" y="433">Yeast</text><text x="404" y="433">5 g</text><text x="642" y="433" font-weight="700">1%</text><text x="817" y="433">8 g</text>
+  </g>
+  <rect x="48" y="472" width="904" height="56" rx="12" fill="#f6e9d3"/>
+  <text x="70" y="507" font-family="system-ui,sans-serif" font-size="21" font-weight="700" fill="#4d372b">Total dough: 840 g</text>
+  <text x="489" y="507" font-family="system-ui,sans-serif" font-size="20" font-weight="750" fill="#9b5917">168% of flour</text>
+  <text x="790" y="507" font-family="system-ui,sans-serif" font-size="21" font-weight="700" fill="#4d372b">1,344 g</text>
+</svg>

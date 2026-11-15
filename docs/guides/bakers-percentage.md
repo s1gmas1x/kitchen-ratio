@@ -87,6 +87,13 @@ The baker's percentages are:
 
 That same ratio still works if you scale flour up or down. The percentages stay fixed while the gram weights move.
 
+<figure>
+  <img src="/images/guides/bakers-percentage-scaling.svg" alt="Baker's percentage table: 500 g flour is 100%, 325 g water is 65%, 10 g salt is 2%, and 5 g yeast is 1%. With 800 g flour, the same percentages yield 520 g water, 16 g salt, and 8 g yeast. The percentages total 168% of flour." width="1000" height="570" loading="lazy" />
+  <figcaption><strong>Scale the flour, keep the ratios.</strong> The original 840 g dough becomes 1,344 g when flour rises from 500 g to 800 g; 168% is the sum relative to flour, not a pie-chart share.</figcaption>
+</figure>
+
+For a step-by-step way to enter an existing formula, see [Convert Recipes with the Calculator](/guides/calculator-for-recipes).
+
 ## Why It Matters
 - **Scale fast**: set the ratio, change the flour, and everything follows.  
 - **Compare recipes**: two doughs can be compared by percentage instead of batch size.  
