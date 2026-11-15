@@ -72,6 +72,11 @@ In the KitchenRatio calculator, preferments live in **Advanced → Preferments**
 - **Choose biga** when you want more structure, more chew, and a drier, firmer feel during mixing.
 - **Choose pâte fermentée** when you are repeating the same dough often and want a lower-fuss carryover workflow.
 
+<figure>
+  <img src="/images/guides/preferments/three-styles.webp" alt="Mature poolish bubbles and drips from a spoon, biga is a stiff irregular aerated mass, and a small smooth piece of old dough rests in a covered container." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Wet poolish, stiff biga, saved old dough.</strong> Poolish and biga are calculator options. Pâte fermentée is held back from a finished dough and handled manually for now.</figcaption>
+</figure>
+
 ## Other Preferment Style (Not in Calculator Yet)
 
 ### Pate fermentee (Pâte fermentée)
@@ -159,7 +164,7 @@ Typical timing:
 Signs it is ready:
 - Surface is bubbly and aerated.
 - Smell is sweet and fermented, not harsh.
-- Top is near peak or just starting to recede.
+- Top is near peak or just starting to recede. Compare the broader rise and collapse cues in the [fermentation guide](/guides/fermentation).
 
 ## How to Make Biga
 
