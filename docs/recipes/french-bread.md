@@ -115,18 +115,18 @@ This batch makes one medium loaf or two smaller loaves.
 ### 5. Proofing
 - Let dough proof until slightly puffy and relaxed. The [fermentation guide](/guides/fermentation) explains why the dough's feel and expansion matter more than the clock.
 
-### 6. Scoring & Spritzing
+### 6. Scoring
 - Score with a sharp blade at a shallow angle (a bread lame like this <AffiliateLink product-key="bread-lame">Bread Lame</AffiliateLink> works great).
-- Lightly mist with water for a crisp crust.
 
 <figure>
   <img src="/images/recipes/french-bread/score-boule.webp" alt="A bread lame makes one curved cut across a lightly floured round loaf on parchment, leaving a clean opening before baking." width="1536" height="1024" loading="lazy" />
-  <figcaption><strong>Score on parchment.</strong> Hold the blade at a shallow angle and make a confident cut before transferring the loaf to the hot pot.</figcaption>
+  <figcaption><strong>Score on parchment.</strong> Hold the blade at a shallow angle and make a confident cut before transferring the loaf to the hot pot. Spritz just before covering it.</figcaption>
 </figure>
 
 ### 7. Baking
 - Preheat a Dutch oven (or baking stone/steel, or something like this <AffiliateLink product-key="lodge-combo-cooker">Lodge Cast Iron Combo Cooker</AffiliateLink>) to **480°F (249°C)**.
-- Place dough on parchment and carefully set in Dutch oven.  
+- Place dough on parchment and carefully set it in the hot Dutch oven.  
+- Lightly spritz the loaf with water **right before putting on the lid**, then cover and return the pot to the oven.  
 - Reduce oven temperature to **440°F (227°C)**.
 - Bake covered **25 minutes**, then uncover and bake **20-25 minutes** more until golden.
 
