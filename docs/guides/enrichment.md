@@ -77,6 +77,11 @@ These enrichments can be used lightly or heavily depending on the style of dough
 
 **Examples:** hoagie rolls, sandwich loaves, brioche, enriched-style pizza doughs.
 
+<figure>
+  <img src="/images/guides/enrichment/lean-to-rich.webp" alt="Three bread cross sections progress from crusty open-crumb French bread, to a softer lightly enriched hoagie, to yellow fine-crumb brioche beside butter and eggs." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>From lean to richly enriched.</strong> Compare <a href="/recipes/french-bread">French bread</a>, a <a href="/recipes/lightly-enriched-hoagie">lightly enriched hoagie</a>, and <a href="/recipes/brioche-early-butter-cold-ferment">brioche</a>. Their crust and crumb differ, though shaping and fermentation matter too.</figcaption>
+</figure>
+
 ## Related Guides
 <div class="content-section">
 
