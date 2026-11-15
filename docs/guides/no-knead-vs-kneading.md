@@ -53,6 +53,11 @@ Both methods can produce excellent bread. The real question is not "which is bet
   </div>
 </div>
 
+<figure>
+  <img src="/images/guides/no-knead-vs-kneading/time-vs-mixer.webp" alt="A covered bowl and gentle dough fold sit beside a clock on the no-knead side; a stand mixer develops dough on the kneading side, with cohesive dough shown from each method." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Time and folds, or direct mixing.</strong> No-knead dough gains strength through rest and occasional folds; kneading builds it sooner. A mixer is one way to knead, and either approach can make good bread.</figcaption>
+</figure>
+
 ## Why No-Knead Works
 
 No-knead works because time can do much of the mixing work.
@@ -82,7 +87,7 @@ No-knead is a strong fit when:
 - You want less hands-on mixing and easier workflow  
 - You are comfortable using folds to build strength
 
-Pair this with [Folding](/guides/folding) for the practical steps.
+Pair this with [Folding](/guides/folding) for the practical steps, or see the [French bread recipe](/recipes/french-bread) for an overnight example.
 
 ## When to Choose Kneading
 
@@ -92,6 +97,8 @@ Kneading is often better when:
 - Hydration is low and dough feels tight  
 - You need cleaner shaping and stronger early structure  
 - Dough includes ingredients that benefit from mechanical development
+
+The [brioche recipe](/recipes/brioche-early-butter-cold-ferment) is an example where mixer development and gradual butter addition give the dough structure before the cold rest.
 
 ## Practical Rule of Thumb
 
