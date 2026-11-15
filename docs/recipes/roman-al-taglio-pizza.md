@@ -96,7 +96,7 @@ This batch works well for one 10x14-inch tray or similar surface area.
 ### 2. Strength Through Folds
 - Rest 20-30 minutes, then perform first fold.
 - Repeat for **2-3 folds total** during the first 90 minutes.
-- Dough should gain structure while staying soft and mobile.
+- Dough should gain structure while staying soft and mobile. Use the [illustrated folding guide](/guides/folding#first-fold) for a gentle bowl fold.
 
 ### 3. Cold Fermentation
 - Cover and refrigerate for **24-72 hours**.
@@ -108,13 +108,23 @@ This batch works well for one 10x14-inch tray or similar surface area.
 - Transfer dough and stretch gently with oiled hands.
 - If it fights back, rest 10 minutes and continue.
 
+<figure>
+  <img src="/images/recipes/roman-al-taglio/fold-to-tray.webp" alt="Aerated wet dough holds soft folds in a glass bowl; oiled hands gently transfer and stretch it into a shallow oiled rectangular tray." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Keep the wet dough airy.</strong> Oil your hands and tray, then stretch gently. Let it rest if it pulls back instead of forcing it into the corners.</figcaption>
+</figure>
+
 ### 5. Final Proof in Pan
 - Proof until visibly airy and jiggly, usually **1.5-3 hours** depending on room temp.
-- Dimple lightly to even thickness without crushing the structure.
+- Dimple lightly to even thickness without crushing the structure. Compare the [fermentation guide](/guides/fermentation) for expansion and gas cues.
 
 ### 6. Optional Parbake Path
 - Parbake at **500-550F** for **5-8 minutes** if you want a stronger base before topping.
 - Cool briefly, top, then finish bake.
+
+<figure>
+  <img src="/images/recipes/roman-al-taglio/proof-parbake.webp" alt="Oiled fingertips make light dimples in airy tray dough; an optional parbaked base is pale golden and set enough to lift before topping." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Dimple lightly; parbake only if needed.</strong> The optional first bake sets the airy base before toppings. It is still pale at this stage.</figcaption>
+</figure>
 
 ### 7. Final Bake
 - Bake at **500-550F** until bottom is crisp and top is well set.
@@ -123,6 +133,11 @@ This batch works well for one 10x14-inch tray or similar surface area.
 ### 8. Cool and Cut
 - Rest on a rack for 3-5 minutes.
 - Slice into squares or strips.
+
+<figure>
+  <img src="/images/recipes/roman-al-taglio/crisp-open-crumb.webp" alt="A rectangular slice of Roman tray pizza is lifted on a peel to reveal an open airy crumb above a thin deeply golden crisp underside." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Check the underside and cut edge.</strong> Look for a crisp golden base under the light open crumb, then rest the pizza briefly on a rack before slicing.</figcaption>
+</figure>
 
 ## Handling Rules That Matter
 
