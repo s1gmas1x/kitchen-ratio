@@ -77,6 +77,11 @@ Its job is simple: finish gas development without losing structure.
 - **Lift test**: shaped pieces feel airy for their size
 - **Visual test**: clear expansion without tearing or collapse
 
+<figure>
+  <img src="/images/guides/proofing/finger-dent.webp" alt="Three shaped dough rounds after a fingertip is lifted away: the first springs back nearly flat, the second retains a shallow dent, and the third stays deeply indented and spreads." width="1536" height="1024" loading="lazy" />
+  <figcaption><strong>Read the dent after your finger lifts away.</strong> Left: fast rebound means more proofing. Center: slow partial rebound is close to ready. Right: a lasting deep dent and weak shape suggest over-proofing. Use this with the dough's expansion and feel.</figcaption>
+</figure>
+
 ## Under vs Over Proofing
 
 - **Under-proofed**:
