@@ -98,7 +98,7 @@ Kneading is often better when:
 - You need cleaner shaping and stronger early structure  
 - Dough includes ingredients that benefit from mechanical development
 
-The [brioche recipe](/recipes/brioche-early-butter-cold-ferment) is an example where mixer development and gradual butter addition give the dough structure before the cold rest.
+For the bench motion and readiness cues, see the [illustrated Hand Kneading guide](/guides/hand-kneading). The [brioche recipe](/recipes/brioche-early-butter-cold-ferment) is an example where mixer development and gradual butter addition give the dough structure before the cold rest.
 
 ## Practical Rule of Thumb
 
@@ -128,6 +128,7 @@ For hydration context, see [Hydration](/guides/hydration).
 <div class="content-section">
 
 - [Folding](/guides/folding)
+- [Hand Kneading](/guides/hand-kneading)
 - [Fermentation](/guides/fermentation)
 - [French Bread](/recipes/french-bread)
 
