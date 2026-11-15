@@ -119,6 +119,7 @@ export default defineConfig({
         { text: 'Preferments', link: '/guides/preferments' },
         { text: 'Scalds', link: '/guides/scalds' },
         { text: 'No-Knead vs Kneading', link: '/guides/no-knead-vs-kneading' },
+        { text: 'Hand Kneading', link: '/guides/hand-kneading' },
         { text: 'Folding', link: '/guides/folding' }
       ]
     },

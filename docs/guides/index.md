@@ -57,6 +57,7 @@ Start with the calculator and core concepts if you are new. Move into techniques
 - [Preferments](/guides/preferments)
 - [Scalds](/guides/scalds)
 - [No-Knead vs Kneading](/guides/no-knead-vs-kneading)
+- [Hand Kneading](/guides/hand-kneading)
 - [Folding](/guides/folding)
 
 </div>
